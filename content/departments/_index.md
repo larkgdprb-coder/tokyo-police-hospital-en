@@ -6,44 +6,41 @@ weight: 1
 
 ## Clinical Departments
 
-Tokyo Police Hospital has **30 clinical departments** covering a comprehensive range of medical specialties.
+Tokyo Police Hospital has clinical departments covering a comprehensive range of medical specialties.
 
-| # | Department |
+> **Note:** Individual department pages are in Japanese. Click a department name to view details on the Japanese site.
+
+| Department | Link |
 |---|---|
-| 1 | Internal Medicine |
-| 2 | Respiratory Medicine |
-| 3 | Gastroenterology |
-| 4 | Hematology |
-| 5 | Endocrinology & Metabolism |
-| 6 | Rheumatology & Collagen Disease |
-| 7 | Cardiology |
-| 8 | Neurology |
-| 9 | Kidney (Nephrology) |
-| 10 | Psychiatry |
-| 11 | Surgery (General & Gastrointestinal) |
-| 12 | Breast Surgery |
-| 13 | Cardiovascular Surgery |
-| 14 | Thoracic Surgery |
-| 15 | Pediatric Surgery |
-| 16 | Orthopedics |
-| 17 | Neurosurgery |
-| 18 | Urology |
-| 19 | Obstetrics & Gynecology |
-| 20 | Pediatrics |
-| 21 | Ophthalmology |
-| 22 | Otolaryngology (Ear, Nose & Throat) |
-| 23 | Dermatology |
-| 24 | Radiation Oncology |
-| 25 | Anesthesiology |
-| 26 | Pathology |
-| 27 | Emergency Medicine |
-| 28 | Dentistry & Oral Surgery |
-| 29 | Plastic Surgery |
-| 30 | Rehabilitation Medicine |
+| General Internal Medicine | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/naika/) |
+| Neurology | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/nou-naika/) |
+| Respiratory Medicine | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/kokyuki/) |
+| Gastroenterology | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/syoukaki/) |
+| Cardiology | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/junkanki/) |
+| Nephrology & Metabolism | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/jintaisya/) |
+| Hematology | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/ketsueki/) |
+| Rheumatology & Collagen Disease | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/riumati/) |
+| Psychiatry | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/sinkei/) |
+| Pediatrics | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/syouni/) |
+| Surgery (General & Gastrointestinal) | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/geka/) |
+| Orthopedic Surgery | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/seikei/) |
+| Plastic & Aesthetic Surgery | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/keisei/) |
+| Neurosurgery | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/nousinkei/) |
+| Cerebrovascular Intervention | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/noukekkan/) |
+| Dermatology | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/hihu/) |
+| Urology | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/hinyou/) |
+| Obstetrics & Gynecology | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/sanhu/) |
+| Ophthalmology | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/ganka/) |
+| Otolaryngology (Ear, Nose & Throat) | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/jibi/) |
+| Emergency & Critical Care Medicine | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/kyukyu/) |
+| Rehabilitation Medicine | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/rihabiri/) |
+| Radiology | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/housyasen/) |
+| Anesthesiology | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/masui/) |
+| Pathology | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/byouri/) |
 
 ## Specialized Centers
 
-Our **10 specialized centers** bring together multidisciplinary teams to provide integrated care for specific conditions:
+Our specialized centers bring together multidisciplinary teams for integrated care:
 
 | Center | Description |
 |---|---|
@@ -60,8 +57,6 @@ Our **10 specialized centers** bring together multidisciplinary teams to provide
 
 ## Medical Technology Departments
 
-Our medical technology team supports diagnosis and treatment across all departments:
-
 - **Clinical Laboratory**
 - **Radiology / Imaging**
 - **Pathology Laboratory**
@@ -72,8 +67,4 @@ Our medical technology team supports diagnosis and treatment across all departme
 - **Medical Records**
 - **Nursing**
 
-## About Our Departments
-
-Each department is staffed by board-certified specialists with expertise in their respective fields. We actively pursue accreditation from major medical societies and maintain continuous education programs for our medical staff.
-
-For questions about a specific department, please call our main reception at **03-5343-5611** or contact the Medical Liaison Office at **03-5343-5760**.
+For questions about a specific department, please call **03-5343-5611** or contact the Medical Liaison Office at **03-5343-5760**.
