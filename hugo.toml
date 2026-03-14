@@ -1,0 +1,71 @@
+# Tokyo Police Hospital - English Website
+# Hugo Configuration File
+#
+# IMPORTANT: Update baseURL before deploying to GitHub Pages.
+# Format: "https://<your-github-username>.github.io/<repository-name>/"
+# Example: "https://tokyo-police-hospital.github.io/tokyo-police-hospital-en/"
+baseURL = "https://your-org.github.io/tokyo-police-hospital-en/"
+
+languageCode = "en-us"
+title = "Tokyo Police Hospital"
+defaultContentLanguage = "en"
+
+# Disable Hugo's default date-based URL structure
+[permalinks]
+  page = "/:section/:slug/"
+
+[params]
+  hospitalName = "Tokyo Police Hospital"
+  address = "4-22-1 Nakano, Nakano-ku, Tokyo 164-8541"
+  phone = "03-5343-5611"
+  fax = "03-5343-5612"
+  outpatientHours = "Mon–Sat 8:00–11:30 / 12:30–16:00"
+  clinicHours = "Mon–Sat 8:30–12:00 / 13:00–16:30"
+  closedDays = "Sundays, Public Holidays, Year-end/New Year (Dec 29 – Jan 3)"
+  emergencyPhone = "03-5343-5611"
+  description = "Tokyo Police Hospital provides quality medical care for police officers and the local community in Nakano, Tokyo."
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Outpatient"
+    url = "/outpatient/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Departments"
+    url = "/departments/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Hospitalization"
+    url = "/hospitalization/"
+    weight = 4
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Support"
+    url = "/support/"
+    weight = 6
+
+  [[menu.main]]
+    name = "Access"
+    url = "/access/"
+    weight = 7
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2

@@ -1,0 +1,83 @@
+{{ define "main" }}
+<div class="page-header">
+  <div class="container">
+    <!-- Breadcrumb -->
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <ol class="breadcrumb-list">
+        <li class="breadcrumb-item"><a href="{{ "/" | relURL }}">Home</a></li>
+        {{ if not .IsHome }}
+          {{ if .Parent }}
+            {{ if not .Parent.IsHome }}
+              <li class="breadcrumb-item"><a href="{{ .Parent.Permalink }}">{{ .Parent.Title }}</a></li>
+            {{ end }}
+          {{ end }}
+          <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
+        {{ end }}
+      </ol>
+    </nav>
+    <h1 class="page-title">{{ .Title }}</h1>
+    {{ with .Description }}<p class="page-description">{{ . }}</p>{{ end }}
+  </div>
+</div>
+
+<div class="container page-content-wrapper">
+  <div class="page-layout">
+
+    <!-- Sidebar -->
+    <aside class="page-sidebar">
+      {{ if .Pages }}
+        <div class="sidebar-nav-card">
+          <h3 class="sidebar-nav-title">{{ .Title }}</h3>
+          <ul class="sidebar-nav-list">
+            {{ range .Pages.ByWeight }}
+              <li class="sidebar-nav-item">
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </li>
+            {{ end }}
+          </ul>
+        </div>
+      {{ end }}
+
+      <div class="sidebar-info-card">
+        <h4>Contact Us</h4>
+        <p>Main Reception</p>
+        <p class="sidebar-phone">
+          <a href="tel:03-5343-5611">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 8.8 19.79 19.79 0 01.01 2.22 2 2 0 012 .04h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 7.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 14.92v2z"/>
+            </svg>
+            03-5343-5611
+          </a>
+        </p>
+        <p class="sidebar-hours">Mon–Sat 8:00–16:00</p>
+      </div>
+    </aside>
+
+    <!-- Main Content -->
+    <div class="page-body">
+      <!-- Section intro content (from _index.md) -->
+      {{ if .Content }}
+        <div class="page-content section-intro">
+          {{ .Content }}
+        </div>
+      {{ end }}
+
+      <!-- Subpages list -->
+      {{ if .Pages }}
+        <div class="subpages-grid">
+          {{ range .Pages.ByWeight }}
+            <a href="{{ .Permalink }}" class="subpage-card">
+              <div class="subpage-card-content">
+                <h3 class="subpage-title">{{ .Title }}</h3>
+                {{ with .Description }}<p class="subpage-desc">{{ . }}</p>{{ end }}
+              </div>
+              <span class="subpage-arrow">→</span>
+            </a>
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>
+
+  </div>
+</div>
+{{ end }}

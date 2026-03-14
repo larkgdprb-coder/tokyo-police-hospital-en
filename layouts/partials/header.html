@@ -1,0 +1,40 @@
+<header class="site-header">
+  <div class="header-top">
+    <div class="container">
+      <div class="header-top-inner">
+        <div class="header-brand">
+          <a href="{{ "/" | relURL }}" class="hospital-logo">
+            <div class="logo-icon">
+              <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                <rect width="40" height="40" rx="4" fill="#ffffff" fill-opacity="0.15"/>
+                <path d="M20 8 L20 32 M8 20 L32 20" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+              </svg>
+            </div>
+            <div class="logo-text">
+              <span class="hospital-name-en">{{ .Site.Params.hospitalName }}</span>
+              <span class="hospital-name-ja">東京警察病院</span>
+            </div>
+          </a>
+        </div>
+        <div class="header-contact">
+          <div class="contact-item emergency">
+            <span class="contact-label">Emergency / Outpatient</span>
+            <a href="tel:{{ .Site.Params.phone }}" class="contact-phone">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 8.8 19.79 19.79 0 01.01 2.22 2 2 0 012 .04h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 7.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 14.92v2z"/>
+              </svg>
+              {{ .Site.Params.phone }}
+            </a>
+          </div>
+          <div class="contact-item hours">
+            <span class="contact-label">Reception Hours</span>
+            <span class="contact-value">{{ .Site.Params.outpatientHours }}</span>
+          </div>
+          <div class="header-lang">
+            <a href="https://www.keishicho-hospital.jp/" class="lang-link" target="_blank" rel="noopener noreferrer" title="Japanese site">日本語</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>

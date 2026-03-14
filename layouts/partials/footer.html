@@ -1,0 +1,95 @@
+<footer class="site-footer">
+  <div class="footer-main">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-col footer-about">
+          <h3 class="footer-heading">Tokyo Police Hospital</h3>
+          <p class="footer-tagline">Quality medical care for police officers<br>and the local community</p>
+          <address class="footer-address">
+            <p>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/>
+              </svg>
+              {{ .Site.Params.address }}
+            </p>
+            <p>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 8.8 19.79 19.79 0 01.01 2.22 2 2 0 012 .04h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 7.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 14.92v2z"/>
+              </svg>
+              <a href="tel:{{ .Site.Params.phone }}">{{ .Site.Params.phone }}</a>
+            </p>
+            <p>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/>
+              </svg>
+              Fax: {{ .Site.Params.fax }}
+            </p>
+          </address>
+        </div>
+
+        <div class="footer-col">
+          <h3 class="footer-heading">Outpatient &amp; Hospitalization</h3>
+          <ul class="footer-links">
+            <li><a href="{{ "/outpatient/" | relURL }}">Outpatient Information</a></li>
+            <li><a href="{{ "/outpatient/first-visit/" | relURL }}">First Visit</a></li>
+            <li><a href="{{ "/outpatient/referral/" | relURL }}">Referral Letter</a></li>
+            <li><a href="{{ "/hospitalization/" | relURL }}">Hospitalization</a></li>
+            <li><a href="{{ "/hospitalization/rooms/" | relURL }}">Room Types &amp; Fees</a></li>
+            <li><a href="{{ "/hospitalization/visit/" | relURL }}">Visiting Rules</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-col">
+          <h3 class="footer-heading">Hospital Information</h3>
+          <ul class="footer-links">
+            <li><a href="{{ "/departments/" | relURL }}">Departments</a></li>
+            <li><a href="{{ "/about/greeting/" | relURL }}">Director's Message</a></li>
+            <li><a href="{{ "/about/philosophy/" | relURL }}">Mission &amp; Philosophy</a></li>
+            <li><a href="{{ "/about/facilities/" | relURL }}">Facilities</a></li>
+            <li><a href="{{ "/support/second-opinion/" | relURL }}">Second Opinion</a></li>
+            <li><a href="{{ "/support/faq/" | relURL }}">FAQ</a></li>
+            <li><a href="{{ "/access/" | relURL }}">Access &amp; Map</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-col">
+          <h3 class="footer-heading">Reception Hours</h3>
+          <table class="footer-hours-table">
+            <tbody>
+              <tr>
+                <th>Reception</th>
+                <td>Mon–Sat<br>8:00–11:30<br>12:30–16:00</td>
+              </tr>
+              <tr>
+                <th>Clinic</th>
+                <td>Mon–Sat<br>8:30–12:00<br>13:00–16:30</td>
+              </tr>
+              <tr>
+                <th>Closed</th>
+                <td>Sun, Holidays<br>Dec 29 – Jan 3</td>
+              </tr>
+            </tbody>
+          </table>
+          <p class="footer-emergency">
+            <strong>Emergency:</strong>
+            <a href="tel:{{ .Site.Params.emergencyPhone }}">{{ .Site.Params.emergencyPhone }}</a>
+            <span class="badge-24h">24/7</span>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container">
+      <div class="footer-bottom-inner">
+        <p class="copyright">&copy; {{ now.Year }} Tokyo Police Hospital (東京警察病院). All rights reserved.</p>
+        <nav class="footer-legal-nav" aria-label="Legal navigation">
+          <a href="{{ "/privacy/" | relURL }}">Privacy Policy</a>
+          <a href="{{ "/about/disclosure/" | relURL }}">Disclosure</a>
+          <a href="https://www.keishicho-hospital.jp/" target="_blank" rel="noopener noreferrer">Japanese Site</a>
+        </nav>
+      </div>
+    </div>
+  </div>
+</footer>

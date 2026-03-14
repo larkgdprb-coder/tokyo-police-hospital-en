@@ -1,0 +1,111 @@
+<nav class="site-nav" aria-label="Main navigation">
+  <div class="container">
+    <button class="nav-toggle" id="navToggle" aria-expanded="false" aria-controls="mainMenu" aria-label="Toggle navigation menu">
+      <span class="hamburger-line"></span>
+      <span class="hamburger-line"></span>
+      <span class="hamburger-line"></span>
+    </button>
+    <ul class="nav-menu" id="mainMenu" role="menubar">
+      <li class="nav-item {{ if eq .Section "" }}{{ if .IsHome }}active{{ end }}{{ end }}" role="none">
+        <a href="{{ "/" | relURL }}" class="nav-link" role="menuitem">Home</a>
+      </li>
+      <li class="nav-item has-dropdown {{ if eq .Section "outpatient" }}active{{ end }}" role="none">
+        <a href="{{ "/outpatient/" | relURL }}" class="nav-link" role="menuitem" aria-haspopup="true" aria-expanded="false">
+          Outpatient
+          <svg class="dropdown-arrow" width="10" height="6" viewBox="0 0 10 6" fill="none" aria-hidden="true">
+            <path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+          </svg>
+        </a>
+        <ul class="dropdown-menu" role="menu">
+          <li role="none"><a href="{{ "/outpatient/" | relURL }}" role="menuitem">Outpatient Overview</a></li>
+          <li role="none"><a href="{{ "/outpatient/first-visit/" | relURL }}" role="menuitem">First Visit</a></li>
+          <li role="none"><a href="{{ "/outpatient/revisit/" | relURL }}" role="menuitem">Repeat Visit</a></li>
+          <li role="none"><a href="{{ "/outpatient/referral/" | relURL }}" role="menuitem">Referral Letter</a></li>
+          <li role="none"><a href="{{ "/outpatient/referral-center/" | relURL }}" role="menuitem">Referral Center</a></li>
+          <li role="none"><a href="{{ "/outpatient/medication/" | relURL }}" role="menuitem">Medication</a></li>
+        </ul>
+      </li>
+      <li class="nav-item {{ if eq .Section "departments" }}active{{ end }}" role="none">
+        <a href="{{ "/departments/" | relURL }}" class="nav-link" role="menuitem">Departments</a>
+      </li>
+      <li class="nav-item has-dropdown {{ if eq .Section "hospitalization" }}active{{ end }}" role="none">
+        <a href="{{ "/hospitalization/" | relURL }}" class="nav-link" role="menuitem" aria-haspopup="true" aria-expanded="false">
+          Hospitalization
+          <svg class="dropdown-arrow" width="10" height="6" viewBox="0 0 10 6" fill="none" aria-hidden="true">
+            <path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+          </svg>
+        </a>
+        <ul class="dropdown-menu" role="menu">
+          <li role="none"><a href="{{ "/hospitalization/" | relURL }}" role="menuitem">Overview</a></li>
+          <li role="none"><a href="{{ "/hospitalization/admission-discharge/" | relURL }}" role="menuitem">Admission &amp; Discharge</a></li>
+          <li role="none"><a href="{{ "/hospitalization/rooms/" | relURL }}" role="menuitem">Room Types &amp; Fees</a></li>
+          <li role="none"><a href="{{ "/hospitalization/daily-life/" | relURL }}" role="menuitem">Daily Life</a></li>
+          <li role="none"><a href="{{ "/hospitalization/visit/" | relURL }}" role="menuitem">Visiting Rules</a></li>
+          <li role="none"><a href="{{ "/hospitalization/mail/" | relURL }}" role="menuitem">Get Well Email</a></li>
+          <li role="none"><a href="{{ "/hospitalization/dpc/" | relURL }}" role="menuitem">DPC Payment</a></li>
+        </ul>
+      </li>
+      <li class="nav-item has-dropdown {{ if eq .Section "about" }}active{{ end }}" role="none">
+        <a href="{{ "/about/" | relURL }}" class="nav-link" role="menuitem" aria-haspopup="true" aria-expanded="false">
+          About
+          <svg class="dropdown-arrow" width="10" height="6" viewBox="0 0 10 6" fill="none" aria-hidden="true">
+            <path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+          </svg>
+        </a>
+        <ul class="dropdown-menu" role="menu">
+          <li role="none"><a href="{{ "/about/" | relURL }}" role="menuitem">About Overview</a></li>
+          <li role="none"><a href="{{ "/about/greeting/" | relURL }}" role="menuitem">Director's Message</a></li>
+          <li role="none"><a href="{{ "/about/overview/" | relURL }}" role="menuitem">Hospital Overview</a></li>
+          <li role="none"><a href="{{ "/about/philosophy/" | relURL }}" role="menuitem">Mission &amp; Philosophy</a></li>
+          <li role="none"><a href="{{ "/about/facilities/" | relURL }}" role="menuitem">Facilities</a></li>
+          <li role="none"><a href="{{ "/about/medical-equipment/" | relURL }}" role="menuitem">Medical Equipment</a></li>
+          <li role="none"><a href="{{ "/about/accreditations/" | relURL }}" role="menuitem">Accreditations</a></li>
+          <li role="none"><a href="{{ "/about/patient-rights/" | relURL }}" role="menuitem">Patient Rights</a></li>
+          <li role="none"><a href="{{ "/about/statistics/" | relURL }}" role="menuitem">Hospital Statistics</a></li>
+        </ul>
+      </li>
+      <li class="nav-item has-dropdown {{ if eq .Section "support" }}active{{ end }}" role="none">
+        <a href="{{ "/support/" | relURL }}" class="nav-link" role="menuitem" aria-haspopup="true" aria-expanded="false">
+          Support
+          <svg class="dropdown-arrow" width="10" height="6" viewBox="0 0 10 6" fill="none" aria-hidden="true">
+            <path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+          </svg>
+        </a>
+        <ul class="dropdown-menu" role="menu">
+          <li role="none"><a href="{{ "/support/" | relURL }}" role="menuitem">Support Overview</a></li>
+          <li role="none"><a href="{{ "/support/second-opinion/" | relURL }}" role="menuitem">Second Opinion</a></li>
+          <li role="none"><a href="{{ "/support/welfare/" | relURL }}" role="menuitem">Medical Social Work</a></li>
+          <li role="none"><a href="{{ "/support/nutrition/" | relURL }}" role="menuitem">Nutrition Counseling</a></li>
+          <li role="none"><a href="{{ "/support/documents/" | relURL }}" role="menuitem">Medical Documents</a></li>
+          <li role="none"><a href="{{ "/support/medical-records/" | relURL }}" role="menuitem">Medical Records</a></li>
+          <li role="none"><a href="{{ "/support/support-teams/" | relURL }}" role="menuitem">Support Teams</a></li>
+          <li role="none"><a href="{{ "/support/faq/" | relURL }}" role="menuitem">FAQ</a></li>
+        </ul>
+      </li>
+      <li class="nav-item {{ if eq .RelPermalink "/access/" }}active{{ end }}" role="none">
+        <a href="{{ "/access/" | relURL }}" class="nav-link" role="menuitem">Access</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<script>
+(function() {
+  var toggle = document.getElementById('navToggle');
+  var menu = document.getElementById('mainMenu');
+  if (toggle && menu) {
+    toggle.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', !expanded);
+      menu.classList.toggle('is-open');
+    });
+  }
+  // Close menu on outside click
+  document.addEventListener('click', function(e) {
+    if (menu && toggle && !menu.contains(e.target) && !toggle.contains(e.target)) {
+      menu.classList.remove('is-open');
+      if (toggle) toggle.setAttribute('aria-expanded', 'false');
+    }
+  });
+})();
+</script>
