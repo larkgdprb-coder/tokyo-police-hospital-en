@@ -1,42 +1,24 @@
 ---
 title: "Radiology"
-description: "Diagnostic imaging and image-guided interventional procedures."
+description: "- overview"
 ---
 
-## Overview
+- overview
+- Outpatient physician list/physician introduction
+- About radiation therapy
 
-The Radiology Department provides comprehensive diagnostic imaging services and image-guided interventional procedures. Our department operates state-of-the-art imaging equipment and works closely with all clinical departments to support patient diagnosis and treatment.
+## About radiology
 
-## Imaging Services
+The radiology department is divided into a diagnostic department, a treatment department, and a nuclear medicine department. The diagnostic department mainly uses X-rays, mammography, bone density tests, CT, MRI, gastrointestinal photography, angiography, etc., while the treatment department mainly treats tumors using high-energy X-rays and sealed brachytherapy sources. The nuclear medicine department conducts examinations such as scintigraphy, SPECT, and PET.
 
-| Modality | Details |
-|---|---|
-| X-ray | General radiography, fluoroscopy |
-| CT (Computed Tomography) | Including 3D reconstruction and CT angiography |
-| MRI (Magnetic Resonance Imaging) | Including functional MRI and MR angiography |
-| Ultrasound | Abdominal, thyroid, vascular, echo-guided procedures |
-| Nuclear Medicine | Bone scan, thyroid scan, FDG-PET-CT |
-| Mammography | Digital mammography and breast tomosynthesis |
-| Angiography | Diagnostic and interventional |
+## Main diseases diagnosed in the radiology department
 
-## Interventional Radiology
+In the radiology department, we perform image tests and radiotherapy for patients requested or referred from various departments within the hospital or other medical facilities. We also conduct tests for people undergoing health checkups and medical checkups. Therefore, we treat a wide variety of diseases.
 
-- Transcatheter arterial embolization (TAE/TACE)
-- Percutaneous drainage procedures
-- Biopsy under CT or ultrasound guidance
-- Radiofrequency ablation (RFA) for liver tumors
+## Treatment contents and characteristics
 
-## Radiation Therapy
+In order to quickly provide high-quality medical treatment, we are equipped with the latest equipment such as multi-row detector (320 rows) CT, high magnetic field (3T) MRI, biplane flat panel angiography equipment, digital mammography equipment, and high-precision radiotherapy equipment, and provide medical care under the supervision and guidance of specialists.
 
-Our Radiation Therapy Center provides:
-- External beam radiotherapy (LINAC)
-- Stereotactic radiosurgery
-- Brachytherapy
+In the diagnostic department, we not only simply take X-rays (X-rays), CT, MRI, etc., but also have diagnostic radiology specialists examine the patient's images and create a report. In addition, various procedures and treatments are performed under X-ray fluoroscopy by doctors from various departments.
 
-## How to Access Imaging
-
-Imaging studies require a physician's order. Please bring your referral and insurance card to the Radiology reception on the day of your examination.
-
-## Contact
-
-**Main Reception:** 03-5343-5611
+Radiation therapy is mainly used for tumors. Unlike surgery, the treatment does not involve cutting the lesion, so the physical burden on the patient is light, and it also has the advantage of preserving beauty and function. In the treatment department, radiotherapy specialists create a radiotherapy plan tailored to each patient's condition.

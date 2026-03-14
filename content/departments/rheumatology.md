@@ -1,37 +1,19 @@
 ---
 title: "Rheumatology & Collagen Disease"
-description: "Diagnosis and treatment of autoimmune diseases, arthritis, and connective tissue disorders."
+description: "- overview"
 ---
 
-## Overview
+- overview
+- Outpatient physician list/physician introduction
 
-The Rheumatology & Collagen Disease Department specializes in autoimmune and inflammatory diseases affecting the joints, muscles, and connective tissues. We provide both outpatient and inpatient care for patients with complex rheumatic conditions.
+## About collagen disease rheumatology
 
-## Key Services
+Our department specializes in rheumatic diseases, including collagen diseases, which are autoimmune diseases. As a result of advancements in diagnosis and treatment known as a "paradigm shift" in rheumatoid arthritis, a typical rheumatic disease, many patients are now in remission (a state in which the disease is completely suppressed), and in some cases, it is even possible to expect a cure. Rheumatic diseases are not only joint symptoms, but also systemic diseases that affect other organs. Our department provides total management of rheumatic diseases in collaboration with other clinical departments.
 
-- Diagnosis and management of rheumatoid arthritis and autoimmune arthritis
-- Treatment of systemic lupus erythematosus (SLE) and vasculitis
-- Biologics and disease-modifying therapy (DMARDs)
-- Management of inflammatory muscle diseases
+## Main diseases treated in collagen disease rheumatology department
 
-## Clinical Focus
+Rheumatoid arthritis, systemic lupus erythematosus, scleroderma, dermatomyositis/polymyositis, polyarteritis nodosa, microscopic polyarteritis, aortitis syndrome, temporal arteritis, granulomatosis with polyangiitis, eosinophilic granulomatosis with polyangiitis, mixed tuberculosis. Synthetic histopathy, ankylosing spondylitis, reactive arthritis, psoriatic arthritis, antiphospholipid antibody syndrome, gout/pseudogout, systemic osteoarthritis, Sjögren's syndrome, adult Still's disease, polymyalgia rheumatica, Behcet's disease, IgG4-related diseases
 
-- Rheumatoid arthritis
-- Systemic lupus erythematosus (SLE)
-- Sjögren's syndrome
-- Polymyositis and dermatomyositis
-- Systemic sclerosis (scleroderma)
-- Vasculitis (ANCA-associated and other types)
-- Gout and crystal arthropathy
-- Osteoarthritis and joint pain evaluation
+## Treatment contents and characteristics
 
-## Outpatient Hours
-
-| | Hours |
-|---|---|
-| Morning Reception | 8:00 – 11:30 |
-| Afternoon Reception | 12:30 – 16:00 (by appointment) |
-
-## Contact
-
-**Main Reception:** 03-5343-5611
+The symptoms that lead to a visit to our department are joint pain and joint swelling. In addition, skin symptoms such as morning stiffness of the hands, persistent fever, Raynaud's phenomenon (hands and fingers turning white or purple due to cold stimulation), dry eyes and mouth, muscle pain and weakness in the upper and lower limbs, and facial erythema are also symptoms that may suggest a rheumatic disease. The most common disease in our department is rheumatoid arthritis. Rheumatoid arthritis is a disease characterized by multiple joint pain, joint swelling, and progressive bone destruction. The pathology is synovitis caused by an immune abnormality, and treatment focuses on controlling inflammation and correcting the immune abnormality. Our department does our best to diagnose your condition on the same day you arrive. When rheumatoid arthritis is diagnosed, oral anti-rheumatic drugs, mainly methotrexate, are started. Oral antirheumatic drugs may take 1 to 3 months to take effect, so non-steroidal anti-inflammatory drugs or small doses of steroids may be required in the meantime. If antirheumatic drugs are not sufficiently effective and progressive bone destruction is expected, we proactively administer biological agents. Biological drugs are drugs that have revolutionized the treatment of rheumatoid arthritis by not only suppressing inflammation but also correcting immune abnormalities, making it possible to induce remission in many patients. Biological preparations are injectable preparations, require relatively high medical costs, and there are concerns about an increase in infectious diseases, so we take the patient's background into consideration and provide sufficient explanation before administering them. In addition, if biological drugs are insufficiently effective or difficult to use, we actively aim for remission using molecular targeted agents such as JAK inhibitors.The most important thing in rheumatoid arthritis treatment is to maintain remission and suppress bone destruction. In our clinical department, we treat patients with the goal of maintaining their daily activities as much as possible. Systemic lupus erythematosus (SLE) is a typical rheumatic disease other than rheumatoid arthritis. SLE is a systemic disease that causes various symptoms such as fever of unknown origin, facial erythema, Raynaud's phenomenon, arthralgia, renal damage such as proteinuria, central nervous system damage, and lung damage, and is characterized by the appearance of autoantibodies such as anti-DNA antibodies. Steroids have been the mainstay of treatment for SLE, but advances in immunomodulators and immunosuppressants have made it possible to reduce the dose of steroids and, in some cases, to discontinue them. Recently, effective biological agents have appeared, and a future treatment revolution is expected for SLE. Effective drugs for other rheumatic diseases such as scleroderma, inflammatory myopathy, and vasculitis syndrome have been introduced one after another, and treatment results are improving.

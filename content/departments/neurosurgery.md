@@ -1,44 +1,47 @@
 ---
 title: "Neurosurgery"
-description: "Surgical treatment of brain, spinal cord, and peripheral nerve disorders."
+description: "- overview"
 ---
 
-## Overview
+- overview
+- Outpatient physician list/physician introduction
+- Medical results
 
-The Neurosurgery Department provides surgical treatment for conditions of the brain, spinal cord, and peripheral nerves. We work closely with the Neurology and Cerebrovascular Intervention departments as part of our Stroke Center.
+## About neurosurgery
 
-## Key Services
+The Tokyo Police Hospital Neurosurgery Department was established in 1967 (Showa 42) and is one of the oldest neurosurgical facilities in Tokyo. Our department has produced many neurosurgeons who hold leadership positions in Japan. Since our founding, we have always been committed to practicing the best neurosurgical care. Tokyo Police Hospital Neurosurgery is characterized by its extensive system of detailed cranial nerve function monitoring and non-invasive brain function evaluation, with the priority being preservation of cranial nerve function. By doing this, we are proceeding with treatment with the aim of reducing the surgical risks and improving the symptoms, keeping in mind that we should treat the existing symptoms in a way that does not worsen them further. Since March 2017, the Department of Cerebrovascular Treatment has become independent from Neurosurgery, and we also operate a stroke center with three departments in cooperation with Convalescent Rehabilitation. The Department of Neurosurgery is in charge of surgical operations at the Stroke Center. Please note that due to the opening of the Stroke Center, we may not be able to provide neurosurgical services during night shifts.
 
-- Brain tumor surgery
-- Craniotomy for cerebral hemorrhage and trauma
-- Spine surgery (herniated disc, spinal cord compression)
-- Peripheral nerve surgery
+- Tokyo Police Hospital Neurosurgery Homepage (External link)
 
-## Clinical Focus
+## Main diseases examined in neurosurgery
 
-- Brain tumors (meningioma, glioma, metastatic tumors)
-- Cerebral hemorrhage and subarachnoid hemorrhage (SAH)
-- Hydrocephalus treatment (VP shunting)
-- Traumatic brain injury (TBI)
-- Cervical and lumbar spine surgery
-- Carpal tunnel syndrome and peripheral nerve entrapment
-- Trigeminal neuralgia
+Tokyo Police Hospital Neurosurgery Department provides highly specialized treatment for the following diseases. Second opinions are also available by appointment. Please feel free to request a second opinion from another hospital.
 
-## Procedures
+- Benign cerebrospinal tumors: various meningiomas, acoustic nerve tumors (including hearing preservation), trigeminal schwannoma, facial nerve schwannoma, glossopharyngeal schwannoma, epidermoid cyst (epidermoid cyst), craniopharyngioma, hemangioblastoma (von Hippel-Lindau disease), choroid plexus papilloma, cavernous hemangioma, spinal schwannoma, spinal meningioma, etc.
+- Skull base tumors: meningioma, transvenous schwannoma, chordoma, chondroma/chondrosarcoma, etc.
+- Malignant brain tumors: glioma, malignant glioma, malignant meningioma, metastatic brain tumor, etc.
+- Cerebrospinal vascular disorders: unruptured cerebral aneurysm, subarachnoid hemorrhage, cerebral arteriovenous malformation, moyamoya disease, brain/spinal cord dural arteriovenous fistula, intracerebral hemorrhage, hemodynamic cerebral ischemia, etc.
+- Functional cranial nerve diseases: trigeminal neuralgia, hemifacial spasm, glossopharyngeal neuralgia, SUNCT syndrome, spasticity, idiopathic normal pressure hydrocephalus, epilepsy, etc.
+- Head injury: severe head injury, brain contusion, acute subdural/epidural hematoma, chronic subdural hematoma, depressed fracture, etc.
+- Headache: muscle contraction headache, migraine, cluster headache, other headaches, etc.
 
-- Craniotomy and tumor resection
-- Endoscopic brain surgery
-- Spinal fusion and decompression
-- Deep brain stimulation (DBS)
-- Emergency neurosurgical intervention
+For more information about the disease, please also refer to the link to the neurosurgical disease information page of the Japan Neurosurgical Society. http://square.umin.ac.jp/neuroinf/index.html
 
-## Outpatient Hours
+## Treatment details
 
-| | Hours |
-|---|---|
-| Morning Reception | 8:00 – 11:30 |
-| Afternoon Reception | 12:30 – 16:00 (by appointment) |
+The Department of Neurosurgery provides advanced neurosurgical care. All neurosurgical staff conduct rounds and conferences every day to select the best treatment method for the patient. Postoperatively, we hold surgical conferences to review all surgeries, share information, and gain experience.
 
-## Contact
+General neurosurgery outpatient services are held in the mornings on Tuesdays, Wednesdays, and Fridays. The specialized outpatient clinic is managed by the director of neurosurgery and requires reservations. We will allow sufficient time for examinations and explanations on Tuesday and Wednesday afternoons. Tuesday: Functional diseases such as brain/spinal cord tumors, trigeminal neuralgia, facial spasms, and spasticity Wednesday: Cerebral/spinal vascular disorders such as unruptured cerebral aneurysms, carotid artery stenosis, moyamoya disease, cerebral arteriovenous malformations, and cerebral/spinal dural arteriovenous fistulas, etc.
 
-**Main Reception:** 03-5343-5611
+## Main medical equipment
+
+- Brain Lab Navigation System (Surgical Navigation System)
+- Siemens SOMATOM Emotion6 (Intraoperative CT: enables evaluation of bones that cannot be examined with MRI, useful for skull base tumors)
+- ICG video angiography (intraoperative angiography: required for cerebral aneurysm and cerebral arteriovenous malformation surgery)
+- 5-ALA xenon light source for intraoperative fluorescence observation (required for surgical removal of malignant glioma)
+- Optical topography (can evaluate the dominant hemisphere non-invasively)
+- AZE medical image analysis workstation, Zio3D medical image processing workstation
+
+## Related facilities
+
+Department of Neurosurgery, University of Tokyo (This department is an educational and training facility of the Japanese Society of Neurosurgery, whose core facility is the University of Tokyo.) Department of Neurosurgery, Tokyo Medical University

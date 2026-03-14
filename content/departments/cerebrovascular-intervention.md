@@ -1,33 +1,28 @@
 ---
 title: "Cerebrovascular Intervention"
-description: "Endovascular treatment of cerebrovascular diseases including aneurysms and arteriovenous malformations."
+description: "- overview"
 ---
 
-## Overview
+- overview
+- Outpatient physician list/physician introduction
+- Medical results
 
-The Cerebrovascular Intervention Department specializes in catheter-based (endovascular) treatments for cerebrovascular diseases. As part of the Stroke Center, we work 24/7 to provide emergency and elective endovascular therapy.
+## About the Department of Cerebrovascular Treatment
 
-## Key Services
+Cerebrovascular endovascular treatment refers to treatment for brain diseases using an ultra-fine catheter (a hollow, soft tube used for medical purposes). The catheter is inserted into the artery mainly from the groin (around the base of the foot) and advanced retrogradely through the large blood vessels until it reaches the cerebral blood vessels in the skull. It was originally a medical application of cerebral angiography, a test that images blood vessels in the brain using a catheter and a contrast agent.
 
-- Emergency mechanical thrombectomy for acute ischemic stroke
-- Coiling of cerebral aneurysms
-- Treatment of arteriovenous malformations (AVM)
-- Carotid artery stenting
+Since brain diseases are treated from inside the blood vessels, treatment can be performed without touching the brain during surgery, making it a brain-friendly surgical method. There is no need to make an incision on the skin of the head or cut into the skull like in traditional craniotomy. Therefore, it has advantages in terms of less invasive surgery and beauty. The length of stay in the hospital will also be shorter.
 
-## Clinical Focus
+The history of endovascular treatment dates back to the 1970s when attempts were made to insert catheters into blood vessels in the brain. Initially, it seemed difficult to insert a catheter into the brain's complex vascular structure, but with the development of superior catheters and advances in technology, it became recognized as a safe treatment method in the late 1990s.
 
-- Acute ischemic stroke — mechanical thrombectomy
-- Unruptured and ruptured cerebral aneurysms — coil embolization
-- Arteriovenous malformations (AVM) and dural arteriovenous fistula
-- Carotid artery stenosis — stenting
-- Intracranial atherosclerosis
+Among cranial nerve surgeries, endovascular treatment is an especially rapidly evolving field, and devices (equipment such as catheters and stents used for treatment) are being developed one after another. The current situation is that doctors who actually provide treatment will be left behind if they do not study hard every day. For this reason, doctors who provide treatment often require advanced techniques, and not all facilities can provide the same treatment. A medical team and medical facilities with skilled doctors are required.
 
-## Emergency Availability
+Our hospital has three specialists in cerebrovascular treatment, two of whom are certified as cerebrovascular treatment instructors, making us a unique facility in Tokyo. Therefore, we are able to provide safe and accurate surgery, and are in a position to introduce and evaluate new devices faster than anywhere else.
 
-Our team is available **24 hours a day, 7 days a week** for emergency stroke intervention. If you or someone you know is experiencing stroke symptoms, call **119** (ambulance) immediately.
+## Main diseases treated in the cerebrovascular department
 
-**Stroke symptoms:** sudden facial drooping, arm weakness, speech difficulty, sudden severe headache.
+Brain diseases treated by endovascular treatment are mainly classified into hemorrhagic diseases and ischemic diseases. Bleeding diseases include cerebral aneurysms such as subarachnoid hemorrhage, cerebral arteriovenous malformations (AVMs), and dural arteriovenous fistulas (d-AVFs). Ischemic diseases include carotid artery stenosis and acute main cerebral artery occlusion.
 
-## Contact
+Click below for detailed information on "key points to prevent stroke" and "unruptured cerebral aneurysm."
 
-**Main Reception:** 03-5343-5611
+- Points to prevent stroke and treatment of unruptured cerebral aneurysm

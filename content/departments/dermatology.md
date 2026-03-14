@@ -1,46 +1,68 @@
 ---
 title: "Dermatology"
-description: "Diagnosis and treatment of skin, hair, and nail conditions."
+description: "- overview"
 ---
 
-## Overview
+- overview
+- Outpatient physician list/physician introduction
+- Medical results
 
-The Dermatology Department diagnoses and treats a wide range of conditions affecting the skin, hair, and nails. We offer both medical and minor surgical dermatological procedures.
+## About dermatology
 
-## Key Services
+The Tokyo Police Hospital Dermatology Department is equipped with the latest diagnostic and treatment equipment and treats a wide range of skin diseases, with a focus on skin infections, as well as skin tumors, dermatitis, hives, hair loss, and nail diseases. Our motto is a rational treatment policy, and our policy is to promptly respond to tests, hospitalization, etc. as necessary. We aim to provide highly specialized diagnosis and treatment by making full use of the latest Q-switched ruby ​​lasers, phototherapy devices (narrow band UVB), microbiological tests for fungi, Wood's lamp tests, the latest microscopes, fluorescence microscopes, etc. at the right time. In addition, we are able to smoothly collaborate with other medical institutions and other departments within the hospital, share information using an electronic medical record system, and use the latest testing and diagnostic imaging systems. While we generally cover all skin diseases, we also handle highly specialized areas such as diagnosis and treatment of skin infections, alopecia, and nail diseases, male pattern hair loss with Propecia, and laser treatment for cosmetic purposes. If the microorganisms are clearly present in an outpatient setting, we use microscopes with monitors, fungal cultures, Wood's lamp tests, etc., so that we can see the microorganisms right in front of your eyes and receive explanations. In this case, we have generally received positive feedback as it deepens understanding of the disease and improves motivation. We also provide surgical treatment for large skin cancer lesions in collaboration with plastic surgeons.
 
-- Diagnosis and treatment of common and complex skin conditions
-- Skin cancer screening and biopsy
-- Patch testing for contact allergy
-- Minor surgical procedures (excision, cryotherapy)
+## Main diseases treated by dermatologists
 
-## Clinical Focus
+In the field of dermatology, we handle more than 200 disease names in daily practice, more than 500 at the specialist text level, and more than 1,000 disease names at the conference paper level. By adding pathological studies, we have distinguished over 100 types of diseases such as birthmarks (so-called moles), benign tumors, malignant tumors, and pre-cancerous conditions, so it seems that this field is more specialized than most people think. In addition, the following are representative diseases that have a high incidence of hospitalization.
 
-- Eczema (atopic dermatitis) and contact dermatitis
-- Psoriasis and chronic inflammatory skin disease
-- Urticaria (hives) and angioedema
-- Acne and rosacea
-- Skin infections (bacterial, viral, fungal)
-- Skin cancer (basal cell carcinoma, squamous cell carcinoma, melanoma)
-- Alopecia and hair loss conditions
-- Nail disorders
-- Drug reactions and Stevens-Johnson syndrome
+### shingles
 
-## Procedures
+It is a disease caused by the reactivation of the varicella-zoster virus (the same virus that causes chickenpox) that has been hiding in the nerve comb (typically the root of the nerves near the side of the spine). It is characterized by blisters distributed in a band-like manner and accompanied by pain, but care must be taken as it can easily be mistaken for an insect bite (insect bite) or a rash (contact dermatitis). Although it may be mild at first, it often causes severe pain later on, so be careful. This is a disease that requires hospitalization, especially for people with severe symptoms, those whose symptoms occur above the neck, and the elderly. There are cases in which vision loss occurs in the eyes, facial nerve paralysis, and pain that persists for more than a year, so you should never underestimate it. Therefore, early treatment is recommended. For patients up to a certain point after the onset of symptoms, the basic treatment is antiviral drugs (as a general rule, intravenous infusion for hospitalization, and oral administration for outpatient treatment).
 
-- Skin biopsy
-- Excision of skin lesions
-- Cryotherapy
-- Phototherapy (narrow-band UVB)
-- Patch testing
+### Erysipelas (streptococcal infection), cellulitis
 
-## Outpatient Hours
+It is an infection in which bacteria enter through a small wound and multiply along the fat tissue, which has a rich blood flow. The skin becomes red and swollen and you feel warm, and in severe cases, lymph nodes may swell and you may develop a fever. Cellulitis usually occurs in the lower legs, but streptococcal infection that causes shiny erythema on the face or lower legs is called erysipelas. In the case of erysipelas, long-term treatment is especially necessary because it can cause kidney damage and can become a habit and be repeated endlessly (called addictive erysipelas). If the red area gradually spreads (for example, the redness on the top of the foot spreads beyond the ankle joint to the shin), we strongly recommend that you visit a hospital. You will be hospitalized for approximately one week (longer for those with complications such as diabetes, or those with severe symptoms such as necrotizing fasciitis), and will be given intravenous antibiotics. In this case, applying ointment from the outside will not work. It is important to rest with your feet raised to the same height as your hips and to cool them down, and rest is also part of the treatment. If the response is delayed and the inflammation in the fat tissue spreads to the muscles and becomes severe, it may become life-threatening (necrotizing fasciitis, fulminant group A streptococcal infection, etc.: These are rare and serious infections, but our department has experienced them. Fortunately, there have been no deaths in our department for over 10 years.) It is important to seek medical attention as soon as possible, as the disease can develop rapidly within a few days.
 
-| | Hours |
-|---|---|
-| Morning Reception | 8:00 – 11:30 |
-| Afternoon Reception | 12:30 – 16:00 (by appointment) |
+## Treatment contents and characteristics
 
-## Contact
+Since moving from Iidabashi to Nakano in April 2008, we have been providing medical care with a somewhat different response compared to when we were in Iidabashi. So what kind of changes have occurred? Let's summarize the main points.
 
-**Main Reception:** 03-5343-5611
+### 1. It has an established impression as a core hospital in the Nakano-Suginami area.
+
+Compared to Iidabashi, the Nakano-Suginami district has more open clinics, but fewer general hospitals. Thanks to you, we have already received a large number of hospitalizations in the Nakano-Suginami district, and we have generally achieved the highest number of operating results in this district. Thanks to all of you, we are already seeing a positive response from neighboring clinics who are already treating us as a core hospital.
+
+### 2. The systems of the Japanese government and the Ministry of Health, Labor and Welfare have been transformed.
+
+According to the Ministry of Health, Labor and Welfare's policy, general hospitals are required to focus on treating severe cases rather than mild cases, referred patients rather than those who come to the hospital themselves, and inpatients rather than outpatients. Therefore, while other departments are experiencing similar trends, dermatology is also required to handle cases that require hospitalization (acute infections, severe cases, surgeries, etc.), cases that do not improve at other clinics or hospitals, and diagnostic treatment using advanced medical equipment.
+
+### 3. Changes in outpatient treatment after relocation to Nakano
+
+Since our department moved to Nakano, we are now accepting reservations as a general rule. Thanks to you, we are already receiving many reservations for more than a month in advance. Furthermore, although dermatology tends to be centered around outpatient treatment in general and nationwide, we provide inpatient treatment for acute skin infections (shingles, cellulitis, erysipelas, etc.), skin tumor surgery, acute exanthema, etc. Cases that require hospitalization, surgery, etc. generally tend to take a long time for medical procedures. As a result, we do our best to respond as quickly as possible, but in situations where we are dealing with severe cases, hospitalizations, referred patients, etc., even those with reservations may be kept waiting for a considerable amount of time.We appreciate your understanding in advance. Also, we are currently accepting people without reservations, but even those with reservations tend to have to wait, so those without reservations tend to have to wait even longer, so we appreciate your understanding in advance.
+
+### 4. Regarding hospitalization
+
+Due to the above circumstances, the outpatient department is generally crowded, but we strive to provide prompt hospitalization for acute infectious diseases such as herpes zoster, cellulitis, and erysipelas (mentioned above). In cases where the patient has an acute skin infection or requires surgery, one of the goals of hospital treatment is to allow the patient to rest or rest. It may also be important to manage underlying diseases such as diabetes. In recent years, there has been a trend not only in our hospital but also nationwide, but the changes required of acute care hospitals in general are to respond to hospitalizations as quickly as possible, to have a high proportion of private rooms, and to have patients discharged from hospital as soon as possible after the acute stage has passed. Thank you for your understanding.
+
+### 5. About the diversity and everydayness of skin diseases
+
+Although it is not widely recognized in Japan, as mentioned above, skin diseases are extremely diverse, and dermatologists treat well over 500 diseases. On the other hand, everyone has a mole, and if they suspect that it is skin cancer, all of them will request to see a dermatologist.As you can see, skin diseases are very common and are seen on a daily basis. Therefore, dermatology outpatient clinics tend to be crowded at most hospitals, so we ask for your understanding.
+
+### 6. About the dermatologist system
+
+Because of the nature of treating a large number of skin diseases, the Japanese Dermatological Association, as a group of experts, has a system to certify dermatologists certified by the Japanese Dermatological Association (please refer to the Japanese Dermatological Association website). Generally, even if "dermatology" is listed as a medical department, please note that the "specialty" is often another medical department and does not necessarily mean that you are a dermatologist. There are approximately 2,000 dermatologists in Tokyo, including many practicing doctors, retired doctors, and doctors specializing in research at universities. There are fewer than 400 dermatologists working in general hospital dermatology departments in Tokyo. In our department, we have a total of four people, three dermatologists and one dermatologist affiliated with the Japanese Dermatological Association (currently preparing for qualification).
+
+### 7. Current status of dermatology treatment in Japan and comparison with other countries
+
+In Japan, there are approximately 2,000 dermatologists in Tokyo, but in the United States, there are about the same number of dermatologists covering the entire United States. In major developed countries such as the United States and the United Kingdom, it is common to wait more than two months to make an appointment with a dermatologist, and treatment fees are said to be very high. As far as I know, Japan seems to be the only developed country where you can be seen by a dermatologist on the same day even if you wait more than a few hours. However, in both foreign countries and Japan, there are many general doctors who also treat skin diseases in addition to dermatologists. The Ministry of Health, Labor and Welfare recommends that patients visit a dermatologist for serious or life-threatening skin diseases such as skin cancer, or diseases that require hospitalization, advanced tests, or judgment, and the Ministry of Health, Labor and Welfare recommends that patients bring a referral letter with them when visiting an acute care hospital, including our hospital.
+
+### 8. About medical hours
+
+Reception hours are Monday through Saturday from 8:00 a.m. to 11:30 a.m. As a general rule, reservations are required, and those with reservations are given priority. Regarding this time period, we are currently accepting people without reservations who have an urgent need, but we apologize for the inconvenience. In the afternoon, we only accept patients with reservations for special treatments such as surgeries and laser treatments. We apologize for any inconvenience this may cause to those of you who are busy. Please note that medical treatment is generally arranged in the order of reception hours, but we ask for your understanding in advance as there may be cases where treatment is given differently from the order of reception, such as for those with a rash accompanied by fever, those with a referral letter for hospitalization, or those in need of an emergency related to the police. *From September 1, 2019, we will suspend consultations for the time being for patients who have not visited our hospital for the first time and do not have a referral letter from a medical institution. We apologize for any inconvenience this may cause and appreciate your understanding.
+
+### 9. For medical institutions
+
+Our hospital has a policy of not accepting general repeat patients in the afternoon, but only accepting patients for highly specialized treatments such as inpatient treatment (anytime), surgery (generally Monday or Tuesday afternoon), laser (generally Tuesday afternoon), and phototherapy (Tuesday afternoon or any time). For patients visiting our clinic for the first time, please make a reservation through the Medical Cooperation Office. Normally, initial consultations are held in the morning (until 11:30), while patients who require specialized treatment are booked into the afternoon treatment slot at the discretion of the attending physician. Therefore, if patients are able to arrive by 11:30 a.m., we will treat them at any time. In cases such as herpes zoster or toxic eruption, which require immediate hospitalization or other specialized treatment, as determined by our affiliated physicians, we will respond as quickly as possible, so please contact the Medical Coordination Office or the dermatologist in charge in advance. However, if we are unable to respond quickly, including by phone, due to some surgeries (as a general rule, Monday afternoons), academic conferences (exceptions), conferences (occasional), etc., we will respond as usual, so we appreciate your understanding.
+
+## Medical results
+
+As mentioned above, we treat all skin diseases, but we are particularly good at treating skin infections, and in fiscal 2009, we had a track record of treating herpes zoster (118 new cases/year, 93 hospitalizations), cellulitis (88 cases/year, 29 hospitalizations), and erysipelas (31 cases/year, 25 hospitalizations). In the case of acute infectious diseases such as viral rash, our motto is to respond quickly, including hospitalization if necessary, and to provide thorough treatment. Infectious diseases, such as streptococcal infections, can be life-threatening in the most severe cases, such as fulminant group A streptococcal infections, and even in the most severe cases, they can further induce various skin diseases such as erysipelas, erythema multiforme, anaphylactoid purpura, palmoplantar pustulosis, psoriasis, and urticaria, so we aim to treat them as completely as possible. In addition, for acute skin diseases such as toxic eruptions and various chronic skin diseases, our policy is to search for and treat underlying infections as necessary, and propose treatments that lead to a complete cure. Furthermore, we handle standard dermatological surgery and aim to perform radical surgery through close collaboration with pathologists. Postoperative complications such as hematoma and postoperative infection are less than 2%, and we maintain good results. We are a Japanese Dermatological Association-certified facility that can handle new treatments for plaque psoriasis (molecular target drugs, etc.), for which therapeutic drugs have made dramatic advances in recent years, so please feel free to contact us if you are suffering from intractable psoriasis.

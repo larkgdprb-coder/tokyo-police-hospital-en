@@ -1,42 +1,50 @@
 ---
 title: "Neurology"
-description: "Diagnosis and treatment of diseases of the brain, spinal cord, peripheral nerves, and muscles."
+description: "- overview"
 ---
 
-## Overview
+- overview
+- Outpatient physician list/physician introduction
 
-The Neurology Department specializes in the diagnosis and medical treatment of diseases affecting the central and peripheral nervous system. We work closely with the Neurosurgery and Cerebrovascular Intervention departments to provide comprehensive neurological care.
+## What is neurology?
 
-## Key Services
+This is a specialized department that medically diagnoses and treats all diseases that occur in the brain, spinal cord, peripheral nerves, and muscles. We treat a wide range of diseases that involve the brain and nerves, but many patients come to our clinic complaining of the following symptoms. Headaches, dizziness, numbness, loss of consciousness, double vision, difficulty speaking, difficulty swallowing, difficulty in using strength in the limbs, difficulty walking, trembling in the limbs, convulsions, thinning of the limbs, forgetfulness, etc. In addition, intractable neurological diseases are not uncommon.
 
-- Diagnosis and management of stroke and cerebrovascular disease
-- Epilepsy diagnosis, monitoring, and treatment
-- Neurodegenerative disease management (Parkinson's disease, dementia)
-- Neuromuscular disease evaluation
+## Main diseases treated by neurologists
 
-## Clinical Focus
+### neurodegenerative diseases
 
-- Stroke (ischemic and hemorrhagic) — acute and chronic management
-- Dementia and cognitive impairment
-- Parkinson's disease and movement disorders
-- Epilepsy and seizure disorders
-- Peripheral neuropathy and myopathy
-- Headache disorders (migraine, cluster headache)
+Parkinson's disease, amyotrophic lateral sclerosis, spinocerebellar degeneration, multiple system atrophy, Alzheimer's disease, Lewy body disease, etc.
 
-## Diagnostic Capabilities
+### cerebrovascular disorder
 
-- MRI and CT neuroimaging
-- EEG (electroencephalography)
-- Nerve conduction studies and EMG
-- Lumbar puncture and CSF analysis
+Cerebral infarction, cerebral hemorrhage (surgery indication excluded), transient ischemic attack, etc.
 
-## Outpatient Hours
+### Immune neurological disease
 
-| | Hours |
-|---|---|
-| Morning Reception | 8:00 – 11:30 |
-| Afternoon Reception | 12:30 – 16:00 (by appointment) |
+Myasthenia gravis, myositis, multiple sclerosis, Guillain-Barre syndrome, chronic inflammatory demyelinating polyradiculoneuropathy, acute disseminated encephalomyelitis, etc.
 
-## Contact
+### muscle disease
 
-**Main Reception:** 03-5343-5611
+myotonic dystrophy, etc.
+
+### Infectious/inflammatory diseases
+
+Encephalitis, meningitis, prion disease, neurosyphilis, etc.
+
+### others
+
+Migraine, syncope, epilepsy, Tolosa-Hunt syndrome, essential tremor, facial paralysis, neuralgia, eyelid/facial spasm, dystonia, spinal cord infarction, etc.
+
+## Main inspection
+
+Imaging tests (carotid artery echo, various CTs, MR, cerebral blood flow scintigraphy, DAT scan, MIBG myocardial scintigraphy, etc.), nerve conduction velocity tests, electroencephalograms, neuropsychological tests, etc.
+
+## Medical treatment system
+
+Our outpatient department is staffed by two part-time doctors, as shown in the staff table, with morning consultations (AM) from 8:30 to 13:00 and afternoon consultations (PM) from 13:00 to 17:00.
+
+### Note: What cannot be done at our hospital's neurology department
+
+- As a neurologist, we are unable to perform detailed examinations and treatment in the hospital. If hospitalization is necessary, we will refer you to another hospital.
+- Emergency response is not possible.

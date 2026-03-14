@@ -1,44 +1,30 @@
 ---
 title: "Respiratory Medicine"
-description: "Diagnosis and treatment of diseases of the lungs and respiratory tract."
+description: "- Overview Outpatient physician list/physician introduction Medical record"
 ---
 
-## Overview
+- Overview Outpatient physician list/physician introduction Medical record
 
-The Respiratory Medicine Department diagnoses and treats a wide range of pulmonary and airway conditions. We are equipped with advanced diagnostic tools and work closely with the Thoracic Surgery and Radiology departments.
+## About respiratory medicine
 
-## Key Services
+As a regional hospital in Nakano Ward, our department treats most respiratory diseases. We will perform tests in the shortest possible time and recommend the most appropriate treatment, but if we believe that more advanced treatment is required, we will refer you to a highly specialized hospital. In addition, if a treatment plan has been determined and the patient's condition is stable, we will proactively refer them to a local medical practitioner.
 
-- Management of asthma, COPD, and chronic airway disease
-- Lung cancer screening, diagnosis, and coordination of care
-- Diagnosis and treatment of pneumonia and respiratory infections
-- Sleep-disordered breathing (sleep apnea) evaluation
+Our hospital is a facility certified by the Japanese Respiratory Society and the Japan Respiratory Endoscopy Society, and the relevant instructors will directly manage and provide guidance.
 
-## Clinical Focus
+## Main diseases treated in respiratory department
 
-- Asthma and allergic airway disease
-- Chronic obstructive pulmonary disease (COPD)
-- Lung cancer and pulmonary masses
-- Interstitial lung disease and pulmonary fibrosis
-- Pneumonia, tuberculosis, and infectious lung disease
-- Pleural disease and pleural effusion
-- Sleep apnea and home oxygen therapy
+- Infectious diseases (pneumonia, pleurisy, non-tuberculous mycobacteria, mycosis, etc.) Malignant diseases (lung cancer, etc.) Allergic diseases (bronchial asthma, etc.) Chronic obstructive pulmonary disease Interstitial pneumonia Chronic respiratory failure, etc.
 
-## Diagnostic Capabilities
+In addition to those with the above diagnoses, we also treat patients with the following symptoms:
 
-- Pulmonary function testing (spirometry)
-- Bronchoscopy
-- CT of the chest
-- Sleep study (polysomnography)
-- Thoracentesis
+- Those who are suspected of having an abnormal chest X-ray during a medical checkup, etc.
+- Those with a long-lasting cough
+- People who feel short of breath when walking on stairs or on a slope
 
-## Outpatient Hours
+## Treatment contents and characteristics
 
-| | Hours |
-|---|---|
-| Morning Reception | 8:00 – 11:30 |
-| Afternoon Reception | 12:30 – 16:00 (by appointment) |
+Our department places emphasis on collaboration with local medical associations, and our goal is to treat patients in close relationships. In addition to this, we strive to maintain good relationships with nearby hospitals and provide complementary medical care.
 
-## Contact
+Examining abnormalities in chest X-rays and diagnosing and treating persistent coughs require advanced knowledge and experience. Our hospital provides the best possible medical treatment, including conferences with specialized facilities.
 
-**Main Reception:** 03-5343-5611
+## 2025 Respiratory Department Staff
