@@ -6,41 +6,35 @@ weight: 1
 
 ## Clinical Departments
 
-Tokyo Police Hospital has clinical departments covering a comprehensive range of medical specialties.
-
-> **Note:** Individual department pages are in Japanese. Click a department name to view details on the Japanese site.
-
-| Department | Link |
+| Department | |
 |---|---|
-| General Internal Medicine | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/naika/) |
-| Neurology | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/nou-naika/) |
-| Respiratory Medicine | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/kokyuki/) |
-| Gastroenterology | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/syoukaki/) |
-| Cardiology | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/junkanki/) |
-| Nephrology & Metabolism | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/jintaisya/) |
-| Hematology | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/ketsueki/) |
-| Rheumatology & Collagen Disease | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/riumati/) |
-| Psychiatry | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/sinkei/) |
-| Pediatrics | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/syouni/) |
-| Surgery (General & Gastrointestinal) | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/geka/) |
-| Orthopedic Surgery | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/seikei/) |
-| Plastic & Aesthetic Surgery | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/keisei/) |
-| Neurosurgery | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/nousinkei/) |
-| Cerebrovascular Intervention | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/noukekkan/) |
-| Dermatology | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/hihu/) |
-| Urology | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/hinyou/) |
-| Obstetrics & Gynecology | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/sanhu/) |
-| Ophthalmology | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/ganka/) |
-| Otolaryngology (Ear, Nose & Throat) | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/jibi/) |
-| Emergency & Critical Care Medicine | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/kyukyu/) |
-| Rehabilitation Medicine | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/rihabiri/) |
-| Radiology | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/housyasen/) |
-| Anesthesiology | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/masui/) |
-| Pathology | [Details (JP)](https://www.keisatsubyoin.or.jp/shinryoka/byouri/) |
+| [General Internal Medicine]({{< relref "internal-medicine" >}}) | Internal medicine, chronic disease management |
+| [Neurology]({{< relref "neurology" >}}) | Brain and nervous system diseases |
+| [Respiratory Medicine]({{< relref "respiratory-medicine" >}}) | Lung and airway conditions |
+| [Gastroenterology]({{< relref "gastroenterology" >}}) | Digestive system and endoscopy |
+| [Cardiology]({{< relref "cardiology" >}}) | Heart disease and intervention |
+| [Nephrology & Metabolism]({{< relref "nephrology" >}}) | Kidney disease and dialysis |
+| [Hematology]({{< relref "hematology" >}}) | Blood disorders and malignancies |
+| [Rheumatology & Collagen Disease]({{< relref "rheumatology" >}}) | Autoimmune and joint diseases |
+| [Psychiatry]({{< relref "psychiatry" >}}) | Mental health conditions |
+| [Pediatrics]({{< relref "pediatrics" >}}) | Care for infants, children, and adolescents |
+| [Surgery (General & Gastrointestinal)]({{< relref "surgery" >}}) | GI and abdominal surgery |
+| [Orthopedic Surgery]({{< relref "orthopedics" >}}) | Bone, joint, and spine surgery |
+| [Plastic & Aesthetic Surgery]({{< relref "plastic-surgery" >}}) | Reconstructive and aesthetic surgery |
+| [Neurosurgery]({{< relref "neurosurgery" >}}) | Brain and spinal cord surgery |
+| [Cerebrovascular Intervention]({{< relref "cerebrovascular-intervention" >}}) | Endovascular stroke treatment |
+| [Dermatology]({{< relref "dermatology" >}}) | Skin, hair, and nail conditions |
+| [Urology]({{< relref "urology" >}}) | Urinary tract and prostate conditions |
+| [Obstetrics & Gynecology]({{< relref "obstetrics-gynecology" >}}) | Pregnancy, childbirth, and gynecology |
+| [Ophthalmology]({{< relref "ophthalmology" >}}) | Eye diseases and vision disorders |
+| [Otolaryngology (ENT)]({{< relref "otolaryngology" >}}) | Ear, nose, throat, head and neck |
+| [Emergency & Critical Care Medicine]({{< relref "emergency-medicine" >}}) | 24-hour emergency care |
+| [Rehabilitation Medicine]({{< relref "rehabilitation" >}}) | Physical, occupational, and speech therapy |
+| [Radiology]({{< relref "radiology" >}}) | Diagnostic imaging and intervention |
+| [Anesthesiology]({{< relref "anesthesiology" >}}) | Surgical anesthesia and pain management |
+| [Pathology]({{< relref "pathology" >}}) | Laboratory and tissue diagnosis |
 
 ## Specialized Centers
-
-Our specialized centers bring together multidisciplinary teams for integrated care:
 
 | Center | Description |
 |---|---|
@@ -55,16 +49,4 @@ Our specialized centers bring together multidisciplinary teams for integrated ca
 | **Palliative Care Center** | Pain management and comfort care |
 | **Radiation Therapy Center** | Linear accelerator and brachytherapy |
 
-## Medical Technology Departments
-
-- **Clinical Laboratory**
-- **Radiology / Imaging**
-- **Pathology Laboratory**
-- **Pharmacy**
-- **Rehabilitation Therapy (Physical, Occupational, Speech)**
-- **Clinical Engineering**
-- **Nutritional Management**
-- **Medical Records**
-- **Nursing**
-
-For questions about a specific department, please call **03-5343-5611** or contact the Medical Liaison Office at **03-5343-5760**.
+For questions, please call **03-5343-5611** or contact the Medical Liaison Office at **03-5343-5760**.
