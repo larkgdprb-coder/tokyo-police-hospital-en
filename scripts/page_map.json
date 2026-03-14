@@ -1,0 +1,284 @@
+[
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/gairai/",
+    "en_file": "content/outpatient/_index.md",
+    "en_title": "Outpatient Services",
+    "section": "outpatient"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/gairai/syosin/",
+    "en_file": "content/outpatient/first-visit.md",
+    "en_title": "First Visit (New Patients)",
+    "section": "outpatient"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/gairai/saisin/",
+    "en_file": "content/outpatient/revisit.md",
+    "en_title": "Repeat Visits",
+    "section": "outpatient"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/gairai/syokaijyo/",
+    "en_file": "content/outpatient/referral.md",
+    "en_title": "Patients with Referral Letters",
+    "section": "outpatient"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/gairai/syoukaijyushin/",
+    "en_file": "content/outpatient/referral-center.md",
+    "en_title": "Referral-Based Care",
+    "section": "outpatient"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/gairai/welfare/",
+    "en_file": "content/outpatient/family-doctor.md",
+    "en_title": "Find a Family Doctor",
+    "section": "outpatient"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/gairai/medicine/",
+    "en_file": "content/outpatient/medication.md",
+    "en_title": "About Medications",
+    "section": "outpatient"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/shinryoka/",
+    "en_file": "content/departments/_index.md",
+    "en_title": "Departments & Centers",
+    "section": "departments"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/nyuin/",
+    "en_file": "content/hospitalization/_index.md",
+    "en_title": "Hospitalization",
+    "section": "hospitalization"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/nyuin/about/",
+    "en_file": "content/hospitalization/admission-discharge.md",
+    "en_title": "Admission & Discharge",
+    "section": "hospitalization"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/nyuin/omimai/",
+    "en_file": "content/hospitalization/visit.md",
+    "en_title": "Visiting Patients",
+    "section": "hospitalization"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/nyuin/life/",
+    "en_file": "content/hospitalization/daily-life.md",
+    "en_title": "Daily Life During Hospitalization",
+    "section": "hospitalization"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/nyuin/bed/",
+    "en_file": "content/hospitalization/rooms.md",
+    "en_title": "Room Types & Fees",
+    "section": "hospitalization"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/nyuin/mail/",
+    "en_file": "content/hospitalization/mail.md",
+    "en_title": "Get Well Email Service",
+    "section": "hospitalization"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/nyuin/dpc/",
+    "en_file": "content/hospitalization/dpc.md",
+    "en_title": "DPC Billing System",
+    "section": "hospitalization"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/profile/",
+    "en_file": "content/about/_index.md",
+    "en_title": "About Tokyo Police Hospital",
+    "section": "about"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/profile/greeting/",
+    "en_file": "content/about/greeting.md",
+    "en_title": "Director's Message",
+    "section": "about"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/profile/gaiyou/",
+    "en_file": "content/about/overview.md",
+    "en_title": "Hospital Overview & History",
+    "section": "about"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/profile/rinen/",
+    "en_file": "content/about/philosophy.md",
+    "en_title": "Mission & Philosophy",
+    "section": "about"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/profile/yuketsu/",
+    "en_file": "content/about/blood-transfusion.md",
+    "en_title": "Blood Transfusion Policy",
+    "section": "about"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/profile/sekim/",
+    "en_file": "content/about/patient-rights.md",
+    "en_title": "Patient Rights & Responsibilities",
+    "section": "about"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/profile/houkatsu/",
+    "en_file": "content/about/consent.md",
+    "en_title": "Blanket Consent",
+    "section": "about"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/profile/partnership/",
+    "en_file": "content/about/partnership.md",
+    "en_title": "Patient Partnership",
+    "section": "about"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/profile/guide/",
+    "en_file": "content/about/facilities.md",
+    "en_title": "Facilities Guide",
+    "section": "about"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/profile/kouhi/",
+    "en_file": "content/about/accreditations.md",
+    "en_title": "Accreditations & Certifications",
+    "section": "about"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/profile/koudo/",
+    "en_file": "content/about/medical-equipment.md",
+    "en_title": "Advanced Medical Equipment",
+    "section": "about"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/profile/kinou/",
+    "en_file": "content/about/evaluation.md",
+    "en_title": "Hospital Evaluation",
+    "section": "about"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/profile/shihyou/",
+    "en_file": "content/about/statistics.md",
+    "en_title": "Hospital Statistics",
+    "section": "about"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/privacy/",
+    "en_file": "content/privacy.md",
+    "en_title": "Privacy Policy",
+    "section": ""
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/nextgeneration/",
+    "en_file": "content/about/next-generation.md",
+    "en_title": "Next-Generation Support Plan",
+    "section": "about"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/josei/",
+    "en_file": "content/about/women-empowerment.md",
+    "en_title": "Women's Empowerment Plan",
+    "section": "about"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/profile/kijun/",
+    "en_file": "content/about/disclosure.md",
+    "en_title": "Disclosure Requirements",
+    "section": "about"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/support/",
+    "en_file": "content/support/_index.md",
+    "en_title": "Consultation & Support",
+    "section": "support"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/support/annai/",
+    "en_file": "content/support/information.md",
+    "en_title": "General Information",
+    "section": "support"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/support/shindansho/",
+    "en_file": "content/support/documents.md",
+    "en_title": "Medical Certificates & Documents",
+    "section": "support"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/support/2nd_opinion/",
+    "en_file": "content/support/second-opinion.md",
+    "en_title": "Second Opinion",
+    "section": "support"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/support/eiyou/",
+    "en_file": "content/support/nutrition.md",
+    "en_title": "Nutrition Counseling",
+    "section": "support"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/support/fukushi/",
+    "en_file": "content/support/welfare.md",
+    "en_title": "Medical Social Work",
+    "section": "support"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/support/karte/",
+    "en_file": "content/support/medical-records.md",
+    "en_title": "Medical Record Disclosure",
+    "section": "support"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/support/support/",
+    "en_file": "content/support/support-teams.md",
+    "en_title": "Care Support Teams",
+    "section": "support"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/support/faq/",
+    "en_file": "content/support/faq.md",
+    "en_title": "Frequently Asked Questions (FAQ)",
+    "section": "support"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/support/anzen/",
+    "en_file": "content/support/safety.md",
+    "en_title": "Patient Safety",
+    "section": "support"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/support/mobile/",
+    "en_file": "content/support/mobile.md",
+    "en_title": "Mobile Phone Policy",
+    "section": "support"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/support/box/",
+    "en_file": "content/support/suggestions.md",
+    "en_title": "Suggestion Box",
+    "section": "support"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/news_090821_dog/",
+    "en_file": "content/support/guide-dogs.md",
+    "en_title": "Guide & Service Dogs",
+    "section": "support"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/research/",
+    "en_file": "content/support/clinical-trials.md",
+    "en_title": "Clinical Trials & Research",
+    "section": "support"
+  },
+  {
+    "ja_url": "https://www.keisatsubyoin.or.jp/access/",
+    "en_file": "content/access.md",
+    "en_title": "Access & Directions",
+    "section": ""
+  }
+]

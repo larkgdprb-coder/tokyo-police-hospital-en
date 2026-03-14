@@ -1,0 +1,42 @@
+name: Auto-update English content from Japanese site
+
+on:
+  schedule:
+    # Run every day at 03:00 UTC (12:00 JST)
+    - cron: "0 3 * * *"
+  workflow_dispatch:  # Allow manual trigger from GitHub Actions UI
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run translation update script
+        run: python scripts/update_from_japanese.py
+
+      - name: Commit updated content (if any)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/ scripts/content_hashes.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto-update English content from Japanese site [skip ci]"
+            git push
+          fi

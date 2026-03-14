@@ -1,39 +1,98 @@
-<header class="site-header">
-  <div class="header-top">
-    <div class="container">
-      <div class="header-top-inner">
-        <div class="header-brand">
-          <a href="{{ "/" | relURL }}" class="hospital-logo">
-            <div class="logo-icon">
-              <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-                <rect width="40" height="40" rx="4" fill="#ffffff" fill-opacity="0.15"/>
-                <path d="M20 8 L20 32 M8 20 L32 20" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
-              </svg>
+<header id="header" class="header header--2row">
+  <div class="container">
+    <div class="row header__content">
+      <div class="col-xs-10 col-md-12 header__col">
+        <div class="row">
+          <div class="col-md-6 col-sm-12">
+            <div class="site-branding">
+              <h1 class="site-branding__heading">
+                <a href="{{ relURL "/" }}" rel="home">
+                  <img src="https://keisatsubyoin.or.jp/wordpress/wp-content/uploads/2020/03/logo.png" alt="Tokyo Police Hospital" class="site-branding__logo">
+                </a>
+              </h1>
             </div>
-            <div class="logo-text">
-              <span class="hospital-name-en">{{ .Site.Params.hospitalName }}</span>
-              <span class="hospital-name-ja">東京警察病院</span>
+          </div>
+          <div class="col-md-6 col-sm-12 h-btn-flex">
+            <div id="site-cr">
+              <a href="{{ relURL "/" }}" class="h-btn current">For Patients</a>
+              <a href="https://www.keisatsubyoin.or.jp/m/" class="h-btn" target="_blank" rel="noopener">For Healthcare Professionals</a>
             </div>
-          </a>
-        </div>
-        <div class="header-contact">
-          <div class="contact-item emergency">
-            <span class="contact-label">Emergency / Outpatient</span>
-            <a href="tel:{{ .Site.Params.phone }}" class="contact-phone">
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-                <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 8.8 19.79 19.79 0 01.01 2.22 2 2 0 012 .04h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 7.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 14.92v2z"/>
-              </svg>
-              {{ .Site.Params.phone }}
-            </a>
-          </div>
-          <div class="contact-item hours">
-            <span class="contact-label">Reception Hours</span>
-            <span class="contact-value">{{ .Site.Params.outpatientHours }}</span>
-          </div>
-          <div class="header-lang">
-            <a href="https://www.keishicho-hospital.jp/" class="lang-link" target="_blank" rel="noopener noreferrer" title="Japanese site">日本語</a>
+            <ul class="topnav2">
+              <li class="f-cv-tel"><i class="fas fa-phone-volume"></i>03-5343-5611<span style="font-size:12px"> (main)</span></li>
+            </ul>
           </div>
         </div>
+      </div>
+      <div class="col-xs-2 col-md-12 header__col global-nav-wrapper clearfix">
+        <nav class="global-nav js-responsive-nav responsive-nav" role="navigation">
+          <div class="menu-gnavi-container">
+            <ul id="menu-gnavi" class="menu">
+              <li class="menu-item"><a href="{{ relURL "/" }}"><div class="m-icon"><i class="fas fa-home"></i>Home</div></a></li>
+              <li class="menu-item menu-item-has-children"><a href="{{ relURL "outpatient/" }}"><div class="m-icon"><i class="fas fa-stethoscope"></i>Outpatient</div></a>
+                <ul class="sub-menu">
+                  <li class="menu-item"><a href="{{ relURL "outpatient/first-visit/" }}">First Visit (New Patients)</a></li>
+                  <li class="menu-item"><a href="{{ relURL "outpatient/revisit/" }}">Repeat Visits</a></li>
+                  <li class="menu-item"><a href="{{ relURL "outpatient/after-hours/" }}">After-Hours &amp; Holiday Care</a></li>
+                  <li class="menu-item"><a href="{{ relURL "outpatient/referral/" }}">Patients with Referral Letters</a></li>
+                  <li class="menu-item"><a href="{{ relURL "outpatient/referral-center/" }}">Referral-Based Care</a></li>
+                  <li class="menu-item"><a href="{{ relURL "outpatient/family-doctor/" }}">Family Doctor</a></li>
+                  <li class="menu-item"><a href="{{ relURL "outpatient/medication/" }}">About Medications</a></li>
+                </ul>
+              </li>
+              <li class="menu-item"><a href="{{ relURL "departments/" }}"><div class="m-icon"><i class="fas fa-syringe"></i>Departments</div></a></li>
+              <li class="menu-item menu-item-has-children"><a href="{{ relURL "hospitalization/" }}"><div class="m-icon"><i class="fas fa-bed"></i>Hospitalization</div></a>
+                <ul class="sub-menu">
+                  <li class="menu-item"><a href="{{ relURL "hospitalization/admission-discharge/" }}">Admission &amp; Discharge</a></li>
+                  <li class="menu-item"><a href="{{ relURL "hospitalization/visit/" }}">Visiting Patients</a></li>
+                  <li class="menu-item"><a href="{{ relURL "hospitalization/daily-life/" }}">Daily Life During Hospitalization</a></li>
+                  <li class="menu-item"><a href="{{ relURL "hospitalization/rooms/" }}">Room Types &amp; Fees</a></li>
+                  <li class="menu-item"><a href="{{ relURL "hospitalization/mail/" }}">Get Well Email Service</a></li>
+                  <li class="menu-item"><a href="{{ relURL "hospitalization/dpc/" }}">DPC Billing System</a></li>
+                </ul>
+              </li>
+              <li class="menu-item menu-item-has-children"><a href="{{ relURL "about/" }}"><div class="m-icon"><i class="fas fa-hospital-alt"></i>About</div></a>
+                <ul class="sub-menu">
+                  <li class="menu-item"><a href="{{ relURL "about/greeting/" }}">Director's Message</a></li>
+                  <li class="menu-item"><a href="{{ relURL "about/overview/" }}">Hospital Overview &amp; History</a></li>
+                  <li class="menu-item"><a href="{{ relURL "about/philosophy/" }}">Mission &amp; Philosophy</a></li>
+                  <li class="menu-item"><a href="{{ relURL "about/blood-transfusion/" }}">Blood Transfusion Policy</a></li>
+                  <li class="menu-item"><a href="{{ relURL "about/patient-rights/" }}">Patient Rights &amp; Responsibilities</a></li>
+                  <li class="menu-item"><a href="{{ relURL "about/consent/" }}">Blanket Consent</a></li>
+                  <li class="menu-item"><a href="{{ relURL "about/partnership/" }}">Patient Partnership</a></li>
+                  <li class="menu-item"><a href="{{ relURL "about/facilities/" }}">Facilities Guide</a></li>
+                  <li class="menu-item"><a href="{{ relURL "about/accreditations/" }}">Accreditations</a></li>
+                  <li class="menu-item"><a href="{{ relURL "about/medical-equipment/" }}">Advanced Medical Equipment</a></li>
+                  <li class="menu-item"><a href="{{ relURL "about/evaluation/" }}">Hospital Evaluation</a></li>
+                  <li class="menu-item"><a href="{{ relURL "about/statistics/" }}">Hospital Statistics</a></li>
+                  <li class="menu-item"><a href="{{ relURL "privacy/" }}">Privacy Policy</a></li>
+                  <li class="menu-item"><a href="{{ relURL "about/next-generation/" }}">Next-Generation Support Plan</a></li>
+                  <li class="menu-item"><a href="{{ relURL "about/women-empowerment/" }}">Women's Empowerment Plan</a></li>
+                  <li class="menu-item"><a href="{{ relURL "about/disclosure/" }}">Disclosure Requirements</a></li>
+                </ul>
+              </li>
+              <li class="menu-item menu-item-has-children"><a href="{{ relURL "support/" }}"><div class="m-icon"><i class="fas fa-comment-dots"></i>Support</div></a>
+                <ul class="sub-menu">
+                  <li class="menu-item"><a href="{{ relURL "support/information/" }}">General Information</a></li>
+                  <li class="menu-item"><a href="{{ relURL "support/documents/" }}">Medical Certificates &amp; Documents</a></li>
+                  <li class="menu-item"><a href="{{ relURL "support/second-opinion/" }}">Second Opinion</a></li>
+                  <li class="menu-item"><a href="{{ relURL "support/nutrition/" }}">Nutrition Counseling</a></li>
+                  <li class="menu-item"><a href="{{ relURL "support/welfare/" }}">Medical Social Work</a></li>
+                  <li class="menu-item"><a href="{{ relURL "support/medical-records/" }}">Medical Record Disclosure</a></li>
+                  <li class="menu-item"><a href="{{ relURL "support/support-teams/" }}">Care Support Teams</a></li>
+                  <li class="menu-item"><a href="{{ relURL "support/faq/" }}">FAQ</a></li>
+                  <li class="menu-item"><a href="{{ relURL "support/safety/" }}">Patient Safety</a></li>
+                  <li class="menu-item"><a href="{{ relURL "support/mobile/" }}">Mobile Phone Policy</a></li>
+                  <li class="menu-item"><a href="{{ relURL "support/suggestions/" }}">Suggestion Box</a></li>
+                  <li class="menu-item"><a href="https://www.keisatsubyoin.or.jp/wordpress/wp-content/uploads/2023/03/患者さま図書コーナーのご案内.pdf" target="_blank">Library Corner</a></li>
+                  <li class="menu-item"><a href="{{ relURL "support/guide-dogs/" }}">Guide &amp; Service Dogs</a></li>
+                  <li class="menu-item"><a href="{{ relURL "support/clinical-trials/" }}">Clinical Trials &amp; Research</a></li>
+                </ul>
+              </li>
+              <li class="menu-item"><a href="{{ relURL "access/" }}"><div class="m-icon"><i class="fas fa-map-marker-alt"></i>Access</div></a></li>
+            </ul>
+          </div>
+        </nav>
+        <div id="responsive-btn"></div>
       </div>
     </div>
   </div>

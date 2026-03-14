@@ -1,82 +1,75 @@
 {{ define "main" }}
+
+<!-- Page Header / Breadcrumb -->
 <div class="page-header">
   <div class="container">
-    <!-- Breadcrumb -->
-    <nav class="breadcrumb" aria-label="Breadcrumb">
-      <ol class="breadcrumb-list">
-        <li class="breadcrumb-item"><a href="{{ "/" | relURL }}">Home</a></li>
-        {{ if .Parent }}
-          {{ if not .Parent.IsHome }}
-            <li class="breadcrumb-item"><a href="{{ .Parent.Permalink }}">{{ .Parent.Title }}</a></li>
-          {{ end }}
-        {{ end }}
-        <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
-      </ol>
-    </nav>
-    <h1 class="page-title">{{ .Title }}</h1>
-    {{ with .Description }}<p class="page-description">{{ . }}</p>{{ end }}
-  </div>
-</div>
-
-<div class="container page-content-wrapper">
-  <div class="page-layout">
-
-    <!-- Sidebar -->
-    <aside class="page-sidebar">
-      {{ if .Parent }}
-        <div class="sidebar-nav-card">
-          <h3 class="sidebar-nav-title">
-            <a href="{{ .Parent.Permalink }}">{{ .Parent.Title }}</a>
-          </h3>
-          <ul class="sidebar-nav-list">
-            {{ range .Parent.Pages.ByWeight }}
-              <li class="sidebar-nav-item {{ if eq $.Permalink .Permalink }}active{{ end }}">
-                <a href="{{ .Permalink }}">{{ .Title }}</a>
-              </li>
+    <div class="row">
+      <div class="col-md-12">
+        <ol class="breadcrumb">
+          <li><a href="{{ relURL "/" }}"><i class="fas fa-home"></i> Home</a></li>
+          {{ with .Parent }}
+            {{ if not .IsHome }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
             {{ end }}
-          </ul>
-        </div>
-      {{ end }}
-
-      <!-- Related info card -->
-      <div class="sidebar-info-card">
-        <h4>Need Help?</h4>
-        <p>For questions about outpatient services, please contact our reception desk.</p>
-        <p class="sidebar-phone">
-          <a href="tel:03-5343-5611">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 8.8 19.79 19.79 0 01.01 2.22 2 2 0 012 .04h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 7.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 14.92v2z"/>
-            </svg>
-            03-5343-5611
-          </a>
-        </p>
-        <p class="sidebar-hours">Mon–Sat 8:00–16:00</p>
+          {{ end }}
+          <li class="active">{{ .Title }}</li>
+        </ol>
       </div>
-    </aside>
-
-    <!-- Main Content -->
-    <article class="page-body">
-      <div class="page-content">
-        {{ .Content }}
-      </div>
-
-      <!-- Page navigation -->
-      <nav class="page-nav" aria-label="Page navigation">
-        {{ with .PrevInSection }}
-          <a href="{{ .Permalink }}" class="page-nav-prev">
-            <span class="page-nav-label">← Previous</span>
-            <span class="page-nav-title">{{ .Title }}</span>
-          </a>
-        {{ end }}
-        {{ with .NextInSection }}
-          <a href="{{ .Permalink }}" class="page-nav-next">
-            <span class="page-nav-label">Next →</span>
-            <span class="page-nav-title">{{ .Title }}</span>
-          </a>
-        {{ end }}
-      </nav>
-    </article>
-
+    </div>
   </div>
 </div>
+
+<div id="contents">
+  <div class="container-fluid">
+    <div class="row">
+      <main id="main" role="main">
+        <article class="article article--page">
+          <div class="entry">
+            <div class="entry__content">
+              <div class="container">
+                <div class="row">
+
+                  <!-- Main Content -->
+                  <div class="col-md-9">
+                    <h1 class="entry-title">{{ .Title }}</h1>
+                    {{ .Content }}
+                  </div>
+
+                  <!-- Sidebar -->
+                  <div class="col-md-3 sidebar">
+                    <h3 class="s-h3">Reception Hours</h3>
+                    <h3 class="s-h3Time">8:00–11:30 / 12:30–16:00</h3>
+                    <h3 class="s-h3">Clinic Hours</h3>
+                    <h3 class="s-h3Time">8:30–12:00 / 13:00–16:30</h3>
+                    <ul>
+                      <li>Hours may vary by department.</li>
+                      <li>Afternoon clinics by appointment only (except Pediatrics).</li>
+                    </ul>
+                    <p class="s-text">※ For details, see Outpatient Schedule or contact each department.</p>
+                    <p>
+                      <a class="s-btn" href="https://keisatsubyoin.or.jp/schedule/" target="_blank" rel="noopener"><i class="fas fa-chevron-right"></i>Outpatient Schedule (JP)</a><br>
+                      <a class="s-btn2" href="{{ relURL "outpatient/after-hours/" }}" style="margin-top:-30px;text-decoration:none;"><i class="fas fa-chevron-right"></i>After-Hours &amp; Holiday Care</a>
+                    </p>
+                    <h3 class="s-h3">Closed Days</h3>
+                    <p class="s-text">◎ Sundays &nbsp; ◎ Public Holidays<br>◎ Year-end / New Year (Dec 29 – Jan 3)</p>
+                    <p>
+                      <a href="https://keisatsubyoin.or.jp/shinryoka/sanka/" target="_blank" rel="noopener">
+                        <img src="https://keisatsubyoin.or.jp/wordpress/wp-content/uploads/2020/03/bnr-sanka.png" alt="Obstetrics Information" style="margin-top:10px;max-width:100%;">
+                      </a><br>
+                      <a href="https://www.medimap.jp/p131470061/registered/list" target="_blank" rel="noopener">
+                        <img src="https://www.keisatsubyoin.or.jp/wordpress/wp-content/uploads/2024/08/bnr_medimap.png" alt="Family Doctor MAP Search" style="max-width:100%;">
+                      </a>
+                    </p>
+                  </div>
+
+                </div><!-- /row -->
+              </div><!-- /container -->
+            </div><!-- /entry__content -->
+          </div><!-- /entry -->
+        </article>
+      </main>
+    </div>
+  </div>
+</div>
+
 {{ end }}

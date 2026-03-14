@@ -3,72 +3,74 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-  <title>
-    {{- if .IsHome -}}
-      {{ .Site.Title }} | Quality Medical Care in Tokyo
-    {{- else -}}
-      {{ .Title }} | {{ .Site.Title }}
-    {{- end -}}
-  </title>
-
-  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
-  <meta name="robots" content="index, follow">
-
-  <!-- Open Graph -->
-  <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
-  <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}">
-  <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-  <meta property="og:url" content="{{ .Permalink }}">
-  <meta property="og:site_name" content="{{ .Site.Title }}">
-  <meta property="og:locale" content="en_US">
-
-  <!-- Canonical -->
-  <link rel="canonical" href="{{ .Permalink }}">
-
-  <!-- Stylesheet -->
-  <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}">
-
-  <!-- Favicon (inline SVG as data URI for portability) -->
-  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='4' fill='%231a5276'/><path d='M16 6v20M6 16h20' stroke='white' stroke-width='4' stroke-linecap='round'/></svg>">
-
-  {{ block "head" . }}{{ end }}
+  <link rel="icon" href="https://www.keisatsubyoin.or.jp/wordpress/wp-content/uploads/2022/12/favicon.png" sizes="32x32">
+  <link href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://www.keisatsubyoin.or.jp/wordpress/wp-content/themes/habakiri-child-1/css/pageheader-style.css">
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css" media="screen">
+  <link rel="stylesheet" href="https://www.keisatsubyoin.or.jp/wordpress/wp-content/themes/habakiri/css/assets.min.css">
+  <link rel="stylesheet" href="https://www.keisatsubyoin.or.jp/wordpress/wp-content/themes/habakiri/style.min.css">
+  <link rel="stylesheet" href="https://www.keisatsubyoin.or.jp/wordpress/wp-content/themes/habakiri-child-1/style.css">
+  {{ block "head_css" . }}{{ end }}
+  <title>{{ if .IsHome }}Tokyo Police Hospital | Quality Medical Care in Tokyo{{ else }}{{ .Title }} | Tokyo Police Hospital{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}Tokyo Police Hospital provides quality medical care for police officers and the local community in Nakano, Tokyo.{{ end }}">
+  <style>
+a{color:#337ab7}
+a:focus,a:active,a:hover{color:#23527c}
+.site-branding a{color:#000}
+.responsive-nav a{color:#ffffff;font-size:14px}
+.responsive-nav .menu>.menu-item>a,.header--transparency.header--fixed--is_scrolled .responsive-nav .menu>.menu-item>a{background-color:#f4a000;padding:12px 7px}
+.responsive-nav .menu>.menu-item>a:hover,.responsive-nav .menu>.menu-item>a:active,.responsive-nav .menu>.current-menu-item>a,.responsive-nav .menu>.current-menu-ancestor>a,.responsive-nav .menu>.current-menu-parent>a,.responsive-nav .menu>.current_page_item>a,.responsive-nav .menu>.current_page_parent>a{background-color:#f5f5f5;color:#707070}
+.responsive-nav .sub-menu a{background-color:#f5f5f5;color:#707070;font-weight:bold}
+.responsive-nav .sub-menu a:hover,.responsive-nav .sub-menu a:active{background-color:#f5f5f5;color:#707070}
+.responsive-nav,.header--transparency.header--fixed--is_scrolled .responsive-nav{background-color:#f4a000}
+#responsive-btn{background-color:transparent;border-color:#eeeeee;color:#000}
+#responsive-btn:hover{background-color:#f5f5f5;border-color:#eee;color:#000}
+.page-header{background-color:#dddddd;color:#fff}
+.header{background-color:#fff}
+.footer{background-color:#f49000}
+.footer-widget-area a{color:#777}
+@media(min-width:992px){.responsive-nav{display:block}.off-canvas-nav,#responsive-btn{display:none !important}.header--2row{padding-bottom:0}.header--2row .header__col{display:block}.header--2row .responsive-nav{margin-right:-1000px;margin-left:-1000px;padding-right:1000px;padding-left:1000px}}
+body{word-wrap:break-word;overflow-wrap:break-word}
+img{-webkit-backface-visibility:hidden}
+.spmenu2{padding:10px 0 0}
+@media screen and (max-width:991px){.spmenu{padding:0 0 10px;width:100%}}
+.scroll-back-to-top-wrapper{position:fixed;opacity:0;visibility:hidden;overflow:hidden;text-align:center;z-index:99999999;background-color:#777;color:#eee;width:50px;height:48px;line-height:48px;right:30px;bottom:60px;padding-top:2px;border-radius:10px;transition:all 0.5s ease-in-out}
+.scroll-back-to-top-wrapper.show{visibility:visible;cursor:pointer;opacity:1.0}
+.scroll-back-to-top-wrapper i.fa{line-height:inherit}
+  </style>
+  <script src="https://www.keisatsubyoin.or.jp/wordpress/wp-includes/js/jquery/jquery.min.js"></script>
+  <script src="https://www.keisatsubyoin.or.jp/wordpress/wp-includes/js/jquery/jquery-migrate.min.js"></script>
 </head>
-<body class="{{ if .IsHome }}home-page{{ else }}inner-page{{ end }}">
+<body class="wp-theme-habakiri wp-child-theme-habakiri-child-1">
 
-  <!-- Skip to main content (accessibility) -->
-  <a href="#main-content" class="skip-link">Skip to main content</a>
+{{ partial "nav-offcanvas.html" . }}
 
+<div id="container" class="responsive-nav-contents">
   {{ partial "header.html" . }}
-  {{ partial "nav.html" . }}
 
-  <main id="main-content" class="site-main">
+  <div id="contents">
     {{ block "main" . }}{{ end }}
-  </main>
+  </div>
 
   {{ partial "footer.html" . }}
+</div>
 
-  <!-- Back to top button -->
-  <button class="back-to-top" id="backToTop" aria-label="Back to top">
-    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
-      <path d="M18 15l-6-6-6 6"/>
-    </svg>
-  </button>
+<div class="scroll-back-to-top-wrapper" id="scrollTop">
+  <span class="scroll-back-to-top-inner">
+    <i class="fa fa-2x fa-arrow-circle-up"></i>
+  </span>
+</div>
 
-  <script>
-  // Back to top button
-  (function() {
-    var btn = document.getElementById('backToTop');
-    if (!btn) return;
-    window.addEventListener('scroll', function() {
-      btn.classList.toggle('visible', window.scrollY > 400);
-    });
-    btn.addEventListener('click', function() {
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    });
-  })();
-  </script>
-
+<script src="https://www.keisatsubyoin.or.jp/wordpress/wp-content/themes/habakiri/js/app.min.js"></script>
+{{ block "foot_js" . }}{{ end }}
+<script>
+jQuery(function($){
+  $('.js-responsive-nav').responsive_nav({direction:'right'});
+  $('#scrollTop').on('click',function(){$('html,body').animate({scrollTop:0},500);});
+  $(window).on('scroll',function(){
+    if($(this).scrollTop()>300){$('#scrollTop').addClass('show');}else{$('#scrollTop').removeClass('show');}
+  });
+});
+</script>
 </body>
 </html>
