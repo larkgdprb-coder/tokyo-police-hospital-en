@@ -37,6 +37,13 @@ img{-webkit-backface-visibility:hidden}
 .scroll-back-to-top-wrapper{position:fixed;opacity:0;visibility:hidden;overflow:hidden;text-align:center;z-index:99999999;background-color:#777;color:#eee;width:50px;height:48px;line-height:48px;right:30px;bottom:60px;padding-top:2px;border-radius:10px;transition:all 0.5s ease-in-out}
 .scroll-back-to-top-wrapper.show{visibility:visible;cursor:pointer;opacity:1.0}
 .scroll-back-to-top-wrapper i.fa{line-height:inherit}
+/* Mobile hamburger button fallback */
+@media(max-width:991px){
+  #responsive-btn{display:block !important;cursor:pointer;width:44px;height:44px;position:relative;z-index:10000;-webkit-tap-highlight-color:rgba(0,0,0,0.1)}
+  #responsive-btn .hamburger-line{display:block;width:24px;height:2px;background:#333;margin:5px auto;border-radius:2px;transition:all 0.3s}
+  .off-canvas-nav{-webkit-overflow-scrolling:touch}
+  .off-canvas-nav .menu a{min-height:44px;display:flex;align-items:center;padding:10px 15px}
+}
   </style>
   <script src="https://www.keisatsubyoin.or.jp/wordpress/wp-includes/js/jquery/jquery.min.js"></script>
   <script src="https://www.keisatsubyoin.or.jp/wordpress/wp-includes/js/jquery/jquery-migrate.min.js"></script>
@@ -65,7 +72,31 @@ img{-webkit-backface-visibility:hidden}
 {{ block "foot_js" . }}{{ end }}
 <script>
 jQuery(function($){
-  $('.js-responsive-nav').responsive_nav({direction:'right'});
+  // Add hamburger lines to the mobile button
+  if($('#responsive-btn').children().length===0){
+    $('#responsive-btn').html('<span class="hamburger-line"></span><span class="hamburger-line"></span><span class="hamburger-line"></span>');
+  }
+  // Initialize responsive nav plugin (with fallback)
+  try{
+    $('.js-responsive-nav').responsive_nav({direction:'right'});
+  }catch(e){
+    // Fallback: simple toggle for mobile menu
+    $('#responsive-btn').on('click touchend',function(e){
+      e.preventDefault();e.stopPropagation();
+      $('body').toggleClass('off-canvas-nav-open');
+    });
+    $('#container').on('click touchend',function(){
+      $('body').removeClass('off-canvas-nav-open');
+    });
+  }
+  // If plugin loaded but button still has no click handler, add one
+  setTimeout(function(){
+    $('#responsive-btn').off('click.fallback').on('click.fallback touchend.fallback',function(e){
+      if(!$(this).data('plugin-active')){return;}
+    });
+    // Mark as plugin-active only if responsive_nav is defined
+    if(typeof $.fn.responsive_nav!=='undefined'){$('#responsive-btn').data('plugin-active',true);}
+  },200);
   $('#scrollTop').on('click',function(){$('html,body').animate({scrollTop:0},500);});
   $(window).on('scroll',function(){
     if($(this).scrollTop()>300){$('#scrollTop').addClass('show');}else{$('#scrollTop').removeClass('show');}
