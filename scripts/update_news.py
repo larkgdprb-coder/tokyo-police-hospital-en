@@ -54,6 +54,7 @@ HEADERS = {
 CAT_MAP = {
     "すべて": "All",
     "産婦人科": "Obstetrics & Gynecology",
+    "産科": "Obstetrics",
     "診療科": "Clinical Departments",
     "病院": "Hospital",
     "外来": "Outpatient",
@@ -61,6 +62,12 @@ CAT_MAP = {
     "お知らせ": "Announcement",
     "救急": "Emergency",
     "健診": "Health Checkup",
+}
+
+# WordPress internal slugs / tags to skip (not meaningful for display)
+WP_INTERNAL_SLUGS = {
+    "staff", "staff1", "staff2", "wpmaster", "others", "other",
+    "uncategorized", "all",
 }
 
 
@@ -101,6 +108,32 @@ def translate_text(text: str, src: str = "ja", tgt: str = "en") -> str:
 
 def translate_cat(cat_ja: str) -> str:
     return CAT_MAP.get(cat_ja.strip(), translate_text(cat_ja))
+
+
+def filter_categories(cats_ja: list[str]) -> list[str]:
+    """
+    Filter out WordPress-internal slugs and keep only meaningful category names.
+    Also deduplicate and limit length.
+    """
+    seen = set()
+    result = []
+    for c in cats_ja:
+        c = c.strip()
+        if not c:
+            continue
+        # Skip internal WP slugs (usually lowercase ASCII only)
+        if c.lower() in WP_INTERNAL_SLUGS:
+            continue
+        if re.match(r'^[a-z0-9_-]+$', c) and len(c) < 15:
+            continue  # likely a WP slug, not a display label
+        # Skip if it looks like a full sentence (probably the title used as tag)
+        if len(c) > 40:
+            continue
+        translated = translate_cat(c)
+        if translated.lower() not in seen:
+            seen.add(translated.lower())
+            result.append(translated)
+    return result if result else ["Announcement"]
 
 
 # ── Fetching ─────────────────────────────────────────────────────────────────
@@ -215,16 +248,21 @@ def content_hash(text: str) -> str:
 
 # ── Markdown writing ─────────────────────────────────────────────────────────
 
+def yaml_safe(text: str) -> str:
+    """Escape a string for use in YAML double-quoted scalar."""
+    return text.replace('\\', '\\\\').replace('"', '\\"')
+
+
 def write_article(article: dict) -> None:
     date = article["date_str"]
     slug = article["slug"]
     filename = NEWS_DIR / f"{date}-{slug}.md"
 
     cats_en = article["categories_en"]
-    cats_yaml = ", ".join(f'"{c}"' for c in cats_en) if cats_en else '"All"'
+    cats_yaml = ", ".join(f'"{yaml_safe(c)}"' for c in cats_en) if cats_en else '"Announcement"'
 
-    title_safe = article["title_en"].replace('"', "'")
-    desc_safe  = article["body_en"][:120].replace('"', "'").replace("\n", " ")
+    title_safe = yaml_safe(article["title_en"])
+    desc_safe  = yaml_safe(article["body_en"][:120].replace("\n", " "))
 
     md = f"""---
 title: "{title_safe}"
@@ -310,7 +348,7 @@ def main():
             print("    → Translating...")
             title_en = translate_text(title_ja)
             body_en  = translate_text(body_ja) if body_ja else title_en
-            cats_en  = [translate_cat(c) for c in cats_ja] if cats_ja else ["Announcement"]
+            cats_en  = filter_categories(cats_ja) if cats_ja else ["Announcement"]
 
             article_data = {
                 "slug":         slug,
