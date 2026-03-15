@@ -52,30 +52,11 @@
                 <div class="col-md-9">
                   <h2>Hospital News &amp; Announcements</h2>
                   <div id="categoryTab">
-                    <ul class="show" style="padding:0;list-style:none;">
-                      <li>
-                        {{ $news := where .Site.RegularPages "Section" "news" }}
-                        {{ if $news }}
-                          {{ range first 5 ($news.ByDate.Reverse) }}
-                          <a href="{{ .RelPermalink }}" class="newslink">
-                            <div class="topmeta">
-                              <div class="news-time">{{ .Date.Format "2006/01/02" }}</div>
-                              <ul class="report-categories">
-                                {{ range .Params.categories }}
-                                <li class="all">{{ . }}</li>
-                                {{ end }}
-                              </ul>
-                            </div>
-                            <p class="news-title">{{ .Title }}</p>
-                          </a>
-                          {{ end }}
-                        {{ else }}
-                          <p style="padding:15px;color:#777;">News will be available shortly.</p>
-                        {{ end }}
-                      </li>
-                    </ul>
+                    <p style="padding:15px 0;color:#555;">
+                      For the latest news and announcements, please visit the Japanese hospital website.
+                    </p>
                     <p align="right">
-                      <a href="{{ relURL "news/" }}" class="s-btn">View All News</a>
+                      <a href="https://keisatsubyoin.or.jp/category/all/" class="s-btn" target="_blank" rel="noopener">View All News (Japanese site)</a>
                     </p>
                   </div>
 
