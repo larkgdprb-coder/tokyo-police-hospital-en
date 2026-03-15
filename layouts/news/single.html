@@ -1,0 +1,84 @@
+{{ define "main" }}
+
+<!-- Page Header -->
+<div class="page-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <ol class="breadcrumb">
+          <li><a href="{{ relURL "" }}"><i class="fas fa-home"></i> Home</a></li>
+          <li><a href="{{ relURL "news/" }}">News</a></li>
+          <li class="active">{{ .Title }}</li>
+        </ol>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="contents">
+  <div class="container-fluid">
+    <div class="row">
+      <main id="main" role="main">
+        <article class="article article--page">
+          <div class="entry">
+            <div class="entry__content">
+              <div class="container">
+                <div class="row">
+
+                  <!-- Article Content -->
+                  <div class="col-md-9">
+                    <div class="topmeta" style="margin-bottom:12px;">
+                      <div class="news-time" style="font-size:14px;color:#777;">{{ .Date.Format "January 2, 2006" }}</div>
+                      <ul class="report-categories" style="margin:4px 0 0;">
+                        {{ range .Params.categories }}
+                        <li class="all">{{ . }}</li>
+                        {{ end }}
+                      </ul>
+                    </div>
+                    <h1 class="entry-title">{{ .Title }}</h1>
+                    <div class="entry-body" style="margin-top:20px;line-height:1.8;">
+                      {{ .Content }}
+                    </div>
+                    <p style="margin-top:30px;">
+                      <a href="{{ relURL "news/" }}" class="s-btn"><i class="fas fa-chevron-left"></i> Back to News</a>
+                    </p>
+                  </div>
+
+                  <!-- Sidebar -->
+                  <div class="col-md-3 sidebar">
+                    <h3 class="s-h3">Reception Hours</h3>
+                    <h3 class="s-h3Time">8:00–11:30 / 12:30–16:00</h3>
+                    <h3 class="s-h3">Clinic Hours</h3>
+                    <h3 class="s-h3Time">8:30–12:00 / 13:00–16:30</h3>
+                    <ul>
+                      <li>Hours may vary by department.</li>
+                      <li>Afternoon clinics by appointment only (except Pediatrics).</li>
+                    </ul>
+                    <p class="s-text">※ For details, see Outpatient Schedule or contact each department.</p>
+                    <p>
+                      <a class="s-btn" href="https://keisatsubyoin.or.jp/schedule/" target="_blank" rel="noopener"><i class="fas fa-chevron-right"></i>Outpatient Schedule (JP)</a><br>
+                      <a class="s-btn2" href="{{ relURL "outpatient/after-hours/" }}" style="margin-top:-30px;text-decoration:none;"><i class="fas fa-chevron-right"></i>After-Hours &amp; Holiday Care</a>
+                    </p>
+                    <h3 class="s-h3">Closed Days</h3>
+                    <p class="s-text">◎ Sundays &nbsp; ◎ Public Holidays<br>◎ Year-end / New Year (Dec 29 – Jan 3)</p>
+                    <p>
+                      <a href="https://keisatsubyoin.or.jp/shinryoka/sanka/" target="_blank" rel="noopener">
+                        <img src="https://keisatsubyoin.or.jp/wordpress/wp-content/uploads/2020/03/bnr-sanka.png" alt="Obstetrics Information" style="margin-top:10px;max-width:100%;">
+                      </a><br>
+                      <a href="https://www.medimap.jp/p131470061/registered/list" target="_blank" rel="noopener">
+                        <img src="https://www.keisatsubyoin.or.jp/wordpress/wp-content/uploads/2024/08/bnr_medimap.png" alt="Family Doctor MAP Search" style="max-width:100%;">
+                      </a>
+                    </p>
+                  </div>
+
+                </div><!-- /row -->
+              </div><!-- /container -->
+            </div><!-- /entry__content -->
+          </div><!-- /entry -->
+        </article>
+      </main>
+    </div>
+  </div>
+</div>
+
+{{ end }}

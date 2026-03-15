@@ -29,11 +29,14 @@ jobs:
       - name: Run translation update script
         run: python scripts/update_from_japanese.py
 
+      - name: Run news update script
+        run: python scripts/update_news.py
+
       - name: Commit updated content (if any)
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add content/ scripts/content_hashes.json
+          git add content/ scripts/content_hashes.json scripts/news_hashes.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
