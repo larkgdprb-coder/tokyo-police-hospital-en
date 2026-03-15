@@ -1,47 +1,60 @@
 ---
 title: "Outpatient Services"
-description: "Information about outpatient clinic hours, reception, and services at Tokyo Police Hospital."
-weight: 1
+description: "We will guide you through the reception and treatment process for first-time patients. Go to details"
 ---
 
-## Outpatient Services Overview
+## For first-time patients
 
-Tokyo Police Hospital's outpatient clinics offer comprehensive medical services across 30 departments. We are committed to providing safe, high-quality, and patient-centered care.
 
-## Reception Hours
 
-| | Time |
-|---|---|
-| **Morning Reception** | 8:00 – 11:30 |
-| **Afternoon Reception** | 12:30 – 16:00 |
 
-> **Note:** Afternoon clinics (except Pediatrics) operate by **appointment only**. Please contact the Repeat Appointment Center to schedule.
+We will guide you through the reception and treatment process for first-time patients. Go to details
 
-## Clinic Hours
+## For those who have been examined
 
-| | Time |
-|---|---|
-| **Morning Clinic** | 8:30 – 12:00 |
-| **Afternoon Clinic** | 13:00 – 16:30 |
 
-## Closed Days
 
-- Sundays
-- National Public Holidays
-- Year-end / New Year period: **December 29 – January 3**
 
-## Outpatient Services
+We will guide you through the reception and treatment process for those who have previously been examined. Go to details
 
-- [First Visit (New Patients)]({{< relref "first-visit" >}})
-- [Repeat Visit (Returning Patients)]({{< relref "revisit" >}})
-- [Referral Letter]({{< relref "referral" >}})
-- [Referral-Focused Medical Institution]({{< relref "referral-center" >}})
-- [Medication Information]({{< relref "medication" >}})
+## About night/holiday (after-hours) medical treatment
 
-## After-Hours & Emergency
 
-For medical emergencies outside of clinic hours, please call **03-5343-5611** (available 24 hours, 365 days).
 
-## Notice Regarding Surcharges
 
-Patients visiting without a **referral letter** from another medical institution will be subject to an **initial consultation surcharge of ¥7,700** (tax included). We strongly encourage patients to bring a referral letter from their regular physician.
+We will guide you through the reception and medical treatment process for those who come to the hospital outside of business hours. Go to details
+
+## For patients with a referral letter
+
+
+
+
+This is an important notice regarding letters of introduction. Go to details
+
+## About priority medical institutions for referrals
+
+
+
+
+We will explain the system of priority medical institutions for referrals. Go to details
+
+## Have a family doctor
+
+
+
+
+I would like to explain about the family doctor system. Go to details
+
+## About medicine
+
+
+
+
+I will explain about the medicine. Go to details
+
+## For foreigners who do not have Japanese health insurance
+
+
+
+
+From June 1, 2019, if you wish to receive treatment at our hospital, your medical fee will be calculated at 30 yen per point. (separate consumption tax)

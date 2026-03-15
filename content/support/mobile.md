@@ -1,57 +1,41 @@
 ---
 title: "Mobile Phone Policy"
-description: "Rules for using mobile phones and electronic devices at Tokyo Police Hospital."
-weight: 10
+description: "Our hospital has prohibited the use of cell phones within the hospital (inside the building) due to the possibility that"
 ---
 
-## Mobile Phone & Electronic Device Policy
+## Regarding the use of mobile phones and smartphones in the hospital
 
-To protect the privacy of all patients and to prevent interference with medical equipment, Tokyo Police Hospital has established the following rules for the use of mobile phones, smartphones, tablets, and laptops.
+Our hospital has prohibited the use of cell phones within the hospital (inside the building) due to the possibility that cell phones may cause malfunction of medical equipment. In recent years, due to improvements in mobile phones and improvements in the functionality of medical devices, medical devices have become less susceptible to these effects, so we have decided to use them according to the following rules. We kindly ask all visitors to please respect the location and etiquette, and cooperate with us so as not to cause any inconvenience to those around us.
 
-## Permitted Areas
+## Please use with good manners.
 
-Mobile phone use is **permitted** in the following areas:
+- When in the hospital, please switch to silent mode and avoid ringing.
+- When making calls, please be sure to use the designated calling area and refrain from talking loudly.
+- Please turn off the power in prohibited areas.
+- Out of consideration for patient privacy, please refrain from taking photos or recording inside the hospital.
+- The available hours are from 7 a.m. to 9 p.m.
 
-- **Lobby and corridor areas** on the 1st Floor
-- Designated **patient lounge areas** on ward floors
-- **Convenience store and café area** (Natural Lawson, Tully's Coffee)
-- **Outdoor areas** on hospital grounds (excluding smoking restrictions)
+### Areas where the use of mobile phones, etc. is prohibited
 
-## Prohibited Areas
+- Treatment room/blood collection room/infusion room
+- X-ray photography room/various examination rooms
+- Operating room/intensive care unit (ICU)
+- Emergency ward/emergency center
+- Other locations specified by staff
 
-Mobile phone use is **strictly prohibited** in the following areas:
+### Places where you should refrain from using mobile phones, etc.
 
-- **Examination rooms and consultation rooms**
-- **Operating theaters and recovery areas**
-- **ICU / Intensive Care Unit**
-- **Patient rooms** (unless in silent/manner mode and not disturbing other patients — please ask nursing staff)
-- **Near medical equipment** that may be susceptible to electromagnetic interference
+- All examination rooms
+- Waiting area for each outpatient clinic (email is acceptable)
+- 4-bed room in each ward (email is acceptable)
+- Discussion corners located at both ends of each ward (emails accepted)
 
-## Rules for All Users
+### Where it can be used
 
-1. **Manner mode (silent mode) is required** at all times within the hospital building.
-2. **Telephone calls** should be taken in the lobby or designated areas — not in corridors near patient rooms or treatment areas.
-3. **Photography and video recording** of patients, staff, or clinical areas is **strictly prohibited** without explicit written consent. This includes photos of patient lists, records, or any identifiable medical information.
-4. **Audio recording** of consultations or conversations without explicit consent is not permitted.
+- Special rooms/private rooms in each ward
+- Ward lounge
+- 1st floor hall
+- Convenience store eat-in space
+- 9th floor dining room
 
-## Usage Hours
-
-| Area | Permitted Hours |
-|---|---|
-| General permitted areas | 7:00 – 21:00 |
-| Inpatient rooms (with restrictions) | 7:00 – 21:00 (quiet time after 21:00) |
-
-## Wi-Fi Service
-
-Free Wi-Fi is available throughout the hospital for patient and visitor use. Please ask reception or ward staff for the network name and access details.
-
-- **Speed:** Suitable for web browsing and video calling
-- **Usage:** Please be considerate of others and avoid activities that consume excessive bandwidth
-
-## Pacemaker Considerations
-
-Modern smartphones generally do not interfere with pacemakers in normal use. However, we recommend keeping mobile phones at least **15 cm (6 inches)** away from any implanted cardiac device as a precaution.
-
-## Compliance
-
-We ask all patients, visitors, and staff to follow this policy. Non-compliance may result in being asked to leave designated areas. We appreciate your cooperation in helping us maintain a safe and respectful environment for all.
+*About medical PHS The PHS used by staff in the hospital (with a red strap) is a medical PHS that uses weak radio waves that do not affect medical equipment, and has been confirmed to be safe.

@@ -1,39 +1,39 @@
 ---
 title: "Hospitalization"
-description: "Overview of hospitalization services, procedures, and patient support at Tokyo Police Hospital."
-weight: 1
+description: "We will guide you through the admission and discharge procedures. Go to details"
 ---
 
-## Hospitalization at Tokyo Police Hospital
+## About hospitalization and discharge
 
-When hospitalization is required, our staff will guide you through every step of the process — from pre-admission preparation through discharge and follow-up care.
 
-## Hospitalization Services
 
-- [Admission & Discharge Procedures]({{< relref "admission-discharge" >}})
-- [Room Types & Fees]({{< relref "rooms" >}})
-- [Daily Life During Hospitalization]({{< relref "daily-life" >}})
-- [Visiting Rules]({{< relref "visit" >}})
-- [Get Well Email Service]({{< relref "mail" >}})
-- [DPC Payment System]({{< relref "dpc" >}})
 
-## Key Information at a Glance
+We will guide you through the admission and discharge procedures. Go to details
 
-| Item | Details |
-|---|---|
-| Licensed Beds | 415 (general ward) |
-| Nurse-to-Patient Ratio | 1:7 (Acute Care Ward, Type 1) |
-| Visiting Hours | 15:00 – 19:00 (daily) |
-| Emergency Admission | Available 24 hours / 365 days |
+## Life in the hospital
 
-## Our Commitment to Inpatients
 
-During your stay, our multidisciplinary team — including physicians, nurses, pharmacists, dietitians, social workers, and rehabilitation therapists — will work collaboratively to support your recovery and well-being.
 
-If you have any concerns or questions at any time during your hospitalization, please do not hesitate to speak with your nurse or care coordinator.
 
-## Admission & Discharge Support Center
+We will inform you about meals, hospitalization fees, etc. during your stay in the hospital. Go to details
 
-The **Admission & Discharge Support Center** provides comprehensive assistance before, during, and after your hospital stay. Our team includes specialized nurses, social workers, and care coordinators who work to ensure a smooth transition from admission to discharge and community care.
+## About the hospital room
 
-For inquiries: **03-5343-5611** (main) → ask for Admission & Discharge Support Center
+
+
+
+We will provide you with information about hospital room fees, etc. Go to details
+
+## To those visiting you
+
+
+
+
+Information about meeting times, etc. *To prevent the spread of the new coronavirus, visitation conditions will be partially changed from March 1, 2020. Go to details
+
+## DPC information
+
+
+
+
+We have introduced a comprehensive evaluation system (DPC). Go to details

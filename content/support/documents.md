@@ -1,68 +1,29 @@
 ---
-title: "Medical Documents & Certificates"
-description: "How to request medical certificates, referral letters, and other official documents at Tokyo Police Hospital."
-weight: 2
+title: "Medical Certificates & Documents"
+description: "1st floor of our hospital, document counter ⑦"
 ---
 
-## Medical Documents & Certificates
+## Where to apply
 
-We provide a range of official medical documents for patients, including medical certificates, diagnosis reports, summaries, and insurance-related forms.
+1st floor of our hospital, document counter ⑦
 
-## Document Counter
+[Reception hours] (Monday) to (Saturday) 8:00 to 17:00 (excluding holidays and year-end and New Year holidays) [Inquiries] 03-5343-5670 (Direct line to Medical Affairs Division Documentation Section)
 
-| | |
-|---|---|
-| **Location** | Counter ⑦, 1st Floor |
-| **Phone** | 03-5343-5670 |
-| **Hours** | Monday – Saturday, 8:00 – 17:00 |
+## How to apply
 
-## Types of Documents Available
+- Please fill out the document application form provided at the counter and apply. If you have the designated form, please be sure to submit it along with it.
+- As a general rule, applications must be submitted by the patient himself/herself.
+- If someone other than yourself is applying, a power of attorney or written consent is required. The form is optional, but please clearly state ``to whom and what certificate, etc. will be issued''.
+- If the patient has passed away, a family member can apply. In that case, please prepare documents that can confirm your relationship, such as a copy of your family register.
 
-| Document Type | Notes |
-|---|---|
-| Medical Certificate (*Shindan-sho*) | General health/diagnosis certificate |
-| Diagnosis Summary | Summary of your condition and treatment |
-| Discharge Summary | Issued at or after discharge |
-| Certificate of Surgery | Record of surgical procedure |
-| Insurance Claim Form | For private insurance companies |
-| Disability Certificate | Requires physician review |
-| Return-to-Work Certificate | Confirmation of fitness to return to work |
-| School/Work Absence Certificate | Confirmation of illness for absence |
+It can also be downloaded from below.
 
-## Application Procedure
+*As a general rule, we do not accept applications by mail. If you live far away and would like to have it delivered by mail, please contact us by phone in advance.
 
-1. **Visit Counter ⑦** on the 1st Floor during business hours, or request by mail.
-2. Complete the **Application Form** available at the counter (or downloadable from the hospital's Japanese website).
-3. Present your:
-   - Patient registration card
-   - Photo ID (if collecting on behalf of patient, bring authorization letter and your own ID)
-4. Pay the applicable fee.
-5. **Wait approximately 2 weeks** for most documents to be prepared.
-6. You will be notified when your document is ready for collection.
+## Notes on applying
 
-## Processing Time
-
-Standard processing time is **approximately 2 weeks** from the date of application.
-
-Rush processing may be available for urgent cases. Please inquire at the counter.
-
-## Fees
-
-| Document | Fee |
-|---|---|
-| Medical Certificate (general) | Approx. ¥3,300 – ¥5,500 (tax included) |
-| Insurance Claim Form | Approx. ¥3,300 – ¥5,500 per form |
-| Detailed Medical Summary | Approx. ¥5,500+ |
-
-> Fees vary depending on the type and complexity of the document. Please confirm the exact fee at the counter. All fees are paid in advance and are non-refundable.
-
-## Important Notes
-
-- Documents are for the patient named and cannot be issued to unrelated third parties without proper authorization.
-- Medical documents will only be issued for conditions treated at Tokyo Police Hospital.
-- If you require documents for foreign insurance companies or legal proceedings, please notify the staff at the time of application.
-
-## Inquiries
-
-**Document Counter:** 03-5343-5670
-**Hours:** Monday – Saturday, 8:00 – 17:00
+- Depending on the type of documentation, a doctor's approval may be required in advance.
+- It usually takes about two weeks for documents to be delivered. It may take longer depending on the content and the doctor's absence.
+- As a general rule, documents related to multiple medical departments will be issued for each department.
+- Cancellations or refunds cannot be made due to patient's convenience.
+- Identity verification is required when receiving documents. Please be sure to bring your medical card or identification document.

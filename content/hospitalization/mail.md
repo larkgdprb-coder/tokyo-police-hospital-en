@@ -1,40 +1,18 @@
 ---
 title: "Get Well Email Service"
-description: "Send encouraging messages to hospitalized patients at Tokyo Police Hospital via our Get Well Email Service."
-weight: 5
+description: "Tokyo Police Hospital offers a service that sends condolence emails free of charge to hospitalized patients. The email y"
 ---
 
-## Get Well Email Service
+Tokyo Police Hospital offers a service that sends condolence emails free of charge to hospitalized patients. The email you sent will be printed and delivered to each patient. This is a service that both patients and visitors will appreciate. If you would like to use this service, please read the information below, and once you understand the content, please click the "Click here for sympathy email" button.
 
-Can't visit in person? Our **Get Well Email Service** allows family, friends, and colleagues to send warm messages and encouragement to patients admitted at Tokyo Police Hospital.
+In the following cases, we may not be able to handle your order.
 
-Messages are received by the hospital, printed, and delivered directly to the patient's bedside.
 
-## How to Use the Service
 
-1. **Compose your message** via the dedicated email service form or address.
-2. Include the following information in your message:
-   - Patient's full name
-   - Ward name and room number (if known)
-   - Your name and relationship to the patient
-   - Your message
-3. Send your email to the address provided by hospital staff or on the hospital's Japanese website.
-4. Hospital staff will print and deliver your message to the patient, typically within **1–2 business days**.
 
-## Guidelines for Messages
+- If the content does not offer condolences or encouragement, or if the content is completely unrelated. If the inpatient cannot be identified due to incomplete input. If the patient refuses to receive the email (if the patient cannot confirm the sender). If the patient has already been discharged from the hospital. Please note that we may not be able to respond to emails that are on holidays or are urgent.
 
-- Please write in Japanese or English.
-- Keep messages appropriate and positive — this service is meant to encourage patients.
-- Do not include sensitive personal or financial information.
-- The hospital reserves the right to withhold messages that are deemed inappropriate or that may affect the patient's recovery.
 
-## Patient Privacy
 
-The hospital will handle all messages in accordance with our privacy policy. Messages will only be delivered to the named patient. We will not share personal information with third parties.
 
-## Contact
-
-For more information about the Get Well Email Service, please contact the hospital's main reception:
-
-- **Phone:** 03-5343-5611
-- **Hours:** Monday – Saturday, 8:00 – 17:00
+- We will strictly maintain the privacy of email content. (The contents of your email will not be viewed by anyone other than the person in charge.)

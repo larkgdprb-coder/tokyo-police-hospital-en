@@ -1,45 +1,39 @@
 ---
 title: "Find a Family Doctor"
-description: "Information about finding and using a family doctor (primary care physician) in your local community"
+description: "In an effort to provide seamless medical care from hospitalization to home, the Ministry of Health, Labor and Welfare ha"
 ---
 
-## Having a Family Doctor (Primary Care Physician)
+## About our hospital's medical treatment policy
 
-Tokyo Police Hospital encourages all patients to have a regular family doctor (かかりつけ医, *Kakari-tsuke-i*) in your local community.
+In an effort to provide seamless medical care from hospitalization to home, the Ministry of Health, Labor and Welfare has indicated that the medical functions of family doctor clinics and large hospitals will be clarified and collaboration between clinics and clinics will be promoted. At our hospital, we recommend that patients with mild symptoms and patients with chronic conditions who require long-term hospital visits visit their local family doctor. We ask that all residents of the ward understand the purpose of this initiative and cooperate with us.
 
-## Why a Family Doctor?
+[Selected medical expenses](https://www.keisatsubyoin.or.jp/wordpress/wp-content/uploads/2024/01/選定療養費チラシ20240111.pdf)
 
-A family doctor serves as your first point of contact for health concerns. They:
+## What is a “family doctor”?
 
-- Manage your overall health and medical history
-- Provide routine check-ups and preventive care
-- Issue referrals to specialists or hospitals when needed
-- Coordinate care between different medical institutions
+A family doctor is a doctor who cares deeply about the illnesses of patients and their families. Please consult your ``family doctor'' about any illnesses you are currently being treated for, illnesses you have had in the past, and medications you are currently taking. In an emergency, they will make the right decision and provide the most appropriate treatment. We also feel free to consult with patients about their family's health and physical health.
 
-## Our Role as a Regional Core Hospital
+## About the role and function of a “family doctor”
 
-As a designated **Referral-Focused Medical Institution**, Tokyo Police Hospital primarily handles:
+### primary medical care
 
-- Patients referred by family doctors or other clinics
-- Emergency cases
-- High-complexity conditions requiring advanced equipment or surgery
+A ``family doctor'' is the doctor a patient first sees for treatment. Appropriate initial treatment will be provided depending on the patient's medical history, family history, allergies, and other health conditions.
 
-For stable, ongoing conditions, we encourage patients to manage their care with a local family doctor and visit us when specialist treatment is needed.
+### Optimal medical care according to symptoms
 
-## Finding a Family Doctor Near You
+From mild symptoms to those that require specialized expertise, your family doctor will provide the best judgment and treatment. We will also refer you to a specialist depending on your symptoms.
 
-You can search for family doctors in the area using the MediMap service:
+## Regarding cooperation with “family doctor” (medical examination cooperation)
 
-**[MediMap – Find a Registered Doctor Near Tokyo Police Hospital](https://www.medimap.jp/p131470061/registered/list)**
+At our hospital, we perform tests that are not performed at your family doctor's medical institution and provide treatment using advanced medical equipment. After treatment at our hospital, you may continue to see your family doctor depending on your symptoms. In addition, if your symptoms change and become more serious, or if you require surgery or hospitalization, please rest assured that we will treat you at our hospital.
 
-This tool helps you find clinics and doctors who are familiar with and registered in relation to Tokyo Police Hospital.
+### Advantages of bringing a letter of introduction from your family doctor when visiting Tokyo Police Hospital
 
-## Referral System
+- The selected medical treatment fee of 7,700 yen at the first consultation is no longer required.
+- We will provide you with information about your treatment progress and test results, which will help you make the right decision.
+- You can avoid duplication of tests and medications.
+- If you have a referral letter, you can make a medical appointment by phone. We recommend that you make an appointment in advance, as your referring doctor may not be available for outpatient consultations on the day you plan to visit.
 
-When your family doctor determines that specialist care is needed, they will issue a **referral letter** (*shoukaijou*, 紹介状). Bringing this letter to your first visit at our hospital:
+## Those who are receiving treatment at our hospital and do not have a family doctor
 
-- Waives the ¥7,700 initial consultation surcharge
-- Allows us to coordinate directly with your family doctor
-- Enables seamless communication about your treatment
-
-→ [More about visiting with a referral letter](/outpatient/referral/)
+Please consult your doctor. We will help you find a medical institution that is easy to visit and that suits your medical condition. You can search for regional medical institutions affiliated with our hospital below. We also provide detailed information for your convenience.

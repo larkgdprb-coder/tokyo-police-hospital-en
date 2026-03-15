@@ -1,53 +1,39 @@
 ---
-title: "Assistance Dogs Policy"
-description: "Tokyo Police Hospital's policy on guide dogs, service dogs, and hearing dogs."
-weight: 12
+title: "Guide & Service Dogs"
+description: "If you see an assistance dog in the hospital, please watch over it warmly. Animals other than assistance dogs (including"
 ---
 
-## Assistance Dogs at Tokyo Police Hospital
+## Our hospital accepts “assistance dogs for people with physical disabilities”.
 
-In accordance with the **Act for Assistance Dog Users** (*Houshin Jiritsushien Hou*), Tokyo Police Hospital **welcomes and accommodates users of all certified assistance dogs**, including:
+If you see an assistance dog in the hospital, please watch over it warmly. Animals other than assistance dogs (including therapy dogs) are strictly prohibited.
 
-- **Guide Dogs** (*Mōdōken*) — for persons with visual impairments
-- **Service Dogs / Mobility Assistance Dogs** (*Kaitejoken*) — for persons with physical disabilities
-- **Hearing Dogs** (*Hochōken*) — for persons who are deaf or hard of hearing
+### Acceptable assistance dogs (the following three types based on the Act on Assistance Dogs for Physically Disabled Persons)
 
-Certified assistance dogs are permitted in all areas of the hospital that their user needs to access, including outpatient areas, wards, and support areas.
+- Guide dog (helps visually impaired people walk): Has a white or yellow harness around its body.
+- Service dog (supports the daily lives of people with physical disabilities): A "service dog" tag is attached to a conspicuous part of the dog.
+- Hearing dog (transfers sound to people with hearing disabilities): A "hearing dog" sign is attached to a conspicuous part of the dog.
 
-## How to Identify Certified Assistance Dogs
+### Regarding areas where assistance dogs for people with disabilities are allowed in the hospital
 
-Certified assistance dogs in Japan wear identifying gear:
+### For those visiting the hospital with assistance dogs
 
-| Dog Type | Harness Color / Markings |
-|---|---|
-| Guide Dog | White or yellow harness, often with "Mōdōken" label |
-| Service Dog | Blue or green vest, often with "Kaitejoken" label |
-| Hearing Dog | Orange vest, often with "Hochōken" label |
+When a person using an assistance dog for the physically disabled visits the hospital, we may check the following points as necessary.
 
-Certified dogs are also registered and carry identification documents. If in doubt, please ask the handler politely.
+- Possession of a “Physically Disabled Assistance Dog Health Handbook”
+- Possession of “Physically Disabled Assistance Dog Certification”
+- Presence of vaccination
+- Presentation of the designated display tag that should be attached to assistance dogs (service dogs and hearing dogs only)
 
-## Rules for Interacting with Assistance Dogs
+### If you see a service dog
 
-Please observe the following 5 rules when encountering an assistance dog in the hospital:
+A service dog is a part of the companion's body. If you see a service dog in the hospital, please watch over them warmly. Please refrain from doing anything that will interfere with the assistance dog's work. If you are allergic to dogs, please leave by yourself or notify hospital staff.
 
-1. **Do not touch the dog without permission** from the handler. Even gentle petting can distract the dog from its important work.
-2. **Do not call out to or make eye contact** with the dog in a way that draws its attention away from its user.
-3. **Do not offer food** to an assistance dog. Their diet is carefully managed.
-4. **Do not block the dog's path** or interfere with its movement alongside its user.
-5. **Treat the handler with the same dignity and respect** as any other patient or visitor.
+### Precautions for assistance dogs (Guided by the Japan Assistance Dog Association)
 
-## For Hospital Staff
+- Please do not call out to your assistance dog or give it food. If your service dog becomes distracted while you are working, it could cause an accident.
+- Even if you love dogs, don't stare too much at your assistance dog. Service dogs are tempted.
+- If a user is having trouble, please ask them, ``Is there anything I can help you with?'' Users can go out with peace of mind knowing that if something happens, people around them will be able to lend a hand right away.
+- If you wish to interact with a service dog, please be sure to obtain permission from the user. You cannot interact with your assistance dog while it is at work. There are times when you can interact with users, such as when they are waiting next to you.
+- If you find yourself in a store where you are refused entry, please tell the store staff that you are allowed to bring an assistance dog with you under the law (Act on Assistance Dogs for Persons with Physical Disabilities). The Act on Assistance Dogs for Physically Disabled Persons, which was fully enforced in 2003, requires supermarkets, hotels, restaurants, and public facilities to accept assistance dogs.
 
-All staff are trained to welcome assistance dog users warmly and to facilitate their access throughout the hospital. If you have any questions about accommodating an assistance dog user, please speak with your supervisor or the nursing station.
-
-## Pet Policy (Non-Assistance Animals)
-
-Please note that **pets and non-certified animals are not permitted** in the hospital building. Only certified assistance dogs (as described above) are allowed entry.
-
-## Questions or Concerns
-
-If you are an assistance dog user and have any concerns about accessibility during your visit, please contact us in advance:
-- **Phone:** 03-5343-5611
-- **Hours:** Monday – Saturday, 8:00 – 17:00
-
-We are committed to ensuring that every patient can access our services comfortably and with dignity.
+2009.02. Edited by Tokyo Police Hospital Infection Control Office

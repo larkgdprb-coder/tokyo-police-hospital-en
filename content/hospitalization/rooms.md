@@ -1,49 +1,60 @@
 ---
 title: "Room Types & Fees"
-description: "Details on room types, sizes, amenities, and extra charges for inpatients at Tokyo Police Hospital."
-weight: 2
+description: "- The hospital has private rooms and 4-bed rooms."
 ---
 
-## Room Types and Fees
+- The hospital has private rooms and 4-bed rooms.
+- You may be asked to change your room due to medical conditions, nursing care, or other reasons.
+- Please let us know if you would like a private room. We may not be able to provide your desired hospital room due to full occupancy.
 
-Tokyo Police Hospital offers a range of room types to suit different needs and preferences. Rooms covered by standard health insurance have no extra room charge. Private rooms carry an additional daily fee, which is **not covered by health insurance** and must be paid out-of-pocket.
+## About hospital life
 
-### Room Fee Table
+- The hospital is a communal space, so please respect manners and rules.
+- Smoking is completely prohibited on the premises. The use of electronic cigarettes is also prohibited.
+- Lights go out at 9:00 p.m. Please refrain from walking around the hospital after lights out or chatting with visitors.
+- Please use your mobile phone only in designated areas. Public telephones are located on each floor.
+- Telephone calls from outside the hospital cannot be answered.
+- Please be sure to use earphones when watching TV.
+- Please refrain from using electrical products other than electric razors and hair dryers.
+- Please do not go outside the hospital premises in night clothes or pajamas.
+- Please refrain from any behavior that may interfere with the treatment of other patients or the work of medical professionals.
+- To prevent infection, please refrain from bringing flowers, potted plants, etc.
+- We do not allow cutlery such as scissors or knives to be brought in.
 
-| Room Type | Daily Fee (¥, tax incl.) | Size (㎡) | Number of Rooms | Facilities |
-|---|---|---|---|---|
-| **4-bed Room** | Free | 32 ㎡ (8㎡/bed) | 64 rooms | Standard |
-| **Private Room A** | ¥20,900 | 17 ㎡ | 24 rooms | Shower & Toilet |
-| **Private Room B** | ¥19,800 | 18 ㎡ | 2 rooms | Shower & Toilet |
-| **Private Room C** | ¥18,150 | 16 ㎡ | 55 rooms | Toilet only |
-| **Private Room D** | ¥14,630 | 15 ㎡ | 45 rooms | No shower/toilet |
-| **Special Suite (Standard)** | ¥37,400 | 29 ㎡ | — | Shower & Toilet |
-| **Special Suite (Deluxe)** | ¥52,800 | 43 ㎡ | — | Shower & Toilet |
+## About fees
 
-> All fees are per night and include tax. Room fees are **not covered by public health insurance** and are charged in addition to your medical expenses.
+### 4 bed room
 
-## About Each Room Type
+| Room charge (tax included) | free |
+| --- | --- |
+| spaciousness | 32㎡ |
+| Number of rooms | 64 |
+| TV, refrigerator, Wi-Fi, laundry | Paid (daily flat rate system) |
 
-### 4-Bed Room (Standard Ward)
-The standard shared room is covered by your health insurance with no additional charge. Each bed area measures approximately 8㎡ and includes a bedside locker, call button, and curtain for privacy. Shared bathrooms and toilets are available on each floor.
+### Private room
 
-### Private Room C & D
-These rooms offer greater privacy and are suitable for patients who prefer a quieter environment. Room C includes a private toilet; Room D is located near shared bathroom facilities.
 
-### Private Room A & B
-These well-appointed private rooms include a private shower and toilet, providing maximum comfort and hygiene. Ideal for longer stays or patients who prefer full private facilities.
 
-### Special Suites
-Our Special Suites are spacious, fully furnished private rooms designed for maximum comfort. Available in Standard (29㎡, ¥37,400/night) and Deluxe (43㎡, ¥52,800/night) configurations. Both include private shower and toilet.
 
-## Requesting a Private Room
 
-Room availability is subject to current occupancy. To request a specific room type, please notify the nursing staff or the Admission & Discharge Support Center at the time of scheduling your admission.
 
-Please note that **medical considerations take precedence** over room preferences. Patients with certain conditions may be assigned to specific rooms for clinical reasons.
 
-## Notes on Billing
 
-- Room charges start from the day of admission and end on the day **before** discharge (not the discharge day itself).
-- Health insurance co-payments, room fees, and any additional fees (TV rental, etc.) will be billed upon discharge.
-- Please see the [DPC Payment System]({{< relref "dpc" >}}) page for information on how your total medical fees are calculated.
+
+| Private room type | spaciousness | Room charge (tax included) | Number of rooms | shower | toilet | TV/refrigerator Wi-Fi/laundry |
+| --- | --- | --- | --- | --- | --- | --- |
+| A | 17㎡ | 20,900 yen | twenty four | 〇 | 〇 | 〇 |
+| B | 18㎡ | 19,800 yen | 2 | 〇 | 〇 | 〇 |
+| C | 16㎡ | 18,150 yen | 55 | ✕ | 〇 | 〇 |
+| D | 15㎡ | 14,630 yen | 45 | ✕ | ✕ | 〇 |
+
+### special room
+
+|  |  |  |
+| --- | --- | --- |
+
+| Room charge (tax included) | 37,400 yen・52,800 yen |
+| --- | --- |
+| spaciousness | 29㎡・43㎡ |
+| Number of rooms | 2 rooms/bath/toilet |
+| TV, refrigerator, Wi-Fi, laundry | free |

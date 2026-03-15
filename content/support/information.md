@@ -1,66 +1,22 @@
 ---
-title: "General Information & Reception"
-description: "Information about the general reception and information desk services at Tokyo Police Hospital."
-weight: 1
+title: "General Information"
+description: "〇 What department should I see? 〇 What are the procedures? 〇 I don't know the location of the facilities within the hosp"
 ---
 
-## General Information Desk
+## When the patient first visits the hospital
 
-The **General Information Desk** is located in the main lobby on the **1st Floor**, near the main entrance.
+〇 What department should I see? 〇 What are the procedures? 〇 I don't know the location of the facilities within the hospital.
 
-Our friendly staff are available to assist with:
-- Directing you to the correct department or clinic
-- Providing information about hospital services
-- Lending wheelchairs and strollers
-- Answering general questions about the hospital
+In addition to alleviating concerns and assisting patients with problems, we also assist with the operation of follow-up examination reception machines and automatic payment machines.
 
-## Wheelchair & Stroller Loan
+## Transfer to the department in charge
 
-The following mobility aids are available free of charge from the Information Desk:
+〇 Consultations regarding medical treatment and treatment 〇 Consultations regarding second opinions 〇 Consultations regarding medical safety 〇 Consultations regarding disclosure of medical records (medical records, etc.)
 
-| Item | Quantity Available |
-|---|---|
-| Wheelchairs | 12 |
-| Strollers (for young children) | 2 |
+Furthermore, we are happy to respond to your opinions, requests, and other questions, so please feel free to contact us at ``General Information.''
 
-Please return items to the Information Desk after use.
+*In order to accommodate patients who have difficulty walking or patients who come with infants, we have prepared 12 wheelchairs and 2 strollers at the entrance, and are striving to provide as much support as possible according to patient requests, such as assistance.
 
-## Volunteer Services
+*We are deepening our ties with the local community by having volunteers perform various activities such as providing guidance and assistance.
 
-Our hospital is supported by a dedicated team of trained volunteers who assist patients and visitors. Volunteers can be found near the Information Desk and throughout the hospital during operating hours.
-
-Volunteer services include:
-- Escorting patients between departments
-- Assistance with wayfinding
-- General support for patients who need help navigating the hospital
-
-If you would like to request volunteer assistance, please ask at the Information Desk.
-
-## Patient Liaison & Consultation Referrals
-
-The Information Desk can connect you with appropriate services including:
-- Medical Social Work consultations
-- Nutrition counseling appointments
-- Patient safety and complaint procedures
-- Second opinion inquiries
-
-## Hospital Map & Floor Guide
-
-Floor maps are available in printed form at the Information Desk. A summary of key locations by floor:
-
-| Floor | Key Facilities |
-|---|---|
-| 1F | Main Entrance, Reception, Cashier, Pharmacy, Convenience Store (Lawson), Tully's Coffee, X-ray, Blood Draw |
-| 2F | Outpatient Clinics (Internal Medicine, Surgery, etc.) |
-| 3F | Outpatient Clinics (continued), Endoscopy Unit |
-| 4F | Operating Theaters, ICU, Recovery |
-| 5F–9F | Inpatient Wards |
-| B1F | Radiology (MRI, CT, PET/CT), Rehabilitation |
-| B2F | Parking |
-
-## Hours
-
-| | |
-|---|---|
-| Information Desk | Monday – Saturday, 8:00 – 17:00 |
-| Main Entrance | Opens 7:45 daily |
+We will continue to strive to be a cheerful hospital that is trusted by patients and their families, and provide prompt and friendly comprehensive information.

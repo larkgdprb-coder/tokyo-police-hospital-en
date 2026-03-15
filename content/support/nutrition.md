@@ -1,57 +1,33 @@
 ---
 title: "Nutrition Counseling"
-description: "Individual and group nutrition counseling services available at Tokyo Police Hospital."
-weight: 4
+description: "At Tokyo Police Hospital, the nutrition department is not a division, but a department, similar to a medical department."
 ---
 
-## Nutrition Counseling & Guidance
+## Nutritional consultation
 
-Our team of **registered dietitians** provides personalized nutrition counseling and education for patients with a variety of health conditions. Good nutrition is a fundamental component of disease prevention, treatment, and recovery.
+At Tokyo Police Hospital, the nutrition department is not a division, but a department, similar to a medical department. This meaning is based on the idea that food is also a part of treatment. We, the nutritionists, take this meaning very seriously, and in order to help patients recover from their illness as quickly as possible and be discharged from hospital early, we serve hot meals hot, cold meals cold, and home-cooked meals with a mix of Western and Chinese food, with a focus on Japanese food, so that patients can enjoy safe and secure meals.
 
-## Individual Nutrition Counseling
+## About meals
 
-Individual consultations are available for patients whose conditions require specific dietary management, including:
+### 1. Aiming to prevent chronic diseases
 
-- **Diabetes mellitus** – carbohydrate management, meal planning, blood glucose control
-- **Kidney disease (CKD)** – protein, potassium, phosphorus, and fluid management
-- **Hypertension** – sodium restriction, DASH diet
-- **Dyslipidemia (high cholesterol)** – fat intake, heart-healthy diet
-- **Obesity** – calorie management, behavioral change support
-- **Cancer and cancer treatment** – nutritional support during chemotherapy/radiation
-- **Post-surgical nutrition** – support for recovery and dietary progression
-- **Eating disorders** – supportive nutritional counseling
-- **Allergies and special diets** – food allergy management
+We aim to provide meals that help prevent chronic diseases caused by dietary habits, and create meals that will serve as a role model for patients after they are discharged from the hospital. First of all, we use stock from natural ingredients rather than chemical seasonings, aiming to bring out the flavor of the ingredients and create delicious meals that are gentle on the body.
 
-### How to Arrange
+### 2. type of meal
 
-Individual counseling is arranged through your attending physician or the outpatient clinic. Please ask your doctor for a dietitian referral.
+*February 3rd event food (Setsubun) ・Futomaki sushi and inari sushi ・Simmered fish fried fish ・Simmered ・Vinegar miso sauce ・Jelly ・Fukumame
 
-## Group Education (Diabetic Class)
+Meals during hospitalization are divided into general food that prevents disease, and therapeutic food that treats the disease itself.Based on our basic policy that all meals are part of treatment, we strive to provide meals that are tailored to each patient as much as possible. In addition to allergic foods, if you experience a loss of appetite during the treatment process, we will ask you about foods that are easy to eat and make every effort to make sure that you are able to enjoy them. In addition, you can choose rice, porridge, or bread for any type of food, and you can choose from two types of regular meals. We offer seasonal event meals at least once a month.
 
-**Diabetes Education Classes** are held regularly for patients newly diagnosed with diabetes or those seeking to improve their self-management skills. Classes cover:
-- Understanding diabetes and blood glucose
-- Meal planning and carbohydrate counting
-- Reading food labels
-- Q&A with a dietitian
+| Example of breakfast | An example of lunch |
+| --- | --- |
 
-Ask your physician or the diabetes care team for the current schedule.
+## About nutritional guidance
 
-## Maternity & Prenatal Nutrition Classes
+A registered dietitian will provide nutritional guidance tailored to the patient's medical condition based on the doctor's instructions.
 
-Nutrition classes for expectant mothers are available through the **Obstetrics & Gynecology Department**. Topics include:
-- Nutritional needs during pregnancy
-- Foods to eat and avoid
-- Weight management
-- Postpartum recovery nutrition and breastfeeding support
-
-Please ask your OB/GYN for details.
-
-## Inpatient Dietitian Services
-
-All inpatients receive nutritionally balanced meals planned by our dietitian team, tailored to their medical condition. For patients with specific dietary requirements, the dietitian will conduct an individual assessment and adjust the meal plan accordingly.
-
-## Contact
-
-For nutrition counseling inquiries, please contact the main reception and ask to be connected to the **Nutrition Management Department**:
-- **Phone:** 03-5343-5611
-- **Hours:** Monday – Friday, 9:00 – 16:30
+| Individual instruction | Outpatient nutritional guidance | Reservation required from Monday to Saturday |
+| --- | --- | --- |
+| Nutritional guidance during hospitalization | Anytime from Monday to Saturday |
+| group instruction | Diabetes education class | *Weekend dining experience course, 7-day course, 14-day course |
+| Maternity class |  |

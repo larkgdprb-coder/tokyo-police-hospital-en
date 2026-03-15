@@ -1,35 +1,26 @@
 ---
-title: "Hospital Evaluation (JCQHC)"
-description: "Tokyo Police Hospital's accreditation status with the Japan Council for Quality Health Care."
-weight: 11
+title: "Hospital Evaluation"
+description: "Our hospital underwent a review by the Japan Organization for Healthcare Functional Evaluation and became a certified ho"
 ---
 
-## Japan Council for Quality Health Care (JCQHC) Accreditation
+Our hospital underwent a review by the Japan Organization for Healthcare Functional Evaluation and became a certified hospital in July 2010, and was re-certified in January 2021 following a renewal review. Through this hospital function evaluation, we are conducting continuous improvement activities across the organization.
 
-Tokyo Police Hospital has received accreditation from the **Japan Council for Quality Health Care** (公益財団法人 日本医療機能評価機構, *JCQHC*), Japan's leading independent hospital accreditation body.
+|  |  |
+| --- | --- |
+|  |
 
-## What Is JCQHC Accreditation?
+## What is Japan Healthcare Functional Evaluation Organization?
 
-The JCQHC conducts comprehensive, independent assessments of hospitals across Japan to evaluate the quality and safety of medical care. The assessment process includes:
+Being able to enjoy medical care with peace of mind is desired not only by those receiving medical care, but also by those providing medical care. In order to ensure the public's trust in medical care and to further improve its quality, the Japan Institute for Healthcare Evaluation was established as a third-party organization that evaluates the functions of hospitals and other medical institutions from a neutral standpoint from an academic perspective, and supports the improvement of problems identified as a result.
 
-- On-site review by a team of trained surveyors
-- Evaluation against standardized quality criteria across all hospital functions
-- Assessment of patient safety systems, infection control, patient rights, medical records management, and organizational governance
-- Feedback and recommendations for continuous improvement
+## What is hospital function evaluation?
 
-Hospitals that meet the required standards are granted accreditation, which must be renewed periodically through re-evaluation.
+This is an accreditation system that evaluates the quality of medical services from a neutral, scientific, and professional perspective by the Japan Organization for Healthcare Evaluation. Evaluation researchers from the organization visit hospitals and evaluate hospital activities (functions) according to predetermined criteria. By working to improve the issues revealed by this evaluation result, we can say that the hospital continues to strive every day to provide medical services that are safe, secure, and reliable.
 
-## What Accreditation Means for Patients
+## Evaluation area
 
-JCQHC accreditation gives patients and their families confidence that:
+The Japan Healthcare Evaluation Organization examines and evaluates hospital functions in the following areas: 1. Hospital organization management and role in the community 2. System for ensuring patient rights and safety 3. Treatment environment and patient services 4. Organization and management of medical care provision 5. Care process for medical quality and safety 6. Rationality of hospital management
 
-- The hospital has undergone rigorous independent review
-- Quality and safety systems meet nationally recognized standards
-- The hospital is committed to continuous quality improvement
-- Patient rights and safety are given the highest priority
+In the future, we will not only continue to receive this certificate, but also strive to improve medical services and patient services by revitalizing the hospital organization, raising awareness among staff, and fostering an awareness of improvement.
 
-## Our Commitment to Quality
-
-Our JCQHC accreditation is not simply a certificate on the wall — it represents our hospital's ongoing commitment to self-evaluation, transparency, and improvement. We regularly conduct internal audits, incident reviews, and patient satisfaction surveys to ensure we are meeting and exceeding the standards required for accreditation.
-
-For more information about the JCQHC, please visit the organization's website: [https://www.jcqhc.or.jp/](https://www.jcqhc.or.jp/)
+◆Go to the information page for the evaluation results of the Japan Organization for Healthcare Evaluation

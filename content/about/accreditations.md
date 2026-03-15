@@ -1,62 +1,72 @@
 ---
 title: "Accreditations & Certifications"
-description: "A full list of official designations, medical society accreditations, and certifications held by Tokyo Police Hospital."
-weight: 8
+description: "- Insurance medical institution"
 ---
 
-## Official Designations (Government & Public Body)
+## Designation status of designated facilities (based on laws and regulations)
 
-Tokyo Police Hospital holds the following official designations from national and metropolitan government bodies:
+- Insurance medical institution
+- emergency hospital
+- Tokyo designated secondary emergency medical institution
+- Tokyo disaster base hospital
+- Tokyo acute stroke medical institution
+- Tokyo liver specialist medical institution
+- Tokyo CCU network facility
+- Disaster dialysis medical network facilities in the Tokyo wards
+- Clinical training designated hospital
+- Medical institutions designated by the Public Assistance Act
+- Workers' compensation insurance designated hospital
+- Public disaster designated medical institution
+- Medical institutions designated by the Act on Independence Support for Persons with Disabilities (nurturing medical care, rehabilitation medical care, psychiatric outpatient medical care)
+- Medical institutions designated by the Physically Disabled Persons Welfare Act
+- Tuberculosis designated medical institution
+- Maternal and Child Health Act designated childcare medical institution
+- Designated pediatric chronic disease medical institution
+- Medical institutions designated for subsidy for medical expenses for intractable diseases
 
-| Designation | Issuing Body |
-|---|---|
-| Emergency Hospital (Level 2) | Tokyo Metropolitan Government |
-| Cancer Designated Hospital | Ministry of Health, Labour and Welfare / Tokyo |
-| DPC Standard Hospital | Ministry of Health, Labour and Welfare |
-| Referral-Focused Medical Institution | Ministry of Health, Labour and Welfare |
-| Disaster Medical Assistance Team (DMAT) Base | Ministry of Health, Labour and Welfare |
-| Stroke Center | Ministry of Health, Labour and Welfare |
-| Clinical Training Hospital | Ministry of Health, Labour and Welfare |
-| Nursing Training Hospital | Ministry of Health, Labour and Welfare |
-| Medical Intern Training Facility | Japan Medical Association |
+## Certification of facilities such as academic societies
 
-## Medical Society Accreditations
+### Specialist teaching hospital designation, etc.
 
-The following departments and programs hold accreditation from their respective Japanese medical societies:
-
-| Society / Board | Accredited Program / Facility |
-|---|---|
-| Japan Surgical Society | Certified Surgical Training Facility |
-| Japanese Society of Gastroenterology | Certified Gastroenterology Facility |
-| Japanese Society of Internal Medicine | Certified Internal Medicine Training Facility |
-| Japanese Society of Cardiology | Certified Cardiology Training Facility |
-| Japanese Circulation Society | Certified Cardiovascular Training Facility |
-| Japanese Society of Neurology | Certified Neurology Training Facility |
-| Japanese Orthopaedic Association | Certified Orthopaedic Training Facility |
-| Japanese Urological Association | Certified Urology Training Facility |
-| Japan Society of Obstetrics and Gynecology | Certified OB/GYN Training Facility |
-| Japanese Society of Pediatrics | Certified Pediatric Training Facility |
-| Japanese Dermatological Association | Certified Dermatology Training Facility |
-| Japan Ophthalmological Society | Certified Ophthalmology Training Facility |
-| Japan Otological Society | Certified ENT Training Facility |
-| Japanese Society of Psychiatry and Neurology | Certified Psychiatry Training Facility |
-| Japanese Society of Anesthesiologists | Certified Anesthesiology Training Facility |
-| Japanese Society of Radiation Oncology (JASTRO) | Certified Radiation Therapy Training Facility |
-| Japanese Breast Cancer Society | Certified Breast Cancer Treatment Facility |
-| Japanese Society of Respiratory Endoscopy | Certified Bronchoscopy Training Facility |
-| Japanese Society for Endoscopic Surgery | Certified Laparoscopic Surgery Training Facility |
-| Japan Diabetes Society | Certified Diabetes Training Facility |
-| Japanese Society of Nephrology | Certified Nephrology Training Facility |
-| Japanese Society of Blood Transfusion and Cell Therapy | Certified Training Facility |
-
-## Quality Accreditation
-
-| | |
-|---|---|
-| **Japan Council for Quality Health Care (JCQHC)** | Accredited Hospital |
-
-The JCQHC (日本医療機能評価機構) is Japan's leading independent hospital accreditation body. Accreditation by JCQHC demonstrates that a hospital meets rigorous standards for patient safety, quality management, and organizational governance.
-
-## Ongoing Commitment to Quality
-
-We continue to pursue additional certifications and maintain existing accreditations through regular audits, peer review, and quality improvement initiatives. Our goal is to remain at the forefront of hospital quality in Japan.
+- Japanese Society of Internal Medicine Teaching Hospital
+- Japanese Dermatological Association Training Facility
+- Japanese Society of Psychiatry and Neurology Training Facility
+- Japanese Surgical Society Training Facility
+- Japanese Orthopedic Society Training Facility
+- Japanese Society of Obstetrics and Gynecology Specialized Doctor Guidance Facility
+- Japanese Ophthalmological Society Training Facility
+- Japan Otorhinolaryngological Society Specialist Training Facility
+- Japanese Otological Society Otology Surgery Approved Training Facility
+- Japanese Urological Association Specialist Education Facility
+- Training location designated by the Japanese Society of Neurosurgery
+- Japanese Society of Medical Radiology Training Institute
+- Japanese Society of Anesthesiology certified hospital
+- Japanese Society of Pathology training certified facility
+- Japanese Society of Emergency Medicine Emergency Department Specialist Designated Facility
+- Japanese Society of Intensive Care Medicine Specialist Training Facility
+- Japanese Society of Plastic Surgery certified facility
+- Japanese Society of Gastroenterology certified facility
+- Japanese Circulation Society Training Facility
+- Japanese Respiratory Society certified facility
+- Japanese Society of Hematology Blood Training Facility
+- Japanese Society of Nephrology Training Facility
+- Japanese Society of Hepatology affiliated facilities
+- Japan Geriatrics Society certified facility
+- Japanese Society of Intensive Care Medicine Specialist Training Facility
+- Japanese Gastrointestinal Endoscopy Society Guidance Facility
+- Japanese Society of Dialysis Medicine certified facility
+- Japanese Society of Pain Clinicians Training Facility
+- Japan Stroke Society certified training and teaching hospital
+- Japanese Society of Clinical Cytology Education and Training Facility
+- Japanese Society of Neuroendovascular Therapy Training Facility
+- Japanese Breast Cancer Society certified facility
+- Japanese Cancer Treatment Certification Medical Organization certified training facility
+- Japan Acute Blood Purification Society certified designated facility
+- Japanese Gastrointestinal Society Gastroenterology Guidance Facility
+- Japanese Society of Breast Oncoplastic Surgery Facility Certification
+- Japanese Respiratory Endoscopy Society certified facility
+- Emergency medical technician hospital training training facility
+- Japanese Society of Women's Medicine Specialist System Certification Training Facility
+- Physician training cooperation facility designated by the Maternal Protection Act
+- Japan Hereditary Breast Cancer Ovarian Cancer Comprehensive Medical System Organization (JOHBOC) Collaborative Cooperation Facility
+- Japanese Society of Neurology Specialist System Certified Associate Educational Facility

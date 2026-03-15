@@ -1,106 +1,127 @@
 ---
 title: "Frequently Asked Questions (FAQ)"
-description: "Answers to common questions about outpatient visits, hospitalization, and services at Tokyo Police Hospital."
-weight: 8
+description: "- About the first consultation"
 ---
 
-## Frequently Asked Questions
+- About the first consultation
+- About reservations
+- About medical treatment
+- About accounting
+- About the facility
+- others
 
-### Outpatient & First Visit
+## About the first consultation
 
-**Q: Do I need a referral letter to visit Tokyo Police Hospital?**
-A: You do not need a referral letter to visit our outpatient clinic. However, patients visiting **without a referral letter** will be charged an additional **initial consultation surcharge of ¥7,700** (tax included). We strongly encourage obtaining a referral letter from your regular physician to avoid this charge and to facilitate more efficient care.
+QUESTION This is my first time visiting a doctor, what should I do?
 
----
+ANSWER Anyone can visit our hospital. If you are visiting our clinic for the first time, please bring a referral letter from your local primary care physician.
 
-**Q: What should I bring to my first visit?**
-A: Please bring the following:
-- Health insurance card or MyNumber card
-- Referral letter (if available)
-- Medication notebook (*okusuri techō*)
-- Any previous test results or imaging
-- Cash for co-payment and any applicable surcharges
+QUESTION Can I see a doctor without a referral letter?
 
----
+ANSWER As a general rule, if you are visiting us for the first time, please bring a letter of introduction (medical information form) with you. If you do not have a referral letter, you will be required to pay a selected treatment fee of 7,700 yen at the time of your first visit. For details on how to receive a medical examination, etc., please see the [Outpatient Medical Examination] page. Please note that depending on the department, you may not be able to see the patient without a referral letter, so please contact each department for details.
 
-**Q: Can I choose which doctor I see?**
-A: You may request a specific department, but individual physician selection is generally not available on a first-visit basis. For follow-up appointments, you will typically continue to see the same physician.
+QUESTION What is the medical treatment fee selected at the time of initial consultation?
 
----
+ANSWER Based on the national policy that ``initial medical treatment should be performed at local clinics, and advanced/specialized medical care should be provided at hospitals,'' this system was established with the aim of making appropriate use of clinics and hospitals.If you are seen for the first time at a ``hospital with 200 or more beds'' without a referral letter from another medical institution, a special fee will be collected in addition to the medical fee. At our hospital, based on our policy of contributing to the enhancement of local medical care, we work closely with primary care physicians to provide high-quality medical care tailored to each patient's role.As a general rule, we require a letter of introduction for first-time patients. For details, please refer to [About priority medical institutions for referrals].
 
-**Q: Do I need an appointment for a first visit?**
-A: First visits (morning clinic) generally do not require a pre-booked appointment. Please arrive before 11:30. Afternoon clinic is by appointment only. We recommend calling ahead to confirm current arrangements.
+QUESTION In any case, if I do not have a letter of introduction, will I be eligible for the treatment fee selected at the time of the first consultation?
 
----
+ANSWER According to the regulations of the Ministry of Health, Labor and Welfare, the following cases are not covered. ●Those who were transported by ambulance ●Those who were admitted to the emergency hospital after visiting an outpatient clinic ●Those who were instructed to undergo a detailed examination based on the results of a specific health checkup, cancer screening, etc. ●Those who receive medical assistance under the Public Assistance Act or those who are eligible for various public funding systems due to specific diseases or injuries (excluding subsidy systems for infant medical care, medical care for single-parent families, and child medical care) ●Those who receive medical treatment due to work-related accidents or public-duty accidents ●Those who are visiting our hospital's obstetrics and gynecology department for the first time with the chief complaint of pregnancy.
 
-**Q: How long will I have to wait?**
-A: Wait times vary depending on the time of day, department, and your specific needs. Morning slots tend to be busiest. Arriving early generally reduces your wait. We appreciate your patience.
+QUESTION What time in the morning does the hospital open?
 
----
+ANSWER We are open from 7:30am. Patients who have had their first or last visit for three months can register at reception desk ➂➃ on the 1st floor from 8:00 a.m.
 
-**Q: Are interpreters available for non-Japanese speakers?**
-A: Our hospital primarily operates in Japanese. If you require language assistance, please contact us in advance so we can make arrangements. We recommend bringing a Japanese-speaking companion if possible.
+QUESTION What should I do if I want to see a different department?
 
----
+ANSWER If it has not been 3 months since your last visit to the department you previously visited, you can use the re-examination reception machine to select a new department. Please note that depending on the department, you may not be able to see the patient without a referral letter, so please contact each department for details.
 
-### Hospitalization
+## About reservations
 
-**Q: When will I know my hospitalization date?**
-A: Your attending physician will inform you of the planned admission date after completing the required pre-admission assessments. The Admission & Discharge Support Center will follow up to confirm arrangements.
+QUESTION Can I see the doctor without a reservation?
 
----
+ANSWER Even if you do not have a reservation in advance, you can still visit the clinic, but some departments may not be open depending on the day of the week or time, so please refer to the [Clinical Department/Department Information] page on our hospital website.
 
-**Q: Can family members stay overnight in the hospital?**
-A: As a general rule, overnight stays for family members are not permitted in standard wards. Exceptions may be made for patients in critical condition or in specific circumstances. Please discuss with the ward nurse.
+QUESTION If I want to see a doctor for the first time, how can I make a reservation?
 
----
+ANSWER We do not accept reservations for first-time patients. However, if you have a referral letter, we will accept reservations for your first visit by phone. For details, please refer to [For first-time patients]. Medical Cooperation Office: 03-5343-5760 Reception hours: (Monday) to (Friday) 9:00 to 17:00, (Saturday) 9:00 to 12:00 *Morning only
 
-**Q: Can I bring my own food to the hospital?**
-A: Meals are provided three times daily and are tailored to your medical condition. Bringing outside food is generally not permitted unless specifically approved by your physician or dietitian. Please discuss any special dietary needs with the nursing staff.
+QUESTION Is it possible to change or cancel my medical reservation?
 
----
+ANSWER We accept reservations at the re-examination reservation center. For details, please refer to [For those returning to the hospital]. Re-examination reservation center: 03-5343-5620, 03-5343-5621 Reception hours: 8:15-17:00 except on closed days
 
-**Q: Can I use my smartphone or laptop during hospitalization?**
-A: Mobile phones and other electronic devices may be used in **designated areas only**. Please see our [Mobile Phone Policy]({{< relref "mobile" >}}) for details. Wi-Fi is available throughout the hospital.
+QUESTION What should I do if I want to make a reservation for a medical checkup or change my reservation?
 
----
+ANSWER We accept reservations and changes to reservations at the Preventive Medicine Center. Preventive Medicine Center: 03-5343-5750 Reception hours: 13:00-16:30, excluding closed days
 
-**Q: How do I pay my hospital bill?**
-A: Bills are settled at the **Accounting Counter (1F)** at the time of discharge or during your stay as instructed. We accept cash, major credit cards, and IC cards. Itemized bills are available free of charge upon request.
+## About medical treatment
 
----
+QUESTION I have a referral letter from another medical institution, how should I seek treatment?
 
-**Q: Will my health insurance cover my hospitalization?**
-A: Standard hospitalization costs are generally covered by Japanese public health insurance, subject to your co-payment rate (10%, 20%, or 30% depending on age and insurance type). Room upgrades (private rooms) and certain non-covered items are billed separately. Please see [DPC Payment]({{< relref "/hospitalization/dpc" >}}) for details.
+ANSWER Please present your My Number card (insurance card) at the reception counter ➂➃ on the 1st floor.
 
----
+QUESTION I want to be hospitalized, but what should I do?
 
-### General
+ANSWER If you are examined at the outpatient clinic and it is determined that hospitalization is necessary, you will be required to apply for hospitalization under the instructions of your doctor.
 
-**Q: Is there parking at the hospital?**
-A: Yes. We have an 84-space car park available 24 hours. The rate is ¥200 per 30 minutes (¥100 per 30 minutes with patient validation at reception). Disabled parking is free with a Disability Handbook.
+QUESTION When I go through the hospitalization procedure, do I need to register for a re-examination?
 
----
+ANSWER There is no need to register for a re-examination; please go directly to the admission/discharge section.
 
-**Q: Can I get a second opinion from Tokyo Police Hospital?**
-A: Yes, we offer a [Second Opinion Service]({{< relref "second-opinion" >}}). A referral letter from your current physician is required. The fee is ¥15,000–¥30,000 (self-pay, not covered by insurance). Contact the Medical Liaison Office at 03-5343-5760.
+## About accounting
 
----
+QUESTION Can I use a credit card at checkout?
 
-**Q: How do I request my medical records?**
-A: Please submit an application at the Document Counter ⑦ (1F). A processing fee and handling charge apply. See [Medical Records Disclosure]({{< relref "medical-records" >}}) for full details.
+ANSWER You can pay by credit card (inpatient/outpatient) using the automatic payment machine. Acceptable cards are JCB, VISA, Master, American Express, and Debit cards. A PIN number is required when paying by credit card. *ATM is located inside Natural Lawson on the 1st floor of the main building.
 
----
+QUESTION Please tell me the cost of a 4-bed room, private room, or special room.
 
-**Q: Does the hospital have on-site facilities like a café or convenience store?**
-A: Yes. We have **Natural Lawson** (convenience store with ATM, 6:00–21:00), **Tully's Coffee** (Mon–Sat 7:30–18:00), a **barber shop**, and a **restaurant** (weekday lunch). See [Facilities]({{< relref "/about/facilities" >}}) for details.
+ANSWER The room charge difference varies depending on the room type. For more information, please see [Hospital Room Information].
 
----
+QUESTION Where can I find out the charges for hospitalization?
 
-**Q: What is the hospital's smoking policy?**
-A: Tokyo Police Hospital is a **completely non-smoking facility**. Smoking is prohibited everywhere on hospital grounds, including outdoor areas.
+ANSWER Approximate prices can be found at counter number 2 at reception.
 
----
+QUESTION Are all patients eligible for DPC?
 
-**Q: How can I submit feedback or a complaint?**
-A: Please speak with a nurse, reception staff, or visit the Patient Relations desk. Suggestion boxes are also located throughout the hospital. We welcome all feedback and respond to every concern seriously.
+ANSWER This is applicable when the attending physician determines that the patient's illness falls under a classification called ``diagnostic group classification,'' which is classified based on the disease and condition and the type of treatment such as surgery (treatment). However, depending on the insurance system used (free medical treatment, workers' compensation insurance, compulsory automobile liability insurance, etc.), the DPC may not apply.
+
+QUESTION How will the patient co-payment amount change?
+
+ANSWER The patient's co-payment will be based on the percentage stated on their insurance card.
+
+QUESTION How will high-cost medical expenses be handled?
+
+ANSWER It will remain the same as before. Additionally, the handling of "Certificate of Limit Application" will remain the same as before.
+
+## About the facility
+
+QUESTION Is there a parking lot?
+
+ANSWER We have an outdoor parking lot that can accommodate 84 cars. General fee: 200 yen/30 minutes, patient fee: 100 yen/30 minutes.
+
+QUESTION Is there a cafe or restaurant within the hospital?
+
+ANSWER There is Natural Lawson on the 1st floor of the main building, Tully's on the 2nd floor of the main building, and restaurant "Ikoi" on the 9th floor of the main building.
+
+QUESTION Is smoking allowed in the hospital?
+
+ANSWER Smoking is completely prohibited within the hospital facilities and grounds.
+
+QUESTION Can I use a mobile phone in the hospital?
+
+ANSWER Please use mobile phones in designated areas. For details, please refer to [About the use of mobile phones and smartphones].
+
+## others
+
+QUESTION Please tell me the visiting hours.
+
+ANSWER From Monday to Sunday (including holidays) from 3:00 pm to 7:00 pm. For details, please refer to [For those visiting].
+
+QUESTION Can I call a taxi?
+
+ANSWER "Tokyo Musen Group" taxis are waiting. It is also possible to make a call using a dedicated phone, but a call fee (400 yen) is required.
+
+QUESTION How does Tokyo Police Hospital handle personal information protection?
+
+ANSWER Personal information is protected in accordance with the Personal Information Protection Act. For more information, please see [Privacy Policy].

@@ -1,94 +1,157 @@
 ---
-title: "Information Disclosure"
-description: "Mandatory disclosure information for Tokyo Police Hospital, including billing, staffing, and hospital classification details."
-weight: 15
+title: "Disclosure Requirements"
+description: "As of January 1, 2020"
 ---
 
-## Information Disclosure
+## Posting matters stipulated by the Minister of Health, Labor and Welfare
 
-In accordance with Japanese healthcare regulations, Tokyo Police Hospital discloses the following information to patients and the public.
+As of January 1, 2020
 
----
+### 1. Our hospital is an insurance medical institution that provides medical care based on the standards set by the Minister of Health, Labor and Welfare.
 
-## DPC Hospital Classification
+### 2. About hospitals eligible for DPC
 
-Tokyo Police Hospital is a designated **DPC (Diagnosis Procedure Combination) Hospital**, classified under the **Standard DPC Group**.
+Our hospital is a "DPC eligible hospital" (medical institution group: DPC standard hospital group), which uses a combination of comprehensive evaluation and performance evaluation to calculate inpatient medical expenses. *Medical institution coefficient: 1.5771 (Basic coefficient: 1.0451 + Functional evaluation coefficient I: 0.4173 + Functional evaluation coefficient II: 0.0916 + Emergency correction coefficient: 0.0231)
 
-| Item | Value |
-|---|---|
-| DPC Classification | Standard DPC Group |
-| Medical Institution Coefficient | **1.5771** |
+### 3. About the statement issuance system
 
-For details on how DPC affects your hospitalization costs, see [DPC Payment System]({{< relref "/hospitalization/dpc" >}}).
+From the perspective of promoting transparency in medical care and providing information to patients, when issuing a receipt, we issue a detailed statement showing the items for calculating individual medical fees free of charge. We also issue statements free of charge to recipients of publicly funded medical care who do not pay their own medical expenses. Please understand that the statement will include the names of the medicines used and the names of the tests conducted.If you do not wish to have the statement issued, including to a family member who handles the accounting on your behalf, please notify us at the accounting counter.
 
----
+### 4. Regarding matters related to non-insurance burdens
 
-## Itemized Billing
+At our hospital, we ask that you pay the actual expenses for individual usage fees, certificates, medical certificates, etc. according to the number of days you use them. ◇Providing a special treatment environment Please refer to the attached [List of differential beds (private rooms)].
 
-Patients have the right to request an **itemized bill** (*meisai*) at any time, free of charge. This document provides a detailed breakdown of all charges applied during your visit or hospital stay.
+◇ Expenses related to medical certificates/certificates and expenses not covered by insurance Please refer to the attached [List of medical expenses not covered by insurance].
 
-To request an itemized bill, please ask at the **Accounting Counter (1F)**.
+◇ Collection of fees related to the first consultation For patients who visit the hospital without having a letter of introduction from another hospital or clinic (clinic), we will ask them to pay a ``selected treatment fee at the time of the first visit'' in addition to the regular medical fee. However, you will not be required to pay for cases such as transportation by ambulance or emergency hospitalization.
 
----
+◇ Collection of fees related to re-examinations If a patient who has been referred to another medical institution wishes to be examined at our hospital again at his or her own discretion, or if the patient is in a condition where a letter of introduction to another medical institution can be given and the patient wishes to be examined at our hospital at his/her own discretion after we have explained this to him/her, the patient will be required to pay a ``re-examination treatment fee'' in addition to the regular medical expenses. *If 3 months have passed since the last medical examination, etc., the medical treatment fee will be charged at the time of the first medical examination.
 
-## Out-of-Pocket Charges (Non-Insurance Items)
+◇ Collection of expenses related to out-of-hours treatment If you visit a doctor outside of business hours, such as on holidays or at night, you will be required to pay an out-of-hours treatment fee in addition to the medical fee. *However, this does not apply if you have a letter of introduction, if you are transported by ambulance, or if you are hospitalized as a result of medical treatment.
 
-The following charges are **not covered by health insurance** and are billed separately at the patient's expense:
+◇ Regarding medical treatment received in excess of the number of times stipulated in the medical score table, etc. At the patient's request, we will collect a special fee as follows for medical treatment received in excess of the number of times stipulated in the medical score table, etc.
 
-| Item | Fee |
-|---|---|
-| Initial consultation surcharge (without referral) | ¥7,700 (tax included) |
-| Re-examination surcharge (certain cases) | ¥3,300 (tax included) |
-| Private room fees | ¥14,630 – ¥52,800/night |
-| Medical certificate / documentation fees | Varies (approx. ¥3,300+) |
-| Health check-up packages | Varies |
-| Second opinion consultation | ¥15,000 – ¥30,000 |
-| Medical records copy | ¥3,300 + per-page fee |
-| TV / amenity rental | Daily rate applies |
+Prostate antigen (PSA): 1,331 yen
 
----
+◇ Fee collection when the hospitalization period exceeds 180 days If the total hospitalization period for the same symptoms exceeds 180 days, the 15% basic hospitalization fee from the health insurance will not be paid to the hospital depending on the patient's condition. Hospitalization from days exceeding 180 days will be treated as selected medical expenses, and 15% of the basic hospitalization fee will be borne by the patient as specified medical expenses.
 
-## Inpatient Ward Classification
+◇ Collection of costs related to clinical trials Our hospital conducts clinical trials. The trial coordinator will explain in detail the costs associated with the clinical trial. For information on clinical trials and clinical research conducted at our hospital, please click here.
 
-| Item | Value |
-|---|---|
-| Ward Type | Acute Care Inpatient Ward, Type 1 |
-| Nurse-to-Patient Ratio | **1:7** |
-| Licensed Beds | 415 |
+### 5. Our hospital has submitted the following notification to the Kanto-Shinetsu Health and Welfare Bureau.
 
-Our wards maintain the highest staffing classification (1:7 nurse-to-patient ratio), ensuring attentive and responsive nursing care for all inpatients.
+◇ Regarding notifications related to facility standards for basic medical fees For notifications related to our hospital's basic medical fees, please see the attached [List of facility standards notifications (as of March 1, 2020)].
 
----
+#### ・About basic hospitalization charges
 
-## Generic Drug Promotion
+At our hospital, we report the "acute phase general hospitalization fee 1". At least one nursing staff member is assigned for every seven inpatients. Please note that the placement of nursing staff varies depending on the ward, time of day, holidays, etc. The actual number of nursing staff in each ward is posted in each ward. Additionally, at least one nursing assistant is assigned for every 25 inpatients.
 
-Tokyo Police Hospital actively promotes the use of **generic (off-patent) medications** where clinically appropriate. Generic medications offer the same therapeutic effect as brand-name drugs at a lower cost to patients.
+#### ・Inpatient treatment plan, measures to prevent in-hospital infection, medical safety management system, and pressure ulcer measures
 
-If you have a preference regarding generic medications, please inform your physician or pharmacist.
+At our hospital, when a patient is admitted to the hospital, doctors and other related staff work together to formulate a medical treatment plan for the patient and provide it to the patient in writing within 7 days. Additionally, we meet the standards for in-hospital infection prevention measures, medical safety management, and bedsore measures set by the Minister of Health, Labor and Welfare. For details, please refer to [Guidelines for Nosocomial Infection Control] and [Guidelines for Medical Safety Management].
 
----
+#### ・About physician office work assistance system addition
 
-## Non-Smoking Facility
+At our hospital, we are working on sharing duties with multiple professions to reduce the burden on hospital doctors and improve their treatment.
 
-Tokyo Police Hospital is a **completely non-smoking facility**. Smoking is strictly prohibited on all hospital premises, including buildings, car parks, and outdoor areas.
+#### ・Reducing the burden on medical workers and improving their treatment
 
----
+At our hospital, we are implementing the following initiatives to reduce the workload and improve the treatment of medical professionals such as doctors and nursing staff.
 
-## Complaint and Consultation Procedures
+1. Improving the treatment of working doctors ・Implementation of preliminary examinations at the time of initial consultation ・Implementation of explanations on hospitalization, testing procedures, hospitalization, etc. (admission/discharge support center) ・Implementation of nurses to secure routes for intravenous injections and intravenous indwelling needles, etc. ・Explanation of drugs to be administered and medication guidance based on pharmacist placement in wards, etc. ・Utilization of physician office assistants to assist in the preparation of medical certificates, etc., and support inpatient and outpatient treatment・Strengthening collaboration with local medical institutions (multiple attending physician system, promotion of reverse referrals) ・Using part-time regular employees ・Implementing a work system that does not involve consecutive shifts and consideration for work the next day on duty
 
-Patients who have concerns about their care or the hospital's services may:
-- Speak directly with their attending physician or ward nurse
-- Contact the **Patient Relations Desk** at the main reception
-- Submit written feedback via our suggestion box
-- Contact the **Tokyo Metropolitan Medical Safety Support Center** (external)
+2. Reducing the burden on nursing staff and improving their treatment ・Dividing duties with other professions (outpatient blood sampling by clinical laboratory technicians, etc.) ・Assigning nursing assistants (including night shifts) ・Using emergency medical technicians ・Using nurses who are employed part-time as full-time employees ・Considerations during pregnancy, childcare, and nursing care (shorter working hours for childcare, etc.)
 
----
+3. Reducing the burden on medical workers and improving their treatment ・Optimization of outpatient treatment to reduce outpatient clinics ・Enhancement of maternity leave and childcare leave systems ・Considerations during pregnancy, childcare, and nursing care (shorter working hours for childcare, etc.) ・Introduction of diverse work styles ・Establishment of an in-hospital nursery school
 
-## Financial Assistance
+#### ・About outpatient tumor chemotherapy treatment fees
 
-If you are concerned about the cost of your medical care, our **Medical Social Workers** can provide information about:
-- Public subsidy programs (*Jūyō Seido*)
-- High-cost medical expense benefit applications
-- Welfare and support services
+At our hospital, we are working on the following to promote outpatient chemotherapy.
 
-Please contact the Medical Welfare Consultation Office (Social Work) for assistance.
+- We have one or more full-time doctors, nurses, or pharmacists in the hospital at all times, and have established a 24-hour contact system that allows us to respond to emergency consultations by phone or other means from patients who are billed for medical treatment.
+- We hold a committee to evaluate and approve the appropriateness of chemotherapy regimens (treatment details).
+- We have a system in place that allows patients to be admitted to the hospital in the event of a sudden change or other emergency.
+
+≪Inquiries≫ 03-5343-5611 (Representative)
+
+#### ・About generic drugs
+
+Our hospital actively uses generic drugs. In addition, we have a system in place that allows us to respond appropriately, such as reviewing treatment plans, in the event of a shortage in the supply of pharmaceuticals. Depending on the situation, the medication administered to the patient may change.
+
+#### ・Promotion of the use of biosimilar products (biosimilars)
+
+Our hospital actively uses biosimilar products in accordance with the policies of the Ministry of Health, Labor and Welfare. Biosimilars are drugs that have almost the same quality as the original biopharmaceutical, and have been confirmed to have the same efficacy and safety. The use of biosimilars reduces the financial burden of medicines on patients. We may use biosimilar products at our hospital, so we appreciate your understanding.
+
+#### ・About generic name prescription addition
+
+At our hospital, from the perspective of providing a stable supply of drug treatment, by promoting generic name prescriptions, insurance pharmacies can dispense drugs regardless of brand, allowing us to respond flexibly. For details, please refer to the attached [Initiatives to ensure a stable supply of pharmaceuticals].
+
+From October 2020, if a patient wishes to change their prescription from a generic name prescription to a long-listed drug, they will be subject to "selective treatment" and will have to pay a special cost to the patient.
+
+[Applicable drugs]
+
+- Long-listed generic drugs that have been on the market for more than 5 years (including quasi-innovator drugs)
+- Long-listed products (including quasi-innovator products) with a replacement rate of generic drugs of 50% or more
+
+[Co-payment amount] One-fourth of the price difference between the highest price range of the generic drug *If a doctor prescribes a generic drug (cannot be changed to a generic drug) due to medical necessity, or if it is difficult to provide a generic drug, biopharmaceuticals are not eligible for selective medical expenses. For more information click here (external link)
+
+#### ・About medical treatment by the nutrition support team
+
+At our hospital, members of various professions, including doctors, nurses, pharmacists, and registered dietitians, provide appropriate nutritional management to patients with poor nutritional status and work to improve their general condition. For more information, please see [About the Nutrition Support Team].
+
+#### ・About medical treatment by palliative care team
+
+At our hospital, our multidisciplinary palliative care team works to improve the quality of life (QOL) of patients and families facing challenges associated with life-threatening illnesses. We aim to prevent and alleviate suffering through early and reliable diagnosis and early treatment of pain and physical and spiritual problems. We have established a system to support medical professionals working in the hospital, meet directly with patients and their families, and provide medical treatment and care. For more information, please see [About the Palliative Care Team].
+
+#### ・Matters related to high-risk childbirth management additions
+
+・Number of deliveries from January to December 2025: 335 ・Number of full-time obstetrics and gynecology doctors: 6 ・Number of midwives assigned to the maternity ward: 21
+
+#### ・About in-hospital bulletin board regarding medical DX promotion system development addition
+
+At our hospital, we are developing a system to promote medical DX and provide high-quality medical care.
+
+・We conduct medical treatment using medical information obtained through online qualification systems, etc. ・We are working to provide high-quality medical care through medical DX, such as using My Number Card as an insurance card. ・We plan to introduce and implement initiatives related to medical DX such as electronic prescription issuance and electronic medical record information sharing services.
+
+#### ・About notices related to medical information acquisition additions
+
+Our hospital has a system for electronic qualification confirmation, and obtains and utilizes sufficient information to provide high-quality medical care.
+
+We are making the following improvements regarding online qualification addition.
+
+・We have a system for online qualification confirmation. ・Obtain and utilize drug information, specific health checkup information, and other necessary information to provide medical care.
+
+If you hold your My Number card (insurance card) over the card reader at the time of your visit and do not agree to provide specific medical examination information, drug information, etc., additional charges will be incurred. (Example: You held your My Number card (insurance card) over the card reader at the time of your visit, did not consent to providing specific medical examination information or drug information, presented your regular insurance card, etc.) For details, please see the bulletin board in the hospital or [here].
+
+#### ・About patient consultation desk regarding medical safety (medical safety measures additional)
+
+At our hospital, medical safety managers and related staff will respond to patient consultations regarding medical safety with due consideration to privacy. We will also take the opinions we receive seriously and strive to provide safe medical care.
+
+#### ・In-hospital bulletin board regarding patient consultation desk (additional fee for improving patient support system)
+
+Our hospital has established a patient consultation center to respond to a wide range of patient consultations. Nurses and medical social workers will listen to your story, communicate with departments within the hospital and medical and nursing care personnel outside the hospital, and work to resolve the issue. Consultations are open to anyone, including patients and their families. Additionally, you will not be disadvantaged as a result of your consultation, and we will respect the protection of your privacy. For details, please refer to the bulletin board in the hospital and the [Patient Consultation Desk Information].
+
+#### ・In-hospital bulletin board related to admission/discharge support (admission/discharge support, additional support during hospitalization)
+
+At our hospital, we promote collaboration between facilities and provide support for discharge, so that patients can be discharged from the hospital with peace of mind and satisfaction, and can continue their treatment and life in the area where they are accustomed to living as soon as possible. For details, please refer to [Notices in each ward] and [Information about the Medical and Welfare Counseling Room].
+
+◇ Regarding notifications related to facility standards for specially listed medical fees For notifications related to our hospital's specially listed medical fees, please see the attached [List of facility standards notifications (as of February 1, 2020)].
+
+#### ・Matters related to allergic rhinitis immunotherapy treatment management fees
+
+Our hospital has at least one full-time doctor with over three years of experience in allergy treatment.
+
+#### ・Regarding performance regarding facility standards for surgeries stipulated by the Ministry of Health, Labor and Welfare (surgeries listed in Chapter 2, Part 10, General Rules for Surgery, Items 5 and 6 of the Medical Score Table) (January to December 2020)
+
+Please refer to the attached [Facility Standards General Rules for Surgery No. 5 and No. 6 Results].
+
+## 6. Regarding hospitalization meal and medical expenses
+
+Our hospital notifies patients of inpatient meal and treatment expenses (I), and provides meals managed by a registered dietitian at any time (breakfast 7:45 a.m., lunch 12:00 p.m., dinner after 6:00 p.m.) at an appropriate temperature. We have also submitted notifications for cafeteria premiums, and meals are served at cafeterias that meet the requirements for cafeteria premiums.
+
+## 7. Others
+
+◇ Medical safety measures initiatives At our hospital, in order to provide safe medical care, medical safety managers and others collaborate with the Medical Safety Management Committee to implement more effective medical safety measures and systematically conduct staff training.
+
+◇ Efforts to prevent nosocomial infections at our hospital Our hospital has established an infection control team to understand the status of in-hospital infections, use antibiotics appropriately, prevent staff infections, and provide staff training for the purpose of preventing nosocomial infections. We also carry out activities to improve knowledge of infection prevention measures not only in hospitals but also in local elderly care facilities and hospitals.
+
+◇ Smoking is completely prohibited on the premises In accordance with Article 25 of the Health Insurance Act, our hospital prohibits smoking on the premises, both indoors and outdoors, in order to prevent passive smoking. We ask all visitors and patients to strictly refrain from smoking (including non-combustible and heated tobacco). We also ask for your understanding and cooperation in respecting etiquette around the hospital and prohibiting smoking throughout the hospital grounds.

@@ -1,63 +1,28 @@
 ---
-title: "Medication"
-description: "Information about prescriptions, the hospital pharmacy, and medication safety at Tokyo Police Hospital."
-weight: 5
+title: "About Medications"
+description: "At our hospital, we issue out-of-hospital prescriptions to outpatients and collaborate with external insurance pharmacie"
 ---
 
-## Medication at Tokyo Police Hospital
+## About out-of-hospital prescriptions
 
-Our goal is to ensure that every patient receives safe, effective, and appropriate medication. Please read the following information carefully.
 
-## Hospital Pharmacy
 
-The hospital pharmacy is located on the **1st Floor**. After your consultation, your physician will issue an electronic prescription, which can be filled at:
 
-- **Hospital Pharmacy (1F)** – for immediate pickup on the same day
-- **Any community pharmacy** of your choice (outside prescription)
+At our hospital, we issue out-of-hospital prescriptions to outpatients and collaborate with external insurance pharmacies, allowing us to focus our main functions as a pharmacy department on managing medications for inpatients.
 
-We recommend using a designated "Family Pharmacy" (*Kari Yakkyoku*) near your home for continuity of medication management.
 
-## Medication Notebook (Okusuri Techō)
 
-Please bring your **medication notebook** (*okusuri techō*) to every visit. This small booklet records all the medications you are currently taking and helps prevent:
 
-- Drug interactions
-- Duplicate prescriptions
-- Medication errors
+Utilizing our expertise as a pharmacy department, we are strengthening our collaboration with doctors, nurses, and other medical staff to ensure better drug treatment, such as ``recording all medications used by hospitalized patients and working to prevent interactions and side effects'' and ``explaining detailed explanations to hospitalized patients about how to take their medications and their effects, and instructing them to take their medications properly and with peace of mind.''
 
-If you do not have a medication notebook, you can obtain one from any pharmacy.
+## Request to patients
 
-## Bringing Your Medications to the Hospital
 
-When visiting the hospital, please bring:
-- Your medication notebook
-- All current prescription medications (including those from other hospitals)
-- Over-the-counter (OTC) medications and supplements
 
-Our pharmacists and doctors need this information to prescribe safely.
 
-## Generic Medications
+An "out-of-hospital prescription" is a document in which the doctor in charge writes the name of the medicine that matches the symptoms of the patient's disease, in order to obtain the medicine at a pharmacy outside the hospital. The system is such that you receive an "outside hospital prescription" at the hospital, and then bring it to a pharmacy that has signs such as "Prescription Receiving," "Insurance Pharmacy," and "Standard Pharmacy." The prescription is valid for 4 days including the date of issue.
 
-Tokyo Police Hospital promotes the use of **generic (generic-brand) medications** where clinically appropriate. Generic medications contain the same active ingredients as brand-name drugs and are equally effective, but are available at a lower cost to patients.
 
-If you have questions or preferences regarding generic medications, please speak with your doctor or pharmacist.
 
-## Medication Counseling
 
-Our pharmacists provide:
-- Explanation of how to take your medications correctly
-- Information about side effects and drug interactions
-- Advice on managing multiple medications
-
-Please do not hesitate to ask the pharmacist any questions about your medications.
-
-## Drug Allergy / Adverse Reaction History
-
-If you have had an allergic reaction or adverse reaction to any medication in the past, **please inform the reception staff and your doctor immediately**. This information is essential for your safety.
-
-## Outpatient Prescription Inquiry
-
-For questions about prescriptions after your visit:
-
-- **Hospital Pharmacy:** 03-5343-5611 (main) → ask for pharmacy
-- **Hours:** Monday – Friday, 8:30 – 17:00 / Saturday, 8:30 – 12:30
+At these pharmacies, you can receive detailed explanations such as the medicine's actions (efficacies and effects), side effects, precautions on how to take it, what to do if you forget to take it, and how to store it. Please look for a pharmacy near your home, station, or workplace where you can feel safe.

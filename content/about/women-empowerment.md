@@ -1,61 +1,60 @@
 ---
-title: "Women's Empowerment Initiative"
-description: "Tokyo Police Hospital's action plan for promoting women's empowerment and gender equality in the workplace."
-weight: 13
+title: "Women's Empowerment Plan"
+description: "In order to create an environment where women can fully demonstrate their abilities and play an active role in their pro"
 ---
 
-## Women's Empowerment Action Plan
+In order to create an environment where women can fully demonstrate their abilities and play an active role in their professional lives according to their wishes, we have formulated the following action plan.
 
-Tokyo Police Hospital has formulated an **Action Plan for the Promotion of Women's Empowerment** in accordance with the Act on Promotion of Women's Participation and Advancement in the Workplace (女性活躍推進法).
+## 1. planning period
 
-## Plan Period
+Five years from April 1, 2021 to March 31, 2020
 
-**April 1, 2021 – March 31, 2026** (5 years)
+## 2. Content
 
-## Current Status (Baseline Data)
+(1) Numerical target 1 (Providing opportunities for female workers in their professional lives) Increase the proportion of women in managerial positions (chief medical director, nurse manager, department/department director level and above) to 40% or more. *As of R7.4.1: 34.9% <Measures> ○ In order to increase the proportion of women in managerial positions, we will verify whether we have a fair promotion system for men and women and revise standards as necessary. ○ We will work to create a workplace environment that allows for a balance between life and work and support the career development of female employees.
 
-| Indicator | Current Value |
-|---|---|
-| Female staff as proportion of total workforce | **69.8%** |
-| Female managers as proportion of all managers | **34.9%** |
-| Average tenure (female employees) | Reference year baseline |
+(2) Numerical target 2 (improvement of an employment environment that is conducive to balancing work and family life) Increase the percentage of female employees who have been employed for nine years or more by 10%. * As of R7.4.1 7.3 years <Measures> ○ By publicizing to employees the systems available to them, such as childcare support systems, we will promote the creation of work styles and workplace environments that allow employees to continue working after returning from childcare leave. ○ We will strive to improve employee job satisfaction through measures such as a flextime system that allows employees to flexibly set their working hours, and shorter working hours for childcare that allows employees to shorten their working hours depending on their childcare situation.
 
-Healthcare is a field where women represent the majority of the workforce. At Tokyo Police Hospital, women make up nearly **70% of all employees**. We are committed to ensuring that this reflects not only numbers, but also leadership, career development, and equal opportunity at every level.
+## 3. Reference data
 
-## Goals
+*As of April 2020
 
-### Goal 1: Increase the Proportion of Female Managers to 40% or Higher
+### Ratio of men and women
 
-**Target:** Achieve a female manager ratio of **40% or higher** by March 2026.
+| classification | woman | male |
+| --- | --- | --- |
+| Regular employee | 74.4% | 25.6% |
+| Non-regular employee | 49.0% | 51.0% |
+| All staff | 69.8% | 30.2% |
 
-**Current Status:** 34.9% of managerial positions are held by women.
+### Percentage of managers
 
-**Measures:**
-- Identify and actively develop female employees with management potential
-- Implement mentoring and coaching programs specifically for women aspiring to leadership roles
-- Review promotion criteria to ensure they are transparent, objective, and free from unconscious bias
-- Provide flexible working arrangements that allow women to take on leadership roles without sacrificing work-life balance
-- Track and report progress annually
+| classification | woman | male |
+| --- | --- | --- |
+| Regular employee | 34.9% | 65.1% |
+| Non-regular employee | 0.0% | 0.0% |
+| All staff | 34.9% | 65.1% |
 
-### Goal 2: Increase Average Tenure for Female Employees by 10%
+### Average length of service
 
-**Target:** Increase the average length of service of female employees by **10%** from the baseline.
+| classification | woman | male |
+| --- | --- | --- |
+| Regular employee | 9.4 years | 6.6 years |
+| Non-regular employee | 5.1 years | 3.1 years |
+| All staff | 7.3 years | 4.8 years |
 
-**Background:** Despite representing a large proportion of the workforce, women historically leave employment sooner than male counterparts, often due to life events such as childbirth, childcare, or caregiving responsibilities.
+### Difference in wages between men and women
 
-**Measures:**
-- Expand and promote use of parental leave, childcare leave, and caregiver leave
-- Develop reintegration programs for employees returning from extended leave
-- Improve childcare support (hospital-affiliated childcare, flexible scheduling for parents)
-- Create career development pathways that do not require continuous uninterrupted service
-- Conduct regular employee satisfaction surveys focusing on work-life balance concerns
+| classification | wage gap |
+| --- | --- |
+| Regular employee | 69.4% |
+| Non-regular employee | 102.3% *Women's wage level is higher |
+| All staff | 75.3% |
 
-## Monitoring and Review
+*Full-time employees include reappointed employees.
 
-Progress toward these goals is reviewed annually. Results are reported to the hospital's HR committee and labor-management consultative body, and publicly disclosed as required by law.
+### Status of male workers taking childcare leave, etc.
 
-## Our Vision
-
-Tokyo Police Hospital is committed to building a workplace where every employee — regardless of gender — has equal opportunity to grow, lead, and contribute. We believe that a diverse and inclusive leadership team produces better decisions, more empathetic patient care, and a stronger organizational culture.
-
-We will continue to actively support the careers and well-being of all our staff, and to set an example as an employer of choice in the Tokyo healthcare community.
+| Percentage of childcare leave taken | Percentage of childcare leave taken and childcare leave taken |
+| --- | --- |
+| 54.5% | 72.7% |

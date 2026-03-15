@@ -1,67 +1,39 @@
 ---
-title: "Second Opinion Service"
-description: "Information about Tokyo Police Hospital's second opinion consultation service for patients seeking expert review."
-weight: 3
+title: "Second Opinion"
+description: "A second opinion refers to seeking the opinion of another doctor regarding your current medical condition and treatment"
 ---
 
-## Second Opinion Service
+## About second opinion
 
-If you have received a diagnosis or treatment recommendation from another hospital and wish to have it reviewed by one of our specialists, Tokyo Police Hospital offers a **Second Opinion Consultation Service**.
+A second opinion refers to seeking the opinion of another doctor regarding your current medical condition and treatment plan. If you are currently receiving treatment at another medical institution, we offer second opinion consultations with our doctors so that you can fully understand your illness and treatment methods.
 
-A second opinion can help you:
-- Confirm or clarify your diagnosis
-- Understand your treatment options more fully
-- Gain confidence in your care plan
-- Explore alternative approaches
+In addition, when a patient requests the opinion of a doctor other than our hospital, we will provide medical data from our hospital. In addition to obtaining sufficient explanation and consent (informed consent), our hospital also provides second opinions so that patients can choose the best treatment for themselves.
 
-## Key Requirements
+### 1. If you would like a second opinion from our hospital
 
-- A **referral letter from your current physician** is required. This confirms your diagnosis, current treatment plan, and the specific question(s) you want addressed.
-- All consultations are **by appointment only**.
-- Second opinion consultations are **not covered by public health insurance** and must be paid in full by the patient.
+If a patient receiving treatment at another medical institution wishes to receive a second opinion from a doctor at our hospital, please bring the necessary materials for diagnosis, such as a letter of introduction from your doctor, test results, X-rays, and pathological diagnosis results. (2) Reservations are required. (3) In principle, the patient must attend the examination in person. (4) The results of the second opinion will be explained to the patient and notified to the attending physician in response to the referral letter.
 
-## Fees
+*Case where we cannot accept consultation
 
-| Consultation Duration | Fee |
-|---|---|
-| Up to 30 minutes | ¥15,000 (tax included) |
-| 30 minutes – 60 minutes | ¥30,000 (tax included) |
+- If you do not have your doctor's medical information form (for second opinion)
+- Consultation regarding medical malpractice and pending court cases
+- Consultation regarding the deceased
+- If you wish to transfer to our hospital
+- If you have not made a reservation
+- If there is no specialist doctor available for the subject you are consulting with
 
-> Fees are paid in advance at the time of booking confirmation. Additional charges may apply if special tests or diagnostic review are required.
+*Some clinical departments are unable to provide second opinions, so please contact the Medical Coordination Office.
 
-## How to Book
+Reservations/Inquiries Medical Collaboration Office: 03-5343-5760/5762 (direct)
 
-1. Contact the **Medical Liaison Office**:
-   - **Phone:** 03-5343-5760 / 03-5343-5762
-   - **Hours:** Monday – Friday, 9:00 – 17:00 / Saturday, 9:00 – 12:00
-2. Explain that you are requesting a second opinion and describe the medical specialty involved.
-3. You will be asked to submit:
-   - A referral letter from your current physician
-   - Relevant medical records (test results, imaging reports, pathology reports, etc.)
-4. An appointment will be scheduled with the appropriate specialist.
-5. Please bring all relevant documents and images on the day.
+### 2. If you would like a second opinion from another medical institution
 
-## What to Bring
+A letter of introduction will be created for the medical institution where you will be treated, so please consult with your doctor.
 
-- Referral letter from your current physician
-- All relevant medical records and test results
-- Imaging data (CD/DVD containing MRI, CT, X-ray images)
-- Pathology reports (if applicable)
-- Your current prescription list
-- Health insurance card (even though this visit is self-pay, ID verification is required)
-- Payment for the consultation fee
+(1) Please specify the name of the medical institution (preferably the name of the doctor) where you will be examined. (2) We will provide you with the materials necessary for your medical examination, such as test results, X-ray photographs, and histopathological materials. (3) In order to protect personal information, the letter of introduction and materials will be handed over to the patient himself/herself. (4) We will receive a second opinion as a reply to the referral letter, and respect the patient's wishes regarding future treatment plans and selection of tests.
 
-## What Happens After the Consultation
+### Fee
 
-After the second opinion consultation, you will receive:
-- A written report from the specialist summarizing their findings and recommendations
-- This report can be shared with your current physician
-
-Second opinion consultations are advisory only. Treatment decisions remain with you and your primary healthcare team.
-
-## Contact
-
-**Medical Liaison Office**
-- Phone: 03-5343-5760 / 03-5343-5762
-- Fax: 03-5343-5763
-- Hours: Mon–Fri 9:00–17:00 / Sat 9:00–12:00
+| If you would like a second opinion from our hospital | If you would like a second opinion from another medical institution |
+| --- | --- |
+| ・15,000 yen (excluding tax) for up to 30 minutes ・30,000 yen (excluding tax) for more than 30 minutes and up to 60 minutes *We cannot accept consultations longer than 60 minutes. | Referrals related to second opinions are covered by health insurance *Second opinion fees are separate and vary depending on the medical institution. |

@@ -1,90 +1,56 @@
 ---
 title: "Admission & Discharge"
-description: "Step-by-step guide to admission, discharge, and the Admission & Discharge Support Center at Tokyo Police Hospital."
-weight: 1
+description: "Doctors, nurses, social workers, dietitians, and pharmacists will play a central role in providing solid support so that"
 ---
 
-## Admission & Discharge Support Center
+## Admission/Discharge Support Center/Patient Consultation Center
 
-Our **Admission & Discharge Support Center** coordinates your hospital stay from the moment admission is scheduled until you are safely discharged and connected to appropriate community care.
+Doctors, nurses, social workers, dietitians, and pharmacists will play a central role in providing solid support so that you can receive treatment with peace of mind, from the time you are admitted to the hospital until after you are discharged from the hospital.
 
-**Phone:** 03-5343-5611 (main line) → ask for Admission & Discharge Support Center
+## Regarding procedures before hospitalization
 
-## Admission Process
+Outpatient treatment Hospital reservation (various procedures) Nurse interview (admission/discharge support) Dietitian/pharmacist interview (if necessary) Outpatient accounting
 
-### Step 1: Outpatient Consultation
-Your attending physician will determine whether hospitalization is necessary and schedule your admission date.
+| Medical Affairs Division reception hours: 8:15-17:00 (excluding Sundays and holidays) |
+| --- |
 
-### Step 2: Admission Booking
-The Admission & Discharge Support Center will:
-- Confirm your admission date and time
-- Explain the admission procedures and documentation required
-- Arrange for pre-admission interviews
+## About procedures on the day
 
-### Step 3: Pre-Admission Nurse Interview
-A nurse will meet with you before admission to:
-- Review your medical history and current medications
-- Explain the daily routine, ward rules, and what to expect
-- Assess any special care needs
+Please come to the Medical Affairs Division Admission Reception (1F) by the designated time. You will be required to submit the necessary documents for hospitalization.
 
-### Step 4: Pre-Admission Interviews (as needed)
-Depending on your condition and treatment plan, you may also have:
-- **Dietitian interview** – to assess nutritional needs and meal preferences
-- **Pharmacist interview** – to review current medications and counsel on hospital medications
+#### [All people]
 
-### Step 5: Admission Day
-On your admission day:
-1. Report to the **Admission Reception Counter** on the 1st Floor at your designated time.
-2. Complete admission paperwork and submit required documents.
-3. A nurse will escort you to your room and complete the intake assessment.
+#### [Applicable persons only]
 
-## Items to Bring for Hospitalization
+#### [Only those who wish]
 
-Please prepare the following items before admission:
+◇During hospitalization, patients will be identified using wristbands, so we ask for your understanding and cooperation.
 
-**Required Documents**
-- Health insurance card / MyNumber card
-- Referral letter (if applicable)
-- Any applicable exemption certificates (public subsidy cards, etc.)
-- Informed consent forms (provided in advance by the hospital)
+## Things needed for hospital life
 
-**Personal Care Items**
-- Pajamas / hospital gown (rentals available)
-- Towels and face towels (laundry service available)
-- Toothbrush and dental care items
-- Hair care items (comb, brush)
-- Soap, shampoo (purchase available in hospital)
-- Slippers with non-slip soles (required for safety)
+### Things you must prepare
 
-**Other Items**
-- Glasses, hearing aids, or other assistive devices
-- Medications you are currently taking (bring all of them)
-- Medication notebook (*okusuri techō*)
-- Small amount of cash (for TV, vending machines, etc.)
-- Reading materials, leisure items
+### Items to be prepared as necessary
 
-**Items NOT to Bring**
-- Large amounts of cash or valuables
-- Electric appliances (unless approved by the ward)
-- Food or alcohol (unless approved by the dietitian)
+◇Required items for surgery and examinations will be explained separately. ◇Daily necessities can also be purchased at the convenience store (1F). Items marked with ◇★ can be rented for a fee.
 
-## Discharge Process
+For information on life and various services during hospitalization [Click here]
 
-### Planning Ahead
-Your discharge date and plan will be discussed during your stay. Our team will ensure you have:
-- A clear understanding of your recovery process and follow-up schedule
-- Instructions for home care, medications, and activity restrictions
-- Appropriate referrals to rehabilitation, home care, or local clinics as needed
+## About discharge procedures
 
-### On the Day of Discharge
-1. Your physician will confirm discharge in the morning.
-2. Nurses will provide final discharge instructions and medication guidance.
-3. A social worker or care coordinator can assist with arranging home care services if needed.
-4. Settle your bill at the **Accounting Counter** (1F).
-5. Collect your discharge summary and prescription for any ongoing medications.
+Please pay at the automatic payment machine or Medical Affairs Division accounting counter ② (1F) after 9:30 on the day of discharge. Please be sure to leave the hospital by around 9:30 on the same day.
 
-## DPC Payment System
+## Regarding payment of hospitalization fees
 
-Tokyo Police Hospital uses the **Diagnosis Procedure Combination (DPC)** system for calculating hospitalization fees. Under DPC, a standardized daily rate is applied based on your diagnosis and treatment plan, rather than charging individually for each service. This results in a more predictable and often lower total cost for patients.
+- Hospitalization charges are calculated using the comprehensive payment method (DPC), which basically calculates a fixed amount of medical expenses per day according to the disease name and treatment details.
+- The hospitalization fee is due at the end of the month and will be billed around the 10th of the following day. The bill will be delivered to your hospital room, so please pay at the automatic payment machine or at the Medical Affairs Division Accounting Desk ② (1F). Automatic payment machine 8:30-17:00 *The automatic payment machine in the emergency center (1F) can be used 24 hours a day. Medical Affairs Division Accounting Desk ② 8:30-17:00
+- For payment, you can use debit card or credit card (VISA, Master, JCB, AMEX).
+- There is a limit on the amount you can withdraw from an ATM, so please check this before using.
+- If you do not use health insurance, you will be responsible for the out-of-pocket fees determined by our hospital.
+- On the day of your admission/discharge, you will be charged for the entire day, regardless of whether it is in the morning or in the afternoon.
+- If you use a private room, you will be required to pay the difference in room charges as determined by our hospital.
+- If you have any questions regarding payment, please feel free to contact the Medical Affairs Division.
 
-For more information, see our [DPC Payment System]({{< relref "dpc" >}}) page.
+## We ask for your understanding and cooperation regarding early discharge.
+
+As a hospital responsible for acute care, our hospital is committed to advanced and advanced medical care. For patients whose symptoms have stabilized after completing specialized medical care at our hospital, we ask them to be discharged from the hospital as soon as possible and receive treatment at home, or be transferred to another medical institution depending on their condition. When transferring, we will do our best to introduce you to a medical institution that meets your wishes.

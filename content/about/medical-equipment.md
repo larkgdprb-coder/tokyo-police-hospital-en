@@ -1,109 +1,45 @@
 ---
 title: "Advanced Medical Equipment"
-description: "Overview of the advanced medical equipment and technology available at Tokyo Police Hospital."
-weight: 9
+description: "Da Vinci is a robot that supports minimally invasive surgery that places less stress on the patient's body. The surgery"
 ---
 
-## Advanced Medical Equipment
+## Surgical support robot da vinci
 
-Tokyo Police Hospital is equipped with state-of-the-art diagnostic and therapeutic technology, enabling our specialists to deliver accurate diagnoses and effective treatments with minimal patient discomfort.
+Da Vinci is a robot that supports minimally invasive surgery that places less stress on the patient's body. The surgery is performed while the surgeon controls the da Vinci.
 
----
+## PET/CT
 
-### da Vinci Xi Robotic Surgical System
+PET/CT examinations are not tests that look at shape (morphology) like conventional imaging tests (CT, MRI), but rather tests that look at the workings and activities (functions) of cells. It is useful for early diagnosis, stage diagnosis, metastasis, and recurrence diagnosis of cancer, which until now could only be determined by its shape, and allows the whole body to be examined in a single examination. Features of our latest PET/CT device
 
-The **da Vinci Xi** is the latest generation of robotic-assisted surgical technology. It allows our surgeons to perform complex minimally invasive procedures with:
-- Greater precision and 3D visualization
-- Smaller incisions, less blood loss
-- Faster recovery and shorter hospital stays
+- A high-sensitivity crystal is used in the detector, providing higher quality and clearer images than previous models.
+- The shooting range is wide and you can shoot in a short time.
+- The respiratory synchronization system allows you to capture clear images with less blur.
+- The latest image reconstruction technology provides higher quality images than traditional equipment.
 
-Robotic surgery is available for urological, gastrointestinal, thoracic, and gynecological procedures.
+## linac
 
----
+This type is equipped with a CT simulator, and is a state-of-the-art system that allows you to proceed with treatment while maintaining the treatment planned position. By using this, it is possible to perform treatment accurately by concentrating radiation on the tumor and minimizing damage to normal tissue. It also has advanced stereotactic irradiation capabilities, making advanced radiation therapy possible.
 
-### PET/CT Scanner
+## Gamma camera with CT
 
-**Positron Emission Tomography combined with Computed Tomography (PET/CT)** provides a combined view of metabolic activity and anatomical structure in a single scan.
+Equipped with a SPECT device with PET function and a CT device, we are able to perform the latest highly accurate examinations, including reliable absorption correction using X-ray CT and the fusion of functional and morphological images.
 
-- Essential for cancer staging, treatment response assessment, and recurrence detection
-- Also used in neurological and cardiac evaluation
+## MRI
 
----
+3.0 Tesla high magnetic field MRI has higher resolution and faster speed, significantly improving diagnostic ability.
 
-### Linear Accelerator (Radiation Therapy)
+## CT
 
-Our **Linear Accelerator (LINAC)** delivers precise, high-energy radiation beams for cancer treatment. Our radiation oncology team uses advanced techniques including:
-- Intensity-Modulated Radiation Therapy (IMRT)
-- Image-Guided Radiation Therapy (IGRT)
-- Stereotactic Radiosurgery (SRS / SBRT)
+By being able to take 320 images in 0.275 seconds, the examination time is dramatically faster than conventional CT, and it is now possible to image a wide range of areas, making it possible to perform difficult imaging and various examinations that were not possible in the past. Feature 1: The blood vessels of the heart, which were previously difficult to photograph due to movement, can now be diagnosed with clear images. Feature 2: 4D examinations that add time information to conventional 3D images of blood vessels are now possible, which is extremely useful in the treatment of vascular lesions and acute cerebral infarction. Feature 3: It provides high definition and high image quality with less radiation exposure than conventional CT, and can be used for children, emergency patients, and patients who cannot stop breathing. It is possible to reduce the burden on patients while providing high-quality testing.
 
----
+## Brachytherapy device
 
-### Brachytherapy (Prostate Cancer)
+It is used to treat prostate cancer, and as it is a minimally invasive treatment, there are fewer side effects than surgery, and cancer treatment can be completed with a hospital stay of 3 nights and 4 days. It can also be applied to elderly patients and patients with comorbidities.
 
-**Low-dose-rate (LDR) brachytherapy** is available for prostate cancer treatment. Radioactive seeds are placed directly into the prostate gland under image guidance, delivering targeted radiation with minimal effect on surrounding tissue.
+## biplane angiography device
 
----
+The flat dictor (FD) system combines a large field of view FD and a compact FD to achieve both a wide field of view and accessibility, and enables 3D angiography, which is used to increase the precision and speed of interventions, to respond quickly and quickly provide excellent image information.
 
-### 3.0 Tesla MRI
+## digital mammography
 
-Our **3.0 Tesla MRI scanner** provides high-resolution imaging of soft tissues, the brain, spine, joints, and abdominal organs. Benefits include:
-- Superior image quality compared to standard 1.5T MRI
-- Faster scan times
-- Better detection of small lesions
-
----
-
-### 320-Slice CT Scanner
-
-Our **320-slice CT scanner** enables:
-- Whole-heart and coronary artery imaging in a single heartbeat
-- Ultra-high-resolution imaging for oncology, trauma, and vascular assessment
-- Low-dose radiation protocols
-
----
-
-### SPECT/CT Camera
-
-**Single Photon Emission Computed Tomography combined with CT (SPECT/CT)** is used for nuclear medicine imaging, including:
-- Bone scintigraphy
-- Myocardial perfusion imaging
-- Thyroid and parathyroid evaluation
-
----
-
-### Biplane Angiography System
-
-Our **biplane digital angiography system** enables advanced endovascular procedures:
-- Cardiac catheterization and coronary intervention (PCI)
-- Cerebrovascular intervention (coil embolization, stenting)
-- Peripheral vascular intervention
-
-Real-time, high-resolution imaging from two angles simultaneously improves procedural safety and precision.
-
----
-
-### Digital Mammography
-
-Our **digital mammography system** provides:
-- High-resolution breast imaging for cancer screening and diagnosis
-- Tomosynthesis (3D mammography) capability for improved detection of small lesions
-- Comfortable, low-dose examination
-
----
-
-### Other Key Equipment
-
-| Equipment | Purpose |
-|---|---|
-| Endoscopy System (upper & lower) | GI diagnosis and therapeutic procedures |
-| Ultrasound Systems (multiple) | Abdominal, cardiac, vascular, obstetric imaging |
-| Bone Densitometry (DEXA) | Osteoporosis diagnosis |
-| Cardiac Echo (TEE / TTE) | Heart structure and function |
-| Intraoperative Fluoroscopy | Real-time imaging during surgery |
-| Holmium Laser System | Urology (kidney stones, prostate) |
-| High-Pressure Hyperbaric Oxygen Chamber | Wound healing, CO poisoning |
-
----
-
-We continue to invest in technology that enhances patient safety, diagnostic accuracy, and treatment effectiveness. For information about a specific technology or procedure, please consult your physician or contact the relevant department.
+We have installed a digital mammography device equipped with a flat panel detector (FPD), which is ideal for breast cancer screening, and can obtain high-definition images suitable for diagnosis, making it possible to detect microcalcifications and lesions at an early stage. *We have received screening facility image certification from the Mammography Screening Quality Control Central Committee.
