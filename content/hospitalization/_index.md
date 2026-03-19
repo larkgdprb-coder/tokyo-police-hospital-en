@@ -37,3 +37,14 @@ Information about meeting times, etc. *To prevent the spread of the new coronavi
 
 
 We have introduced a comprehensive evaluation system (DPC). Go to details
+
+## Regarding hospital infection control
+
+
+
+
+Go to details
+
+
+
+end .entry__content
