@@ -3,61 +3,48 @@ title: "Departments & Centers"
 description: "- General Internal Medicine"
 ---
 
-## и®ЇзЩВзІС
+## Clinical department
 
 
 
 
 - General Internal Medicine
 - Neurology
-- еСЉеРЄеЩ®зІС Respirology
+- Respirology
 - Gastroenterology
-- еЊ™зТ∞еЩ®зІС Cardiology
+- Cardiology
 - Nephrology and Metabolism
-- и°Ажӑ≤еЖЕзІС Hematology
-- Rheumatology
-- з≤Њз•ЮзІС Psychiatry
-- е∞ПеЕРзІС Pediatrics
-- е§ЦзІС Surgery
+- Hematology
+- Collagen Disease Rheumatology
+- Psychiatry
+- Pediatrics
+- Surgery
 - Orthopedics
-- Aesthetic Surgery
-- иД≥з•ЮзµМе§ЦзІС Neurosurgery
+- Plastic Surgery/Aesthetic Surgery
+- Neurosurgery
 - Neuroendovascular
-- зЪЃиЖЪзІС Dermatology
-- ж≥Ме∞њеЩ®зІС Urology
-- ©¶дЇЇзІС Obstetrics and Gynecology
-- зЬЉзІС Ophthalmology
-- иА≥йЉїеТљеЦЙзІС Otorhinolaryngology
+- Dermatology
+- Urology
+- Obstetrics and Gynecology
+- Ophthalmology
+- Otorhinolaryngology
 - Emergency and Critical Care Medicine
-- Rehabilitation
-- жФЊе∞ДзЈЪзІС Radiology
-- йЇїйЕФзІС Anesthesiology
+- Rehabilitation Department
+- Radiology
+- Anesthesiology
 - Diagnostic Pathology
 - 
 
 
 
-[](https://keisatsubyoin.or.jp/shinryoka/sanka/)
+
+## center
 
 
 
 
-
-
-
-
-
-
-
-
-
-## гВїгГ≥гВњгГЉ
-
-
-
-
-- Stroke Center
-- Blood Purification Center
+- Stroke Center/Stroke Care Unit Stroke Center
+- Blood Purification Center Blood Purification Center
 - Chemotherapy Center
 - Endoscopy Center
 - Emergency Medical Center
@@ -65,31 +52,31 @@ description: "- General Internal Medicine"
 - Intensive Care Unit/Coronary Care Unit
 - Joint Surgery Center
 - Breast Center
-- Prostate Cancer Center
+- Prostate Cancer Treatment Center
 - Preventive Medical Center
 - 
 
 
 
 
-## еМїзЩВжКАи°УйГ®
+## Medical Technology Department
 
 
 
 
-- иЗ®еЇКж§ЬжЯїзІС
-- иЗ®еЇКзФЯзРЖж§ЬжЯїзІС
-- зЧЕзРЖи®ЇжЦ≠зІС
-- иЦђеЙ§зІС
-- жФЊе∞ДзЈЪзІС
-- гГ™гГПгГУгГ™гГЖгГЉгВЈгГІгГ≥зІС
-- ж†Дй§КзІС
-- иЗ®еЇКеЈ•е≠¶зІС
+- Clinical laboratory department
+- Clinical Physiology Laboratory
+- Department of Pathology
+- Pharmacy
+- Radiology
+- Rehabilitation department
+- Nutrition department
+- Department of Clinical Engineering
 
 
 
 
-## зЬЛи≠ЈйГ®
+## nursing department
 
 
 
