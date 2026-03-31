@@ -25,7 +25,7 @@ description: "| ●Convenience store “Natural Lawson” 6:00-21:00 | ●ATM (i
 
 | ●Barber Shop Oasis 9:00-17:00 Wednesdays and Saturdays (2nd and 4th) 9:00-13:00 *Closed on Saturdays (1.3.5th), Sundays and holidays | ●Coin laundry 6:00-21:00 |
 | --- | --- |
-| ●Restaurant business hours 11:00-15:00 (last order at 14:30) (excluding Sundays and holidays) |
+| ●Restaurant business hours 11:00-14:30 (last order at 14:00) (excluding Sundays and holidays) |
 
 ### outdoor
 
