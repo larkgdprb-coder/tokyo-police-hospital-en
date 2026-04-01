@@ -7,13 +7,17 @@ In order to create an environment where women can fully demonstrate their abilit
 
 ## 1. planning period
 
-Five years from April 1, 2021 to March 31, 2020
+Five years from April 1, 2020 to March 31, 2021
 
 ## 2. Content
 
-(1) Numerical target 1 (Providing opportunities for female workers in their professional lives) Increase the proportion of women in managerial positions (chief medical director, nurse manager, department/department director level and above) to 40% or more. *As of R7.4.1: 34.9% <Measures> ○ In order to increase the proportion of women in managerial positions, we will verify whether we have a fair promotion system for men and women and revise standards as necessary. ○ We will work to create a workplace environment that allows for a balance between life and work and support the career development of female employees.
+### Goal 1: Increase the percentage of female workers in management positions (chief medical director, nurse manager, division/department director level and above) to 40% or more.
 
-(2) Numerical target 2 (improvement of an employment environment that is conducive to balancing work and family life) Increase the percentage of female employees who have been employed for nine years or more by 10%. * As of R7.4.1 7.3 years <Measures> ○ By publicizing to employees the systems available to them, such as childcare support systems, we will promote the creation of work styles and workplace environments that allow employees to continue working after returning from childcare leave. ○ We will strive to improve employee job satisfaction through measures such as a flextime system that allows employees to flexibly set their working hours, and shorter working hours for childcare that allows employees to shorten their working hours depending on their childcare situation.
+<Measures> ○ September 2020 - Regarding promotions, examine whether promotion standards are disadvantageous to women and whether evaluation standards are fair between men and women, and consider new evaluation standards as necessary. ○ From December 2020, the supervisor will conduct consultations regarding future career advancement (interview period for the goal management system).
+
+### Goal 2: Increase the average length of service for both men and women to 9 years or more.
+
+<Countermeasures> ○ From July 2020: Understand overtime hours over the past three years. ○ From October 2020, we will disseminate the consultation desk for childcare and nursing care related systems. ○ From February 2021, employees returning to work from childcare leave or nursing care leave will be interviewed by their superiors and human resources personnel. ○ From April 2020, we will consider reviewing ways to realize flexible work styles, such as implementing a flextime system and staggered working hours system.
 
 ## 3. Reference data
 
@@ -24,7 +28,7 @@ Five years from April 1, 2021 to March 31, 2020
 | classification | woman | male |
 | --- | --- | --- |
 | Regular employee | 74.4% | 25.6% |
-| Non-regular employee | 49.0% | 51.0% |
+| non-regular employee | 49.0% | 51.0% |
 | All staff | 69.8% | 30.2% |
 
 ### Percentage of managers
@@ -32,7 +36,7 @@ Five years from April 1, 2021 to March 31, 2020
 | classification | woman | male |
 | --- | --- | --- |
 | Regular employee | 34.9% | 65.1% |
-| Non-regular employee | 0.0% | 0.0% |
+| non-regular employee | 0.0% | 0.0% |
 | All staff | 34.9% | 65.1% |
 
 ### Average length of service
@@ -40,7 +44,7 @@ Five years from April 1, 2021 to March 31, 2020
 | classification | woman | male |
 | --- | --- | --- |
 | Regular employee | 9.4 years | 6.6 years |
-| Non-regular employee | 5.1 years | 3.1 years |
+| non-regular employee | 5.1 years | 3.1 years |
 | All staff | 7.3 years | 4.8 years |
 
 ### Difference in wages between men and women
@@ -48,7 +52,7 @@ Five years from April 1, 2021 to March 31, 2020
 | classification | wage gap |
 | --- | --- |
 | Regular employee | 69.4% |
-| Non-regular employee | 102.3% *Women's wage level is higher |
+| non-regular employee | 102.3% *Women's wage level is higher |
 | All staff | 75.3% |
 
 *Full-time employees include reappointed employees.
