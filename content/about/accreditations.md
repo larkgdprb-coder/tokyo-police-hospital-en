@@ -45,7 +45,7 @@ description: "- Insurance medical institution"
 - Japanese Society of Emergency Medicine Emergency Department Specialist Designated Facility
 - Japanese Society of Intensive Care Medicine Specialist Training Facility
 - Japanese Society of Plastic Surgery certified facility
-- Japanese Society of Gastroenterology certified facility
+- Facility certified by the Japanese Society of Gastroenterology
 - Japanese Circulation Society Training Facility
 - Japanese Respiratory Society certified facility
 - Japanese Society of Hematology Blood Training Facility
@@ -56,7 +56,7 @@ description: "- Insurance medical institution"
 - Japanese Gastrointestinal Endoscopy Society Guidance Facility
 - Japanese Society of Dialysis Medicine certified facility
 - Japanese Society of Pain Clinicians Training Facility
-- Japan Stroke Society certified training and teaching hospital
+- Japanese Stroke Society certified training and teaching hospital
 - Japanese Society of Clinical Cytology Education and Training Facility
 - Japanese Society of Neuroendovascular Therapy Training Facility
 - Japanese Breast Cancer Society certified facility
@@ -66,7 +66,8 @@ description: "- Insurance medical institution"
 - Japanese Society of Breast Oncoplastic Surgery Facility Certification
 - Japanese Respiratory Endoscopy Society certified facility
 - Emergency medical technician hospital training training facility
-- Japanese Society of Women's Medicine Specialist System Certification Training Facility
+- 日本女性医学学会専門医制度認定研修施設
 - Physician training cooperation facility designated by the Maternal Protection Act
 - Japan Hereditary Breast Cancer Ovarian Cancer Comprehensive Medical System Organization (JOHBOC) Collaborative Cooperation Facility
 - Japanese Society of Neurology Specialist System Certified Associate Educational Facility
+- Japanese Lung Cancer Society Educational Certification Facility
