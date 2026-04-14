@@ -11,7 +11,7 @@ Institutional Review Board Standard Operating Procedures
 
 Institutional Review Board List
 
-- Agenda Summary March 2020 Agenda Summary February 2020 Agenda Summary January 2020 Agenda Summary December 2020 Agenda Summary November 2020 Agenda Summary October 2020 Agenda Summary September 2020 Agenda Summary July 2020 Agenda Summary June 2020 Agenda Summary May 2020 Agenda Summary April 2020
+- Agenda Summary April 2020 Agenda Summary March 2020 Agenda Summary February 2020 Agenda Summary January 2020 Agenda Summary December 2020 Agenda Summary November 2020 Agenda Summary October 2020 Agenda Summary September 2020 Agenda Summary July 2020 Agenda Summary June 2020 Agenda Summary May 2020
 
 ## About clinical research
 
@@ -135,7 +135,7 @@ At our hospital, we are actively engaged in epidemiological and clinical researc
 
 20-A01 “Retrospective study of clinical data aimed at improving clinical outcomes of skull base tumors”
 
-19-A33 “Study on construction of the Japanese Orthopedic Association Case Registry (JOANR)”
+19-A33 “Research on construction of the Japanese Orthopedic Association Case Registry (JOANR)”
 
 19-A21 “Academic-led multicenter prospective observational study on the usefulness of extracorporeal membrane oxygenation (ECMO) for accidental hypothermia”
 
