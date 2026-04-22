@@ -37,7 +37,7 @@ Members: Physician (ICD), Infection Control Certified Nurse, Pharmacist, Bacteri
 
 #### Main activities
 
-- Ascertaining the status of outbreaks of infectious diseases in the hospital Management of meetings of the hospital infection control committee, link nurse association, and ICT meetings Healthcare-related infection surveillance Preparation and revision of the hospital infection control manual Understanding and guidance of the implementation status of infection control on-site through ICT rounds Staff health management (promotion of vaccine programs, etc.) Staff education Information sharing and coordination of infection control information with other facilities
+- Ascertaining the status of outbreaks of infectious diseases in the hospital Management of the hospital infection control committee, link nurse association, and ICT meetings Healthcare-related infection surveillance Preparation and revision of the nosocomial infection control manual Understanding and providing guidance on the implementation status of infection control on-site through ICT rounds Staff health management (promotion of vaccine programs, etc.) Staff education Information sharing and coordination of infection control information with other facilities
 
 We will continue to work to implement evidence-based infection prevention measures.
 
@@ -108,7 +108,7 @@ Example: You are worried about maintaining your physical strength after being di
 
 ## Nutrition Support Team
 
-This is the Nutrition Support Team (NST) at Tokyo Police Hospital. Our hospital's NST consists of all staff involved in bedside work, including doctors, nurses, pharmacists, registered dietitians, clinical laboratory technicians, rehabilitation staff, clinical engineers, and administrative staff.
+This is the Nutrition Support Team (NST) at Tokyo Police Hospital. Our hospital's NST is comprised of all staff involved in the bedside, including doctors, nurses, pharmacists, registered dietitians, clinical laboratory technicians, rehabilitation staff, clinical engineers, and administrative staff.
 
 At NST, we are working to maximize the expertise of each profession to support patients with nutritional management to maintain their physical strength and obtain effective treatment effects. Nutritional support is not just from the perspective of ``nutrition,'' but also an important factor that allows patients to ``enjoy eating and feel satisfied with their meals.'' I want to keep this in mind and work hard every day.
 
