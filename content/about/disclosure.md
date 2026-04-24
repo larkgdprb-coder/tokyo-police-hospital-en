@@ -3,7 +3,7 @@ title: "Disclosure Requirements"
 description: "As of January 1, 2020"
 ---
 
-## Posting matters stipulated by the Minister of Health, Labor and Welfare
+## Notice matters specified by the Minister of Health, Labor and Welfare
 
 As of January 1, 2020
 
@@ -15,7 +15,7 @@ Our hospital is a "DPC eligible hospital" (medical institution group: DPC standa
 
 ### 3. About the statement issuance system
 
-From the perspective of promoting transparency in medical care and providing information to patients, when issuing a receipt, we issue a detailed statement showing the items for calculating individual medical fees free of charge. We also issue statements free of charge to recipients of publicly funded medical care who do not pay their own medical expenses. Please understand that the statement will include the names of the medicines used and the names of the tests conducted.If you do not wish to have the statement issued, including to a family member who handles the accounting on your behalf, please notify us at the accounting counter.
+From the perspective of promoting transparency in medical care and providing information to patients, when issuing a receipt, we issue a detailed statement showing the items for calculating individual medical fees free of charge. We also issue statement statements free of charge to those who receive publicly funded medical care and do not pay their own medical expenses. Please understand that the statement will include the names of the medicines used and the names of the tests conducted.If you do not wish to have the statement issued, including to a family member who handles the accounting on your behalf, please let us know at the accounting counter.
 
 ### 4. Regarding matters related to non-insurance burdens
 
@@ -25,7 +25,7 @@ At our hospital, we ask that you pay the actual expenses for individual usage fe
 
 ◇ Collection of fees related to the first consultation For patients who visit the hospital without having a letter of introduction from another hospital or clinic (clinic), we will ask them to pay a ``selected treatment fee at the time of the first visit'' in addition to the regular medical fee. However, you will not be required to pay for cases such as transportation by ambulance or emergency hospitalization.
 
-◇ Collection of fees related to re-examinations If a patient who has been referred to another medical institution wishes to be examined at our hospital again at his or her own discretion, or if the patient is in a condition where a letter of introduction to another medical institution can be given and the patient wishes to be examined at our hospital at his/her own discretion after we have explained this to him/her, the patient will be required to pay a ``re-examination treatment fee'' in addition to the regular medical expenses. *If 3 months have passed since the last medical examination, etc., the medical treatment fee will be charged at the time of the first medical examination.
+◇ Collection of fees related to re-examinations If a patient who has been referred to another medical institution wishes to be examined at our hospital again at his or her own discretion, or if the patient is in a condition where a letter of introduction to another medical institution can be given and the patient wishes to be examined at our hospital at his/her own discretion after we have explained this to him/her, the patient will be required to pay a ``re-examination treatment fee'' in addition to the regular medical expenses. *If it has been 3 months since the last medical examination, etc., the medical expenses selected at the time of the first medical examination will be charged.
 
 ◇ Collection of expenses related to out-of-hours treatment If you visit a doctor outside of business hours, such as on holidays or at night, you will be required to pay an out-of-hours treatment fee in addition to the medical fee. *However, this does not apply if you have a letter of introduction, if you are transported by ambulance, or if you are hospitalized as a result of medical treatment.
 
@@ -57,11 +57,11 @@ At our hospital, we are working on sharing duties with multiple professions to r
 
 At our hospital, we are implementing the following initiatives to reduce the workload and improve the treatment of medical professionals such as doctors and nursing staff.
 
-1. Improving the treatment of working doctors ・Implementation of preliminary examinations at the time of initial consultation ・Implementation of explanations on hospitalization, testing procedures, hospitalization, etc. (admission/discharge support center) ・Implementation of nurses to secure routes for intravenous injections and intravenous indwelling needles, etc. ・Explanation of drugs to be administered and medication guidance based on pharmacist placement in wards, etc. ・Utilization of physician office assistants to assist in the preparation of medical certificates, etc., and support inpatient and outpatient treatment・Strengthening collaboration with local medical institutions (multiple attending physician system, promotion of reverse referrals) ・Using part-time regular employees ・Implementing a work system that does not involve consecutive shifts and consideration for work the next day on duty
+1. Reducing the burden on working doctors ・Providing a preliminary examination at the time of the first visit ・Providing explanations about hospitalization, testing procedures, etc. (admission/discharge support center) ・Intravenous injections and intravenous indwelling needle routes secured by nurses by nurses, etc. ・Performance of some medical procedures by those who have completed specific behavior training ・Explanation of drug therapy and medication guidance by pharmacists in the wards, etc. ・Assistance in writing medical certificates, etc. by physician office work assistants, support for inpatient and outpatient treatment, etc.・Optimization of outpatient treatment to reduce the number of outpatient clinics (promoting reverse referrals, strengthening collaboration with other health and medical institutions) ・Utilization of part-time regular employees ・Implementation of a work system that does not involve consecutive shifts and consideration for work the day after a shift
 
-2. Reducing the burden on nursing staff and improving their treatment ・Dividing duties with other professions (outpatient blood sampling by clinical laboratory technicians, etc.) ・Assigning nursing assistants (including night shifts) ・Using emergency medical technicians ・Using nurses who are employed part-time as full-time employees ・Considerations during pregnancy, childcare, and nursing care (shorter working hours for childcare, etc.)
+2. Reducing the burden on nursing staff - Sharing duties with other professions (outpatient blood sampling by clinical laboratory technicians, etc.) - Assigning nursing assistants (including night shifts) - Utilizing emergency medical technicians - Utilizing part-time regular nurses
 
-3. Reducing the burden on medical workers and improving their treatment ・Optimization of outpatient treatment to reduce outpatient clinics ・Enhancement of maternity leave and childcare leave systems ・Considerations during pregnancy, childcare, and nursing care (shorter working hours for childcare, etc.) ・Introduction of diverse work styles ・Establishment of an in-hospital nursery school
+3. Improving the treatment of all staff ・Enhancing maternity and childcare leave systems ・Considerations during pregnancy, childcare, and nursing care (shortened working hours for childcare, etc.) ・Introducing a variety of work styles ・Establishing an in-hospital nursery school
 
 #### ・About outpatient tumor chemotherapy treatment fees
 
@@ -77,13 +77,13 @@ At our hospital, we are working on the following to promote outpatient chemother
 
 Our hospital actively uses generic drugs. In addition, we have a system in place that allows us to respond appropriately, such as reviewing treatment plans, in the event of a shortage in the supply of pharmaceuticals. Depending on the situation, the medication administered to the patient may change.
 
-#### ・Promotion of the use of biosimilar products (biosimilars)
+#### ・Promoting the use of biosimilar products (biosimilars)
 
 Our hospital actively uses biosimilar products in accordance with the policies of the Ministry of Health, Labor and Welfare. Biosimilars are drugs that have almost the same quality as the original biopharmaceutical, and have been confirmed to have the same efficacy and safety. The use of biosimilars reduces the financial burden of medicines on patients. We may use biosimilar products at our hospital, so we appreciate your understanding.
 
 #### ・About generic name prescription addition
 
-At our hospital, from the perspective of providing a stable supply of drug treatment, by promoting generic name prescriptions, insurance pharmacies can dispense drugs regardless of brand, allowing us to respond flexibly. For details, please refer to the attached [Initiatives to ensure a stable supply of pharmaceuticals].
+At our hospital, from the perspective of providing a stable supply of drug treatment, we promote generic name prescriptions, which allows insurance pharmacies to dispense drugs regardless of brand, allowing us to respond flexibly. For details, please refer to the attached [Initiatives to ensure a stable supply of pharmaceuticals].
 
 From October 2020, if a patient wishes to change their prescription from a generic name prescription to a long-listed drug, they will be subject to "selective treatment" and will have to pay a special cost to the patient.
 
@@ -100,7 +100,7 @@ At our hospital, members of various professions, including doctors, nurses, phar
 
 #### ・About medical treatment by palliative care team
 
-At our hospital, our multidisciplinary palliative care team works to improve the quality of life (QOL) of patients and families facing challenges associated with life-threatening illnesses. We aim to prevent and alleviate suffering through early and reliable diagnosis and early treatment of pain and physical and spiritual problems. We have established a system to support medical professionals working in the hospital, meet directly with patients and their families, and provide medical treatment and care. For more information, please see [About the Palliative Care Team].
+At our hospital, our multidisciplinary palliative care team works to improve the quality of life for patients and their families facing challenges associated with life-threatening illnesses. We aim to prevent and alleviate suffering through early and reliable diagnosis and early treatment of pain and physical and spiritual problems. We have established a system to support medical workers working in the hospital, meet directly with patients and their families, and provide medical treatment and care. For more information, please see [About the Palliative Care Team].
 
 #### ・Matters related to high-risk childbirth management additions
 
@@ -128,7 +128,7 @@ At our hospital, medical safety managers and related staff will respond to patie
 
 #### ・In-hospital bulletin board regarding patient consultation desk (additional fee for improving patient support system)
 
-Our hospital has established a patient consultation center to respond to a wide range of patient consultations. Nurses and medical social workers will listen to your story, communicate with departments within the hospital and medical and nursing care personnel outside the hospital, and work to resolve the issue. Consultations are open to anyone, including patients and their families. Additionally, you will not be disadvantaged as a result of your consultation, and we will respect the protection of your privacy. For details, please refer to the bulletin board in the hospital and the [Patient Consultation Desk Information].
+Our hospital has established a patient consultation center to respond to a wide range of patient consultations. Nurses and medical social workers will listen to your story, communicate with departments within the hospital and medical and nursing care personnel outside the hospital, and work to resolve the issue. Consultations are open to anyone, including patients and their families.また、相談されたことにより不利益を受けることはなく、プライバシーの保護を順守します。詳細については院内の掲示及び 【患者様相談窓口のご案内】 をご参照ください。
 
 #### ・In-hospital bulletin board related to admission/discharge support (admission/discharge support, additional support during hospitalization)
 
@@ -140,7 +140,7 @@ At our hospital, we promote collaboration between facilities and provide support
 
 Our hospital has at least one full-time doctor with over three years of experience in allergy treatment.
 
-#### ・Regarding performance regarding facility standards for surgeries stipulated by the Ministry of Health, Labor and Welfare (surgeries listed in Chapter 2, Part 10, General Rules for Surgery, Items 5 and 6 of the Medical Score Table) (January to December 2020)
+#### ・Regarding the performance regarding facility standards for surgeries stipulated by the Ministry of Health, Labor and Welfare (surgeries listed in Chapter 2, Part 10, General Rules for Surgery, Items 5 and 6 of the Medical Score Table) (January to December 2020)
 
 Please refer to the attached [Facility Standards General Rules for Surgery No. 5 and No. 6 Results].
 
