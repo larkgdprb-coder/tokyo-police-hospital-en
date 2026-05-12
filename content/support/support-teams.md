@@ -25,7 +25,7 @@ description: "- Infection control team"
 
 
 
-- Physical restraint optimization team
+- Physical restraint minimization team
 
 ## Infection control team
 
@@ -37,7 +37,7 @@ Members: Physician (ICD), Infection Control Certified Nurse, Pharmacist, Bacteri
 
 #### Main activities
 
-- Ascertaining the status of outbreaks of infectious diseases in the hospital Management of the hospital infection control committee, link nurse association, and ICT meetings Healthcare-related infection surveillance Preparation and revision of the nosocomial infection control manual Understanding and providing guidance on the implementation status of infection control on-site through ICT rounds Staff health management (promotion of vaccine programs, etc.) Staff education Information sharing and coordination of infection control information with other facilities
+- Ascertaining the status of outbreaks of infectious diseases in the hospital Management of meetings of the hospital infection control committee, link nurse association, and ICT meetings Healthcare-related infection surveillance Preparation and revision of the hospital infection control manual Understanding and guidance of the implementation status of infection control on-site through ICT rounds Staff health management (promotion of vaccine programs, etc.) Staff education Information sharing and coordination of infection control information with other facilities
 
 We will continue to work to implement evidence-based infection prevention measures.
 
@@ -59,7 +59,7 @@ We will continue to promote the appropriate use of antibiotics in order to maxim
 
 ## palliative care team
 
-Palliative care is care that can be provided from the time a person is diagnosed with cancer until the end of life to relieve physical and mental pain. Therefore, our aim is to alleviate as much as possible the suffering that patients and their families face, including not only the painful symptoms caused by the cancer itself, but also the side effects of cancer treatment and the suffering associated with long-term treatment.
+Palliative care is care that can be provided from the time a person is diagnosed with cancer until the end of life to relieve physical and mental pain. Therefore, our aim is to alleviate as much as possible the ``suffering'' faced by patients and their families, including not only the painful symptoms caused by the cancer itself, but also the side effects of cancer treatment and the suffering associated with long-term treatment.
 
 Our hospital's palliative care team collaborates with attending physicians in each department to provide palliative care to hospitalized patients. The members are doctors who examine physical and mental health, palliative care certified nurses, pharmacists, medical social workers (MSW), certified psychologists, registered dietitians, and physical therapists. In this way, various professions are involved, and each member utilizes their field of expertise to provide support.
 
@@ -136,12 +136,12 @@ In order to suppress the progression of chronic kidney disease, it is important 
 
 ## rapid response team
 
-Our hospital's RRS (Rapid Response System) began operation in April 2023 after a period of preparation. RRS is a system that aims to improve the prognosis by noticing sudden changes in patients early on before unexpected cardiac arrest and intervening as a team. Our hospital's response team is comprised of emergency center physicians, emergency center nurses, including intensive care certification, and in-hospital lifesaving technicians. It is said that killer symptoms (dangerous signs linked to sudden changes) often appear before a sudden change, and while keeping this in mind, we create RRS activation criteria: respiratory rate, SpO2, systolic blood pressure, heart rate, and state of consciousness based on the National Early Warning Score (NEWS), which is a score for predicting the prognosis of acute diseases.Furthermore, if there are any concerns about the patient, the nurses in the ward will contact the RRS team at their discretion. After RRS examines the patient, the team's doctors will coordinate treatment with the medical department and, if necessary, admit the patient to the intensive care unit. RRS, which responds to sudden changes before they occur, is known to improve patient prognosis, and is being introduced at many hospitals. Our hospital is currently only operational from 8:15 to 17:00, but we are aiming to have staff available 24 hours a day, including holidays.
+Our hospital's RRS (Rapid Response System) began operation in April 2023 after a period of preparation. RRS is a system that aims to improve the prognosis by noticing sudden changes in patients early on before unexpected cardiac arrest and intervening as a team. Our hospital's response team is comprised of emergency center physicians, emergency center nurses, including intensive care certification, and in-hospital lifesaving technicians. It is said that killer symptoms (dangerous signs linked to sudden changes) often appear before a sudden change, and while keeping this in mind, we create RRS activation criteria: respiratory rate, SpO2, systolic blood pressure, heart rate, and state of consciousness based on the National Early Warning Score (NEWS), which is a score for predicting the prognosis of acute diseases.Furthermore, if there are any concerns about the patient, the nurses in the ward will contact the RRS team at their discretion. After RRS examines the patient, the team's doctors will coordinate treatment with the medical department and, if necessary, admit the patient to the intensive care unit. It is known that RRS, which responds before sudden changes occur, leads to improved patient prognosis, and is being introduced at each hospital. Our hospital is currently only operational from 8:15 to 17:00, but we are aiming to have staff available 24 hours a day, including holidays.
 
 ## Dementia delirium care support team
 
 At our hospital, we have established a Dementia Delirium Care Support Team to support people with dementia and those with declining cognitive function so that they can live their lives in their own way. The members are psychiatrists, dementia nurses who have completed the certified nurse education program, ward nurses, pharmacists, occupational therapists, and administrative staff. When a person with dementia is hospitalized, due to poor physical condition due to the disease and treatment in an unfamiliar environment, the patient may not be able to do the things they were used to doing well, and may become anxious and confused. It is necessary to understand the physical and mental pain of such patients and provide support so that they can receive treatment safely and with peace of mind. We hold regular in-hospital rounds and team conferences, obtain information from nurses assigned to each department, and consider support from multiple perspectives. By doing so, we will be able to engage in cross-disciplinary activities, consider interventions tailored to each individual, and strive to provide care.
 
-## Physical restraint optimization team
+## Physical restraint minimization team
 
 Physical restraint is an act that restricts human behavior and is a serious issue that affects human dignity. Our hospital has ``Guidelines for Appropriate Physical Restraints,'' and our philosophy is not to use physical restraints as a general rule. The physical restraint optimization team consists of the vice director, a psychiatrist, a nurse who has completed the dementia nursing certified nurse education course, a ward nurse, a social worker, an occupational therapist, a pharmacist, and administrative staff. In acute care, physical restraints may be unavoidable for treatment purposes in order to protect the safety and well-being of patients. In such cases, the Physical Restraint Appropriation Team, which is made up of staff from various professions, works together to maintain the dignity and safety of patients and to avoid using physical restraints as much as possible.
