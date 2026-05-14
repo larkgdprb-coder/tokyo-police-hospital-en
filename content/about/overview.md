@@ -11,7 +11,7 @@ description: "| Management entity | Vigilante Association General Incorporated F
 | location | 4-22-1 Nakano, Nakano-ku, Tokyo 164-8541 Phone: 03-5343-5611 Fax: 03-5343-5612 |
 | Permitted hospital bed | General 415 beds |
 | structure | 9F～B2F・Helipad |
-| nursing school | 3-14-18 Ekoda, Nakano-ku, Tokyo 165-0022 [To Tokyo Police Hospital Nursing College] |  |
+| Nursing school | 3-14-18 Ekoda, Nakano-ku, Tokyo 165-0022 [To Tokyo Police Hospital Nursing College] |  |
 
 ## Organization/committee
 
@@ -54,7 +54,7 @@ We would like to inform you about the structure of Tokyo Police Hospital.
 | 1978 (Showa 53) | december | CCU operation started |
 | 1979 (Showa 54) | March | Tokyo Police Hospital 50th Anniversary Ceremony (18 departments, 543 beds, 803 patients) |  |
 | July | Masami Yoshikawa appointed as director |
-| 1981 (Showa 56) | February | Outpatient treatment drugs will be moved to an out-of-hospital prescription system |
+| 1981 (Showa 56) | February | Outpatient drugs will be transferred to an out-of-hospital prescription system |
 | 1984 (Showa 59) | October | Opening of Neurological Center |
 | 1985 (Showa 60) | June | Intensive care unit (ICU) operation begins |  |
 | 1988 (Showa 63) | April | Newly established cardiovascular and gastroenterology departments (toward a 24-hour emergency system) |
