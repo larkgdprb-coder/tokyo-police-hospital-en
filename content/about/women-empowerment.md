@@ -27,33 +27,33 @@ Five years from April 1, 2020 to March 31, 2021
 
 | classification | woman | male |
 | --- | --- | --- |
-| Regular employee | 74.4% | 25.6% |
-| non-regular employee | 49.0% | 51.0% |
-| All staff | 69.8% | 30.2% |
+| Regular employee | 75.1% | 24.9% |
+| non-regular employee | 45.2% | 54.8% |
+| All staff | 70.2% | 29.8% |
 
 ### Percentage of managers
 
 | classification | woman | male |
 | --- | --- | --- |
-| Regular employee | 34.9% | 65.1% |
+| Regular employee | 42.5% | 57.5% |
 | non-regular employee | 0.0% | 0.0% |
-| All staff | 34.9% | 65.1% |
+| All staff | 42.5% | 57.5% |
 
 ### Average length of service
 
 | classification | woman | male |
 | --- | --- | --- |
-| Regular employee | 9.4 years | 6.6 years |
-| non-regular employee | 5.1 years | 3.1 years |
-| All staff | 7.3 years | 4.8 years |
+| Regular employee | 9.2 years | 7.4 years |
+| non-regular employee | 11.3 years | 5.7 years |
+| All staff | 10.3 years | 6.6 years |
 
 ### Difference in wages between men and women
 
 | classification | wage gap |
 | --- | --- |
-| Regular employee | 69.4% |
-| non-regular employee | 102.3% *Women's wage level is higher |
-| All staff | 75.3% |
+| Regular employee | 76.9% |
+| non-regular employee | 105.5% *Women's wage level is higher |
+| All staff | 84.2% |
 
 *Full-time employees include reappointed employees.
 
@@ -61,4 +61,4 @@ Five years from April 1, 2020 to March 31, 2021
 
 | Percentage of childcare leave taken | Percentage of childcare leave taken and childcare leave taken |
 | --- | --- |
-| 54.5% | 72.7% |
+| 50.0% | 100.0% |
