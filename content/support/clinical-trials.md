@@ -15,7 +15,11 @@ Institutional Review Board List
 
 ## About clinical research
 
-At our hospital, we are actively engaged in epidemiological and clinical research, and hope to contribute to the advancement of medical care. 26-A10 “Retrospective observational study on the usefulness and limitations of preoperative simulation using 3D fused images”
+At our hospital, we are actively engaged in epidemiological and clinical research, and hope to contribute to the advancement of medical care. 26-A16 “Collaborative research with other institutions on drug therapy for urological cancer”
+
+26-A15 “Comparison of results of radical treatment for prostate cancer at our hospital”
+
+26-A10 “Retrospective observational study on the usefulness and limitations of preoperative simulation using 3D fused images”
 
 26-A08 “Experiencing an outbreak of Binary-toxin-producing Clostridioides-difficile infection in our hospital”
 
@@ -31,11 +35,11 @@ At our hospital, we are actively engaged in epidemiological and clinical researc
 
 26-A01 “Investigation of the therapeutic potential of tralokinumab in atopic dermatitis where symptoms remain after dupilumab”
 
-25-A40「前十字靭帯再建術後のリハビリテーションプロトコル改訂による筋力回復への有用性の検討」
+25-A40 “Examination of the usefulness of revised rehabilitation protocols for muscle strength recovery after anterior cruciate ligament reconstruction”
 
-25-A39「BTB法によるACL再建術後３ヵ月のSLST達成の有無と筋力回復の関連」
+25-A39 “Relationship between achievement of SLST and muscle strength recovery 3 months after ACL reconstruction using BTB method”
 
-25-A38「膝前十字靱帯再建術後の膝伸展筋力回復不良例に対する検討」
+25-A38 “Study on cases of poor recovery of knee extensor muscle strength after anterior cruciate ligament reconstruction”
 
 25-A37 “Retrospective study of radiation dose of lithotripsy at our hospital”
 
@@ -89,11 +93,11 @@ At our hospital, we are actively engaged in epidemiological and clinical researc
 
 24-A02 “Retrospective study on the usefulness of fused 3D images in stroke surgery”
 
-24-A01 "Molecular epidemiological analysis of invasive infectious disease-causing bacteria isolated from clinical specimens and secular trends in drug resistance"
+24-A01 "Molecular epidemiological analysis of invasive infectious disease-causing bacteria isolated from clinical specimens and changes in drug resistance over time"
 
 23-A17 “National epidemiological survey of hypersensitivity pneumonitis”
 
-23-A14 "Prospective observational study to clarify the clinicopathological and molecular biological characteristics of lung cancer that is positive for low-frequency genetic alterations such as RET fusion genes LC-SCRUM-IBIS-II-irAE"
+23-A14「RET融合遺伝子等の低頻度の遺伝子変化陽性肺癌の臨床病理学的、分子生物学的特徴を明らかにするための前向き観察研究附随研究LC-SCRUM-IBIS-Ⅱ-irAE」
 
 23-A12 “Registration for participation in the Japan Fragility Fracture Network Proximal Femur Fracture Database”
 
@@ -137,7 +141,7 @@ At our hospital, we are actively engaged in epidemiological and clinical researc
 
 20-A01 “Retrospective study of clinical data aimed at improving clinical outcomes of skull base tumors”
 
-19-A33 “Research on construction of the Japanese Orthopedic Association Case Registry (JOANR)”
+19-A33 “Study on construction of the Japanese Orthopedic Association Case Registry (JOANR)”
 
 19-A21 “Academic-led multicenter prospective observational study on the usefulness of extracorporeal membrane oxygenation (ECMO) for accidental hypothermia”
 
