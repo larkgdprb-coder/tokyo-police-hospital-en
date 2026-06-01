@@ -1,21 +1,21 @@
 ---
 title: "Disclosure Requirements"
-description: "As of January 1, 2020"
+description: "As of June 1, 2020"
 ---
 
-## Notice matters specified by the Minister of Health, Labor and Welfare
+## Posting matters stipulated by the Minister of Health, Labor and Welfare
 
-As of January 1, 2020
+As of June 1, 2020
 
 ### 1. Our hospital is an insurance medical institution that provides medical care based on the standards set by the Minister of Health, Labor and Welfare.
 
 ### 2. About hospitals eligible for DPC
 
-Our hospital is a "DPC eligible hospital" (medical institution group: DPC standard hospital group), which uses a combination of comprehensive evaluation and performance evaluation to calculate inpatient medical expenses. *Medical institution coefficient: 1.5771 (Basic coefficient: 1.0451 + Functional evaluation coefficient I: 0.4173 + Functional evaluation coefficient II: 0.0916 + Emergency correction coefficient: 0.0231)
+Our hospital is a "DPC eligible hospital" (medical institution group: DPC standard hospital group), which uses a combination of comprehensive evaluation and performance evaluation to calculate inpatient medical expenses. *Medical institution coefficient: 1.5932 (Basic coefficient: 1.0583 + Functional evaluation coefficient I: 0.4082 + Functional evaluation coefficient II: 0.0987 + Emergency correction coefficient: 0.0280)
 
 ### 3. About the statement issuance system
 
-From the perspective of promoting transparency in medical care and providing information to patients, when issuing a receipt, we issue a detailed statement showing the items for calculating individual medical fees free of charge. We also issue statement statements free of charge to those who receive publicly funded medical care and do not pay their own medical expenses. Please understand that the statement will include the names of the medicines used and the names of the tests conducted.If you do not wish to have the statement issued, including to a family member who handles the accounting on your behalf, please let us know at the accounting counter.
+From the perspective of promoting transparency in medical care and providing information to patients, when issuing a receipt, we issue a detailed statement showing the items for calculating individual medical fees free of charge. We also issue statements free of charge to recipients of publicly funded medical care who do not pay their own medical expenses. Please understand that the statement will include the names of the medicines used and the names of the tests conducted.If you do not wish to have the statement issued, including to a family member who handles the accounting on your behalf, please let us know at the accounting counter.
 
 ### 4. Regarding matters related to non-insurance burdens
 
@@ -39,7 +39,7 @@ Prostate antigen (PSA): 1,331 yen
 
 ### 5. Our hospital has submitted the following notification to the Kanto-Shinetsu Health and Welfare Bureau.
 
-◇ Regarding notifications related to facility standards for basic medical fees For notifications related to our hospital's basic medical fees, please see the attached [List of facility standards notifications (as of March 1, 2020)].
+◇ Regarding notifications related to facility standards for basic medical fees For notifications related to our hospital's basic medical fees, please see the bulletin board at the front entrance [List of facility standards notifications (as of June 1, 2020)].
 
 #### ・About basic hospitalization charges
 
@@ -92,11 +92,17 @@ From October 2020, if a patient wishes to change their prescription from a gener
 - Long-listed generic drugs that have been on the market for more than 5 years (including quasi-innovator drugs)
 - Long-listed products (including quasi-innovator products) with a replacement rate of generic drugs of 50% or more
 
-[Co-payment amount] One-fourth of the price difference between the highest price range of the generic drug *If a doctor prescribes a generic drug (cannot be changed to a generic drug) due to medical necessity, or if it is difficult to provide a generic drug, biopharmaceuticals are not eligible for selective medical expenses. For more information click here (external link)
+[Co-payment amount] 1/2 of the price difference between the highest price range of the generic drug *If a doctor prescribes a generic drug (cannot be changed to a generic drug) due to medical necessity, or if it is difficult to provide a generic drug, biopharmaceuticals are not eligible for selective medical expenses. For more information click here (external link)
+
+#### ・About long-term prescriptions and refill prescriptions
+
+At our hospital, depending on the patient's condition and the doctor's judgment, we can administer long-term medication for 28 days or more, or issue a refill prescription (a prescription that can be used repeatedly up to three times for a patient whose symptoms are stable and is issued when the doctor determines that a refill is possible).
 
 #### ・About medical treatment by the nutrition support team
 
 At our hospital, members of various professions, including doctors, nurses, pharmacists, and registered dietitians, provide appropriate nutritional management to patients with poor nutritional status and work to improve their general condition. For more information, please see [About the Nutrition Support Team].
+
+#### ・About medical treatment by the nutrition support team
 
 #### ・About medical treatment by palliative care team
 
@@ -106,11 +112,11 @@ At our hospital, our multidisciplinary palliative care team works to improve the
 
 ・Number of deliveries from January to December 2025: 335 ・Number of full-time obstetrics and gynecology doctors: 6 ・Number of midwives assigned to the maternity ward: 21
 
-#### ・About in-hospital bulletin board regarding medical DX promotion system development addition
+#### ・About in-hospital bulletin board regarding electronic medical information collaboration system maintenance addition
 
 At our hospital, we are developing a system to promote medical DX and provide high-quality medical care.
 
-・We conduct medical treatment using medical information obtained through online qualification systems, etc. ・We are working to provide high-quality medical care through medical DX, such as using My Number Card as an insurance card. ・We plan to introduce and implement initiatives related to medical DX such as electronic prescription issuance and electronic medical record information sharing services.
+・We conduct medical treatment using medical information obtained through online qualification systems, etc. ・We are working to provide high-quality medical care through medical DX, such as using My Number Card as an insurance card. ・In addition to introducing electronic prescriptions, we plan to introduce and implement initiatives related to medical DX such as electronic medical record information sharing services in the future.
 
 #### ・About notices related to medical information acquisition additions
 
@@ -128,13 +134,13 @@ At our hospital, medical safety managers and related staff will respond to patie
 
 #### ・In-hospital bulletin board regarding patient consultation desk (additional fee for improving patient support system)
 
-Our hospital has established a patient consultation center to respond to a wide range of patient consultations. Nurses and medical social workers will listen to your story, communicate with departments within the hospital and medical and nursing care personnel outside the hospital, and work to resolve the issue. Consultations are open to anyone, including patients and their families.また、相談されたことにより不利益を受けることはなく、プライバシーの保護を順守します。詳細については院内の掲示及び 【患者様相談窓口のご案内】 をご参照ください。
+Our hospital has established a patient consultation center to respond to a wide range of patient consultations. Nurses and medical social workers will listen to your story, communicate with departments within the hospital and medical and nursing care personnel outside the hospital, and work to resolve the issue. Consultations are open to anyone, including patients and their families. Additionally, you will not be disadvantaged as a result of your consultation, and we will respect the protection of your privacy. For details, please refer to the bulletin board in the hospital and the [Patient Consultation Desk Information].
 
 #### ・In-hospital bulletin board related to admission/discharge support (admission/discharge support, additional support during hospitalization)
 
 At our hospital, we promote collaboration between facilities and provide support for discharge, so that patients can be discharged from the hospital with peace of mind and satisfaction, and can continue their treatment and life in the area where they are accustomed to living as soon as possible. For details, please refer to [Notices in each ward] and [Information about the Medical and Welfare Counseling Room].
 
-◇ Regarding notifications related to facility standards for specially listed medical fees For notifications related to our hospital's specially listed medical fees, please see the attached [List of facility standards notifications (as of February 1, 2020)].
+◇ Regarding notifications related to facility standards for specially listed medical fees For notifications related to our hospital's specially listed medical fees, please see the attached [List of facility standards notifications (as of June 1, 2020)].
 
 #### ・Matters related to allergic rhinitis immunotherapy treatment management fees
 
@@ -146,7 +152,7 @@ Please refer to the attached [Facility Standards General Rules for Surgery No. 5
 
 ## 6. Regarding hospitalization meal and medical expenses
 
-Our hospital notifies patients of inpatient meal and treatment expenses (I), and provides meals managed by a registered dietitian at any time (breakfast 7:45 a.m., lunch 12:00 p.m., dinner after 6:00 p.m.) at an appropriate temperature. We have also submitted notifications for cafeteria premiums, and meals are served at cafeterias that meet the requirements for cafeteria premiums.
+Our hospital notifies patients of inpatient meal and treatment expenses (I), and provides meals managed by a registered dietitian at any time (breakfast 7:45 a.m., lunch 12:00 p.m., dinner after 6:00 p.m.) at an appropriate temperature. We have also submitted notifications for cafeteria premiums and are providing meals that meet the requirements for cafeteria premiums.
 
 ## 7. Others
 
@@ -154,4 +160,4 @@ Our hospital notifies patients of inpatient meal and treatment expenses (I), and
 
 ◇ Efforts to prevent nosocomial infections at our hospital Our hospital has established an infection control team to understand the status of in-hospital infections, use antibiotics appropriately, prevent staff infections, and provide staff training for the purpose of preventing nosocomial infections. We also carry out activities to improve knowledge of infection prevention measures not only in hospitals but also in local elderly care facilities and hospitals.
 
-◇ Smoking is completely prohibited on the premises In accordance with Article 25 of the Health Insurance Act, our hospital prohibits smoking on the premises, both indoors and outdoors, in order to prevent passive smoking. We ask all visitors and patients to strictly refrain from smoking (including non-combustible and heated tobacco). We also ask for your understanding and cooperation in respecting etiquette around the hospital and prohibiting smoking throughout the hospital grounds.
+◇ Smoking is completely prohibited on the premises In accordance with Article 25 of the Health Insurance Act, our hospital prohibits smoking on the premises, both indoors and outdoors, in order to prevent passive smoking. We ask all visitors and patients to strictly refrain from smoking (including non-combustible and heated tobacco). We also ask for your understanding and cooperation in respecting etiquette around the hospital and prohibiting smoking throughout the hospital premises.
