@@ -11,11 +11,15 @@ Institutional Review Board Standard Operating Procedures
 
 Institutional Review Board List
 
-- Agenda Summary May 2020 Agenda Summary April 2020 Agenda Summary March 2020 Agenda Summary February 2020 Agenda Summary January 2020 Agenda Summary December 2020 Agenda Summary November 2020 Agenda Summary October 2020 Agenda Summary September 2020 Agenda summary: July 2020 Agenda summary: June 2020
+- Agenda Summary June 2020 Agenda Summary May 2020 Agenda Summary April 2020 Agenda Summary March 2020 Agenda Summary February 2020 Agenda Summary January 2020 Agenda Summary December 2020 Agenda Summary November 2020 Agenda Summary October 2020 Agenda Summary September 2020 Agenda Summary July 2020
 
 ## About clinical research
 
-At our hospital, we are actively engaged in epidemiological and clinical research, and hope to contribute to the advancement of medical care. 26-A16 “Collaborative research with other institutions on drug therapy for urological cancer”
+At our hospital, we are actively engaged in epidemiological and clinical research, and hope to contribute to the advancement of medical care. 26-A19 “Japan Neurosurgical Society Database Research Project (Japan-Neurosurgical-Database-JND)”
+
+26-A18 “Basic performance evaluation of fully automated chemiluminescent enzyme immunoassay device AIA-CL600”
+
+26-A16 “Collaborative research with other institutions on drug therapy for urological cancer”
 
 26-A15 “Comparison of results of radical treatment for prostate cancer at our hospital”
 
@@ -79,7 +83,7 @@ At our hospital, we are actively engaged in epidemiological and clinical researc
 
 25-A04 “Multicenter retrospective study to evaluate the safety and efficacy of chemoradiotherapy combined with CBDCA for CDDP-unfit localized small cell lung cancer”
 
-25-A02 “Multi-center collaborative prospective radiotherapy planning evaluation experiment for safe intensity-modulated radiotherapy implementation with physician confirmation via remote radiotherapy planning technology”
+25-A02 “Multicenter prospective radiotherapy planning evaluation experiment for safe intensity modulated radiotherapy implementation with physician confirmation via remote radiotherapy planning technology”
 
 24-A23 “Multicenter retrospective observational study on the diagnosis of cholangitis in gallstone pancreatitis”
 
@@ -97,7 +101,7 @@ At our hospital, we are actively engaged in epidemiological and clinical researc
 
 23-A17 “National epidemiological survey of hypersensitivity pneumonitis”
 
-23-A14「RET融合遺伝子等の低頻度の遺伝子変化陽性肺癌の臨床病理学的、分子生物学的特徴を明らかにするための前向き観察研究附随研究LC-SCRUM-IBIS-Ⅱ-irAE」
+23-A14 "Prospective observational study to clarify the clinicopathological and molecular biological characteristics of lung cancer that is positive for low-frequency genetic alterations such as RET fusion genes LC-SCRUM-IBIS-II-irAE"
 
 23-A12 “Registration for participation in the Japan Fragility Fracture Network Proximal Femur Fracture Database”
 
