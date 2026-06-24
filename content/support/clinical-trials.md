@@ -15,7 +15,9 @@ Institutional Review Board List
 
 ## About clinical research
 
-At our hospital, we are actively engaged in epidemiological and clinical research, and hope to contribute to the advancement of medical care. 26-A19 “Japan Neurosurgical Society Database Research Project (Japan-Neurosurgical-Database-JND)”
+At our hospital, we are actively engaged in epidemiological and clinical research, and hope to contribute to the advancement of medical care. 26-A23 “Examination of predictive factors of Futile-reperfusion”
+
+26-A19 “Japan Neurosurgical Society Database Research Project (Japan-Neurosurgical-Database-JND)”
 
 26-A18 “Basic performance evaluation of fully automated chemiluminescent enzyme immunoassay device AIA-CL600”
 
@@ -97,7 +99,7 @@ At our hospital, we are actively engaged in epidemiological and clinical researc
 
 24-A02 “Retrospective study on the usefulness of fused 3D images in stroke surgery”
 
-24-A01 "Molecular epidemiological analysis of invasive infectious disease-causing bacteria isolated from clinical specimens and changes in drug resistance over time"
+24-A01 "Molecular epidemiological analysis of invasive infectious disease-causing bacteria isolated from clinical specimens and secular trends in drug resistance"
 
 23-A17 “National epidemiological survey of hypersensitivity pneumonitis”
 
