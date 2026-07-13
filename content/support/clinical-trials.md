@@ -11,7 +11,7 @@ Institutional Review Board Standard Operating Procedures
 
 Institutional Review Board List
 
-- Agenda Summary June 2020 Agenda Summary May 2020 Agenda Summary April 2020 Agenda Summary March 2020 Agenda Summary February 2020 Agenda Summary January 2020 Agenda Summary December 2020 Agenda Summary November 2020 Agenda Summary October 2020 Agenda Summary September 2020 Agenda Summary July 2020
+- Agenda Summary July 2020 Agenda Summary June 2020 Agenda Summary May 2020 Agenda Summary April 2020 Agenda Summary March 2020 Agenda Summary February 2020 Agenda Summary January 2020 Agenda Summary December 2020 Agenda Summary November 2020 Agenda summary October 2020 Agenda summary September 2020
 
 ## About clinical research
 
@@ -99,7 +99,7 @@ At our hospital, we are actively engaged in epidemiological and clinical researc
 
 24-A02 “Retrospective study on the usefulness of fused 3D images in stroke surgery”
 
-24-A01 "Molecular epidemiological analysis of invasive infectious disease-causing bacteria isolated from clinical specimens and secular trends in drug resistance"
+24-A01 "Molecular epidemiological analysis of invasive infectious disease-causing bacteria isolated from clinical specimens and changes in drug resistance over time"
 
 23-A17 “National epidemiological survey of hypersensitivity pneumonitis”
 
@@ -115,7 +115,7 @@ At our hospital, we are actively engaged in epidemiological and clinical researc
 
 23-A03 “National survey on bronchiectasis associated with rheumatoid arthritis”
 
-23-A02 "Investigation of the diagnostic significance of CT value measurement of periaortic fat in acute aortic dissection"
+23-A02 "Examination of the diagnostic significance of CT value measurement of periaortic fat in acute aortic dissection"
 
 22-A19 “Large-scale multicenter prospective observational study on the prognosis of myeloma-related diseases in Japan II JSH-MM-20”
 
