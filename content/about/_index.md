@@ -94,6 +94,13 @@ Records of medical treatment conducted at our hospital, etc. Go to details
 
 We will make every effort to ensure that all employees and related parties are fully informed, and to protect personal information even more than ever before. Go to details
 
+## Regarding creation of anonymously processed information and provision to third parties
+
+
+
+
+This is information about creating anonymously processed information and providing it to third parties. Go to details
+
 ## Action plan based on the Next Generation Development Support Measures Promotion Act
 
 
@@ -108,7 +115,7 @@ We will formulate an action plan to enable all employees to fully demonstrate th
 
 In order to increase the proportion of women in management positions, we will verify whether we have a fair promotion system for men and women, and revise standards as necessary. Go to details
 
-## Posting matters stipulated by the Minister of Health, Labor and Welfare
+## Notice matters specified by the Minister of Health, Labor and Welfare
 
 
 
