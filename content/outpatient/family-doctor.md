@@ -5,19 +5,19 @@ description: "In an effort to provide seamless medical care from hospitalization
 
 ## About our hospital's medical treatment policy
 
-In an effort to provide seamless medical care from hospitalization to home, the Ministry of Health, Labor and Welfare has indicated that the medical functions of family doctor clinics and large hospitals will be clarified and collaboration between clinics and clinics will be promoted. At our hospital, we recommend that patients with mild symptoms and patients with chronic conditions who require long-term hospital visits visit their local family doctor. We ask that all residents of the ward understand the purpose of this initiative and cooperate with us.
+In an effort to provide seamless medical care from hospitalization to home, the Ministry of Health, Labor and Welfare has indicated that the medical functions of family doctor clinics and large hospitals will be clarified and collaboration between clinics and clinics will be promoted. At our hospital, we recommend that patients with mild symptoms and patients in a chronic stage who require long-term hospital visits visit a local family doctor. We ask that all residents of the ward understand the purpose of this initiative and cooperate with us.
 
 [Selected medical expenses](https://www.keisatsubyoin.or.jp/wordpress/wp-content/uploads/2024/01/選定療養費チラシ20240111.pdf)
 
 ## What is a “family doctor”?
 
-A family doctor is a doctor who cares deeply about the illnesses of patients and their families. Please consult your ``family doctor'' about any illnesses you are currently being treated for, illnesses you have had in the past, and medications you are currently taking. In an emergency, they will make the right decision and provide the most appropriate treatment. We also feel free to consult with patients about their family's health and physical health.
+A family doctor is a doctor who cares deeply about the illnesses of patients and their families. Please consult your ``family doctor'' about any illnesses you are currently being treated for, illnesses you have had in the past, and medications you are currently taking. In times of emergency, they will make appropriate decisions and provide the most appropriate treatment. We also feel free to consult with patients about their family's health and physical health.
 
 ## About the role and function of a “family doctor”
 
 ### primary medical care
 
-A ``family doctor'' is the doctor a patient first sees for treatment. Appropriate initial treatment will be provided depending on the patient's medical history, family history, allergies, and other health conditions.
+A ``family doctor'' is a familiar doctor that a patient first sees for treatment. Appropriate initial treatment will be provided depending on the patient's medical history, family history, allergies, and other health conditions.
 
 ### Optimal medical care according to symptoms
 
@@ -29,10 +29,10 @@ At our hospital, we perform tests that are not performed at your family doctor's
 
 ### Advantages of bringing a letter of introduction from your family doctor when visiting Tokyo Police Hospital
 
-- The selected medical treatment fee of 7,700 yen at the first consultation is no longer required.
+- The selected medical treatment fee of 7,700 yen at the first consultation will no longer be required.
 - We will provide you with information about your treatment progress and test results, which will help you make the right decision.
 - You can avoid duplication of tests and medications.
-- If you have a referral letter, you can make a medical appointment by phone. We recommend that you make an appointment in advance, as your referring doctor may not be available for outpatient consultations on the day you plan to visit.
+- If you have a referral letter, you can make a medical appointment by phone. We recommend that you make an appointment in advance, as the referring doctor may not be available for outpatient consultations on the day you plan to visit.
 
 ## Those who are receiving treatment at our hospital and do not have a family doctor
 
