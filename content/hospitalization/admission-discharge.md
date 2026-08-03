@@ -3,9 +3,9 @@ title: "Admission & Discharge"
 description: "Doctors, nurses, social workers, dietitians, and pharmacists will play a central role in providing solid support so that"
 ---
 
-## Admission/Discharge Support Center/Patient Consultation Center
+## Admission/Discharge Support/Patient Consultation Center
 
-Doctors, nurses, social workers, dietitians, and pharmacists will play a central role in providing solid support so that you can receive treatment with peace of mind, from the time you are admitted to the hospital until after you are discharged from the hospital.
+Doctors, nurses, social workers, dietitians, and pharmacists will play a central role in providing solid support so that patients can receive treatment with peace of mind, from the time they are admitted to the hospital until after they are discharged from the hospital.
 
 ## Regarding procedures before hospitalization
 
@@ -22,7 +22,7 @@ Please come to the Medical Affairs Division Admission Reception (1F) by the desi
 
 #### [Applicable persons only]
 
-#### [Only those who wish]
+#### [Applicants only]
 
 ◇During hospitalization, patients will be identified using wristbands, so we ask for your understanding and cooperation.
 
@@ -47,10 +47,10 @@ Please pay at the automatic payment machine or Medical Affairs Division accounti
 - For payment, you can use debit card or credit card (VISA, Master, JCB, AMEX).
 - There is a limit on the amount you can withdraw from an ATM, so please check this before using.
 - If you do not use health insurance, you will be responsible for the out-of-pocket fees determined by our hospital.
-- On the day of your admission/discharge, you will be charged for the entire day, regardless of whether it is in the morning or in the afternoon.
+- On the day of admission/discharge, you will be charged for the entire day, regardless of morning or afternoon.
 - If you use a private room, you will be required to pay the difference in room charges as determined by our hospital.
 - If you have any questions regarding payment, please feel free to contact the Medical Affairs Division.
 
 ## We ask for your understanding and cooperation regarding early discharge.
 
-As a hospital responsible for acute care, our hospital is committed to advanced and advanced medical care. For patients whose symptoms have stabilized after completing specialized medical care at our hospital, we ask them to be discharged from the hospital as soon as possible and receive treatment at home, or be transferred to another medical institution depending on their condition. When transferring, we will do our best to introduce you to a medical institution that meets your wishes.
+As a hospital responsible for acute care, our hospital is engaged in advanced and advanced medical care. For patients whose symptoms have stabilized after completing specialized medical care at our hospital, we ask them to be discharged from the hospital as soon as possible and receive treatment at home, or be transferred to another medical institution depending on their condition. When transferring, we will do our best to introduce you to a medical institution that meets your wishes.
