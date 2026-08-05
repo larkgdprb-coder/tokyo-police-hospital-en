@@ -13,19 +13,19 @@ As of August 1, 2020
 
 Our hospital is a "DPC eligible hospital" (medical institution group: DPC standard hospital group), which uses a combination of comprehensive evaluation and performance evaluation to calculate inpatient medical expenses. *Medical institution coefficient: 1.5932 (Basic coefficient: 1.0583 + Functional evaluation coefficient I: 0.4082 + Functional evaluation coefficient II: 0.0987 + Emergency correction coefficient: 0.0280)
 
-### 3. About the statement issuance system
+### ３、 明細発行体制について
 
-From the perspective of promoting transparency in medical care and providing information to patients, when issuing a receipt, we issue a detailed statement showing the items for calculating individual medical fees free of charge. We also issue statement statements free of charge to those who receive publicly funded medical care and do not pay their own medical expenses. Please understand that the statement will include the names of the medicines used and the names of the tests conducted.If you do not wish to have the statement issued, including to a family member who handles the accounting on your behalf, please notify us at the accounting counter.
+From the perspective of promoting transparency in medical care and providing information to patients, when issuing a receipt, we issue a detailed statement showing the items for calculating individual medical fees free of charge. We also issue statements free of charge to recipients of publicly funded medical care who do not pay their own medical expenses. Please understand that the statement will include the names of the medicines used and the names of the tests conducted.If you do not wish to have the statement issued, including to a family member who handles the accounting on your behalf, please notify us at the accounting counter.
 
 ### 4. Regarding matters related to non-insurance burdens
 
 At our hospital, we ask that you pay the actual expenses for individual usage fees, certificates, medical certificates, etc. according to the number of days you use them. ◇ Providing a special treatment environment Please refer to the attached [List of differential beds (private rooms)].
 
-◇ Expenses related to medical certificates/certificates and expenses not covered by insurance Please refer to the attached [List of medical expenses not covered by insurance].
+◇ 診断書・証明書及び保険外負担に係る費用 別添の 【保険外併用療養費一覧】 をご参照ください。
 
 ◇ Collection of fees related to the first consultation For patients who come to the hospital without having a letter of introduction from another hospital or clinic (clinic), we will ask them to pay a ``selected treatment fee at the time of the first visit'' in addition to the regular medical fee. However, you will not be required to pay for cases such as transportation by ambulance or emergency hospitalization.
 
-◇ Collection of fees related to re-examinations If a patient who has been referred to another medical institution wishes to be examined at our hospital again at his or her own discretion, or if a letter of introduction to another medical institution can be given and the patient wishes to be examined at our hospital at his/her own discretion after we have explained this to him/her, the patient will be required to pay a ``selected medical treatment fee at the time of re-examination'' in addition to the regular medical expenses. *If it has been 3 months since the last medical examination, etc., the medical expenses selected at the time of the first medical examination will be charged.
+◇ Collection of fees related to re-examinations If a patient who has been referred to another medical institution wishes to be examined at our hospital again at his or her own discretion, or if the patient is in a condition where a letter of introduction to another medical institution can be given and the patient wishes to be examined at our hospital at his/her own discretion after we have explained this, we will ask the patient to pay a ``selected medical treatment fee at the time of re-examination'' in addition to the regular medical expenses. *If 3 months have passed since the last medical examination, etc., the medical treatment fee will be charged at the time of the first medical examination.
 
 ◇ Collection of expenses related to out-of-hours treatment If you visit the hospital outside of business hours, such as on holidays or at night, you will be required to pay an out-of-hours treatment fee in addition to the medical fee. *However, this does not apply if you have a letter of introduction, if you are transported by ambulance, or if you are hospitalized as a result of medical treatment.
 
@@ -43,7 +43,7 @@ Prostate antigen (PSA): 1,331 yen
 
 #### ・About basic hospitalization charges
 
-At our hospital, we report the "acute phase general hospitalization fee 1". At least one nursing staff member is assigned for every seven inpatients. Please note that the placement of nursing staff varies depending on the ward, time of day, holidays, etc. The actual number of nursing staff in each ward is posted in each ward. Additionally, at least one nursing assistant is assigned for every 25 inpatients.
+At our hospital, we report the "Acute Hospital A General Hospitalization Fee." At least one nursing staff member is assigned for every seven inpatients. Please note that the placement of nursing staff varies depending on the ward, time of day, holidays, etc. The actual number of nursing staff in each ward is posted in each ward. Additionally, at least one nursing assistant is assigned for every 25 inpatients.
 
 #### ・Inpatient treatment plan, measures to prevent in-hospital infection, medical safety management system, and pressure ulcer measures
 
@@ -51,7 +51,7 @@ At our hospital, when a patient is admitted to the hospital, doctors and other r
 
 #### ・About physician office work assistance system addition
 
-At our hospital, we are working on sharing duties with multiple professions to reduce the burden on hospital doctors and improve their treatment.
+At our hospital, we are working on sharing work with multiple professions to reduce the burden on hospital doctors and improve their treatment.
 
 #### ・Reducing the burden on medical workers and improving their treatment
 
@@ -65,11 +65,11 @@ At our hospital, we are implementing the following initiatives to reduce the wor
 
 #### ・About generic drugs
 
-Our hospital actively uses generic drugs. In addition, we have a system in place that allows us to respond appropriately, such as reviewing treatment plans, in the event of a drug supply shortage. Depending on the situation, the medication administered to the patient may be changed.
+Our hospital actively uses generic drugs. In addition, we have a system in place that allows us to respond appropriately, such as reviewing treatment plans, in the event of a drug supply shortage. Depending on the situation, the medication administered to the patient may change.
 
 #### ・Promotion of the use of biosimilar products (biosimilars)
 
-Our hospital actively uses biosimilar products in accordance with the policies of the Ministry of Health, Labor and Welfare. Biosimilars are drugs that have almost the same quality as the original biopharmaceutical, and have been confirmed to have the same efficacy and safety. The use of biosimilars reduces the financial burden of medicines on patients. We may use biosimilar products at our hospital, so we appreciate your understanding.
+Our hospital actively uses biosimilar products in accordance with the policies of the Ministry of Health, Labor and Welfare. Biosimilars are drugs that have almost the same quality as the original biopharmaceutical, and have been confirmed to have the same efficacy and safety. The use of biosimilars reduces the financial burden of medicines on patients. We appreciate your understanding as we may use biosimilar products at our hospital.
 
 #### ・About generic name prescription addition
 
@@ -77,7 +77,7 @@ At our hospital, from the perspective of providing a stable supply of drug treat
 
 From October 2020, if a patient wishes to change their prescription from a generic name prescription to a long-listed drug, they will be subject to "selective treatment" and will have to pay a special cost to the patient.
 
-[Applicable drugs]
+[Eligible long-term listed products]
 
 - Long-listed generic drugs that have been on the market for more than 5 years (including quasi-innovator drugs)
 - Long-listed products (including quasi-innovator products) with a replacement rate of generic drugs of 50% or more
@@ -86,7 +86,7 @@ From October 2020, if a patient wishes to change their prescription from a gener
 
 #### ・About long-term prescriptions and refill prescriptions
 
-At our hospital, depending on the patient's condition and the doctor's judgment, we can administer long-term medication for 28 days or more, or issue a refill prescription (a prescription that can be used up to three times for a patient whose symptoms are stable and is issued when the doctor determines that a refill is possible).
+At our hospital, depending on the patient's condition and the doctor's judgment, we can administer long-term medication for 28 days or more, or issue a refill prescription (a prescription that can be used repeatedly up to three times for a patient whose symptoms are stable and is issued when the doctor determines that a refill is possible).
 
 #### ・About medical treatment by the nutrition support team
 
@@ -106,13 +106,13 @@ At our hospital, we are developing a system to promote medical DX and provide hi
 
 ・We carry out medical treatment using medical information obtained through online qualification systems, etc. ・We are working to provide high-quality medical care through medical DX, such as using My Number cards as insurance cards. ・In addition to introducing electronic prescriptions, we plan to introduce and implement initiatives related to medical DX such as electronic medical record information sharing services in the future.
 
-#### ・About patient consultation desk regarding medical safety (medical safety measures additional)
+#### ・About patient consultation desk regarding medical safety (additional medical safety measures)
 
 At our hospital, medical safety managers and related staff will respond to patient consultations regarding medical safety with due consideration to privacy. We will also take the opinions we receive seriously and strive to provide safe medical care.
 
 #### ・In-hospital bulletin board regarding admission/discharge support (admission/discharge support, additional support upon hospitalization)
 
-At our hospital, we promote collaboration between facilities and provide support for discharge, so that patients can be discharged from the hospital with peace of mind and satisfaction and can continue their treatment and life in the area where they are accustomed to living as soon as possible. For details, please refer to [Notices in each ward] and [Information about the Medical and Welfare Consultation Room].
+At our hospital, we promote collaboration between facilities and provide support for discharge, so that patients can be discharged with peace of mind and satisfaction and continue their medical treatment and life in the area where they are accustomed to living as soon as possible. For details, please refer to [Notices in each ward] and [Information about the Medical and Welfare Consultation Room].
 
 #### ・In-hospital bulletin board regarding oral care collaboration addition
 
@@ -124,13 +124,23 @@ Our hospital has established a patient consultation center to respond to a wide 
 
 ◇ Regarding notifications related to facility standards for specially listed medical fees For notifications related to our hospital's specially listed medical fees, please see the attached [List of facility standards notifications (as of August 1, 2020)].
 
+#### ・About in-hospital triage implementation
+
+Our hospital has an in-hospital triage system that prioritizes and treats patients with a high degree of emergency. Please refer to the attached [About in-hospital triage].
+
+#### ・About outpatient oncology therapy medical fees
+
+At our hospital, we are working on the following to promote outpatient chemotherapy.
+
+・We have one or more full-time doctors, nurses, or pharmacists in the hospital at all times, and have established a communication system that allows us to respond 24 hours a day to emergency consultations by phone or other means from patients who are being charged medical fees. ・We have a committee that evaluates and approves the appropriateness of chemotherapy regimens (treatment details) to be implemented. ・We have a system in place that allows patients to be hospitalized in emergencies such as sudden deterioration. 《Inquiries》03-5343-5611 (Representative)
+
 #### ・Matters related to allergic rhinitis immunotherapy treatment management fees
 
 Our hospital has at least one full-time doctor with over three years of experience in allergy treatment.
 
 #### ・Regarding performance regarding facility standards for surgeries stipulated by the Ministry of Health, Labor and Welfare (surgeries listed in Chapter 2, Part 10, General Rules for Surgery, Items 5 and 6 of the Medical Score Table) (January to December 2020)
 
-Please refer to the attached [Facility Standards General Rules for Surgery No. 5 and No. 6 Results].
+Please refer to the attached [Facility Standards and Surgery Results].
 
 ## 6. Regarding hospitalization meal and medical expenses
 
@@ -140,6 +150,6 @@ Our hospital reports the inpatient meal treatment fee (I), and provides meals ma
 
 ◇ Efforts for medical safety measures At our hospital, in order to provide safe medical care, medical safety managers and others work together with the Medical Safety Management Committee to systematically implement more effective medical safety measures and staff training.
 
-◇ Efforts to prevent nosocomial infections at our hospital Our hospital has established an infection control team, which assesses the status of nosocomial infections, uses antibiotics appropriately, prevents infections among staff, and provides staff training for the purpose of preventing nosocomial infections. We also carry out activities to improve knowledge of infection prevention measures not only in hospitals but also in local elderly care facilities and hospitals.
+◇ 当院の院内感染対策の取り組み 当院では、感染制御のチームを設置し、院内感染状況の把握、抗菌薬の適正使用、職員の感染防止等を行い、院内感染対策を目的とした職員の研修を行っています。 また、院内だけにとどまらず、地域の高齢者施設や病院の感染防止対策の知識の向上のための活動を行っています。
 
-◇ Smoking is completely prohibited on the premises In accordance with Article 25 of the Health Insurance Act, our hospital prohibits smoking on the premises, both indoors and outdoors, to prevent passive smoking. We ask all visitors and patients to strictly refrain from smoking (including non-combustible and heated tobacco). We also ask for your understanding and cooperation in respecting etiquette around the hospital and prohibiting smoking throughout the hospital grounds.
+◇ Smoking is completely prohibited on the premises In accordance with Article 25 of the Health Insurance Act, our hospital prohibits smoking on the premises, both indoors and outdoors, to prevent passive smoking. We ask all visitors and patients to strictly refrain from smoking (including non-combustible and heated tobacco). We also ask for your understanding and cooperation in respecting etiquette around the hospital and prohibiting smoking throughout the hospital premises.
