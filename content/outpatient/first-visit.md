@@ -1,83 +1,33 @@
 ---
 title: "First Visit (New Patients)"
-description: "◇If you have a family doctor, you may be refused treatment if you do not have a letter of introduction. ◇Depending on th"
+description: "◇かかりつけ医をお持ちの方は、紹介状が無いと診療をお断りする場合がございます。 ◇診療科により 【休診】【受付時間変更】【紹介状のみ可】 の場合がございます。 ご予約のない方は、必ずお電話にて事前にご確認の上、ご来院ください。 ◇旧警察病院"
 ---
 
-## Flow of consultation
+## 受診のながれ
 
-◇If you have a family doctor, you may be refused treatment if you do not have a letter of introduction. ◇Depending on the clinical department, there may be cases where the clinic is closed, reception hours are changed, or only referrals are accepted. If you do not have a reservation, please be sure to call us in advance to confirm before coming to the clinic. ◇If you have visited the former police hospital (Iidabashi), please see [For those who have visited the hospital]. ◇For frequently asked questions, click here.
+◇かかりつけ医をお持ちの方は、紹介状が無いと診療をお断りする場合がございます。 ◇診療科により 【休診】【受付時間変更】【紹介状のみ可】 の場合がございます。 ご予約のない方は、必ずお電話にて事前にご確認の上、ご来院ください。 ◇旧警察病院（飯田橋）におかかりの方は、 【受診されたことがある方へ】 をご覧ください。 ◇診察申込書を事前にご記入のうえお持ちください。 【診察申込書】 ◇よくあるご質問は 【こちら】
 
-## Reception hours
+## 受付時間
 
-| Monday to Saturday | 8:00-11:30 / 12:30-16:00 |
+| 月曜日～土曜日 | 8：00～11：30　/　12：30～16：00 |
 | --- | --- |
 
 
 
 
-◇ Reception hours vary depending on each clinical department. Please check the schedule of the medical department you will be using before visiting the clinic. For details, please check [Clinical Department/Department Information].
+◇ 受付時間は各診療科によって異なります。 ご利用になる診療科のスケジュールをご確認の上、ご来院ください。 詳細は 【診療科・部門のご案内】 からご確認ください。
 
 
 
 
-## Medical hours
-
-
-
-
-
-
-| Monday to Saturday | 8:30-12:00 / 13:00-16:30 |
-| --- | --- |
+## 診療時間
 
 
 
 
 
 
-◇ Consultation hours vary depending on each department. Please check the schedule of the medical department you will be using before visiting the clinic. For details, please check [Clinical Department/Department Information].
-
-
-
-
-## Door opening time
-
-
-
-
-#### 7:45-17:00 (main entrance)
-
-
-
-
-*Disaster Prevention Center (after hours) entrance is open 24 hours.
-
-
-
-
-## Closed days
-
-
-
-
-#### Sundays, holidays, year-end and New Year holidays (12/29-1/3)
-
-
-
-
-## Medical expenses selected at first consultation
-
-
-
-
-Based on the Health Insurance Act, in order to share the functions of medical institutions, our hospital requires first-time patients who do not have a letter of introduction to pay 7,700 yen. For details, click here.
-
-
-
-
-
-
-| Those who are not eligible | Those who were transported by ambulance Those who were admitted to the emergency hospital after visiting an outpatient clinic Patients who were instructed to undergo a detailed examination based on the results of specific medical examinations, cancer screenings, etc. Those who underwent medical examination based on the results of a complete medical checkup at our hospital Those who receive medical assistance under the Public Assistance Act or who are eligible for various public funding systems due to specific diseases or injuries (excluding subsidy systems for infant medical care, single-parent family medical care, and children's medical care) Those who receive medical treatment due to work-related accidents or public-duty accidents Those who are visiting our hospital's obstetrics and gynecology department for the first time with a complaint of pregnancy. |
+| 月曜日～土曜日 | 8：30～12：00　/　13：00～16：30 |
 | --- | --- |
 
 
@@ -85,74 +35,124 @@ Based on the Health Insurance Act, in order to share the functions of medical in
 
 
 
-## family doctor
+◇ 診療時間は各診療科によって異なります。 ご利用になる診療科のスケジュールをご確認の上、ご来院ください。 詳細は 【診療科・部門のご案内】 からご確認ください。
 
 
 
 
-A family doctor is a local doctor that you can consult first when you become ill. From daily medical treatment, they will provide detailed explanations about your medical condition and treatment methods, as well as health consultations, medical service consultations, and, if necessary, referrals to appropriate specialists, hospitals, and clinics. If you bring a "referral letter" from your family doctor, you will not need to pay the selected treatment fee at the time of your first visit. For details, click here.
+## 開扉時間
 
 
 
 
-## About my number card (insurance card) and various medical cards
+#### 7：45～17：00　(正面玄関)
 
 
 
 
-We will check once a month at reception counter ③④, so please bring it with you. If we are unable to verify your My Number card (insurance card) or medical card, or if the information provided is invalid, you may have to pay for the treatment yourself. If your insurance card is new or there are any changes to the information, please be sure to notify reception desk ③④.
+※防災センター(時間外)出入口は24時間オープン
 
 
 
 
-## About online qualification verification
+## 休診日
 
 
 
 
-Our hospital has established the following system for online qualification confirmation. ① System for online qualification confirmation ② Obtaining and utilizing drug information, specific health checkup information, and other necessary information In order to obtain and utilize accurate information and provide high-quality medical care, we ask for your cooperation in using online qualification confirmation using your My Number card as your health insurance card.
+#### 日曜日・祝日・年末年始　(12/29～1/3)
 
 
 
 
-### For those using the public medical care system
+## 初診時選定療養費
 
 
 
 
-Those currently using the publicly funded medical care system will continue to be required to present various documents. Please present it at the counter as usual.
+健康保険法に基づき、医療機関の機能分担を目的に、当院では「紹介状」をお持ちでない初診患者様には7,700円をお支払いいただきます。詳細は 【こちら】
 
 
 
 
-## How to use online qualifications
+
+
+| 対象にならない方 | 救急車で搬送された方 外来受診後に緊急入院された方 特定健康診査、がん検診等の結果により精密検査受診の指示を受けた患者 当院の人間ドックの結果をもとに受診される方 生活保護法の医療扶助を受けている方や特定の疾病や傷害等により各種公費制度の受給対象となっている方（乳幼児医療・ひとり親家庭等医療・子ども医療の助成制度は除く） 労働災害、公務災害で受診される方 「妊娠」を主訴の当院の産婦人科を初めて受診される方 |
+| --- | --- |
 
 
 
 
-①After obtaining your My Number Card, apply for a health insurance card. For information on using My Number Card as a health insurance card [Click here] (External site)
+
+
+## かかりつけ医
 
 
 
 
-② Read your My Number card with the card reader installed at the counter. How to use a card reader with facial recognition [Click here]
+かかりつけ医とは、病気になった時、真っ先に相談できる地域のお医者さんです。 日頃の診療から、病状や治療法についての詳しい説明をしてくれたり、健康相談、医療サービスの相談、必要に応じて適切な専門医や病院・医院の紹介をしてくれます。 かかりつけ医からの「紹介状」をお持ちいただくと、初診時選定療養費のお支払いは不要です。詳細は 【こちら】
 
 
 
 
-## General information (1F lobby)
+## マイナンバーカード(保険証)・各種医療証について
 
 
 
 
-Please feel free to contact us if you are a patient visiting us for the first time, if you are unsure of which department to visit, or if you have any other questions.
+月に1回、 受付窓口③④ で確認させていただきますので、ご持参願います。 マイナンバーカード(保険証)・医療証等の確認ができなかったり、記載内容が無効の場合は、自費診療になる場合があります。保険証が新しくなったり、記載事項に変更が生じた場合は、必ず 受付窓口③④ までお申し出ください。
 
 
 
 
-## others
+## オンライン資格確認について
 
 
 
 
-Please refrain from any behavior that may interfere with the treatment of other patients or the work of medical professionals.
+当院はオンライン資格確認について、以下の体制の整備を行っています。 ①オンライン資格確認を行う体制 ②薬剤情報、特定健診情報その他必要な情報を取得・活用 正確な情報を取得・活用し、質の高い医療を提供するため、マイナンバーカードの保険証利用によるオンライン資格確認等の利用にご協力をお願いいたします。
+
+
+
+
+### 公費負担医療制度をご利用の方
+
+
+
+
+公費負担医療制度をご利用中の方は各種証書のご提示は引き続き必要となります。従来通り窓口にてご提示をお願いします。
+
+
+
+
+## オンライン資格を利用するためには
+
+
+
+
+①マイナンバーカードを取得後、健康保険証利用の申し込みをする。 マイナンバーカードの健康保険証利用については 【こちら】 (外部サイト)
+
+
+
+
+②窓口設置のカードリーダーでマイナンバーカードを読み取る。 顔認証付きカードリーダーの使い方は 【こちら】
+
+
+
+
+## 総合案内(1Fロビー)
+
+
+
+
+初めて受診される患者様、受診すべき診療科が分からない患者様、その他各種相談についてお気軽にご相談ください。
+
+
+
+
+## その他
+
+
+
+
+他の患者様の診療、ならびに医療従事者の業務を妨げるような行為は慎んでいただきます。
