@@ -1,172 +1,176 @@
 ---
 title: "Clinical Trials & Research"
-description: "In order to protect the human rights and safety of those participating in clinical trials, the Institutional Review Boar"
+description: "治験にご参加いただく方の人権と安全を守るために、治験審査委員会を定期的に開催し、倫理的および科学的な面から審議しております。"
 ---
 
-In order to protect the human rights and safety of those participating in clinical trials, the Institutional Review Board meets regularly to discuss ethical and scientific aspects.
+治験にご参加いただく方の人権と安全を守るために、治験審査委員会を定期的に開催し、倫理的および科学的な面から審議しております。
 
-In principle, the summary of the proceedings will be published on the website for one year. Summary summaries of proceedings from more than a year ago can be viewed at the Pharmacy Clinical Trial Management Office, so please let us know if you would like to see them.
+議事概要のホームページ上での公開期間は原則一年とします。一年以上前の議事概要は薬剤科治験管理室にて閲覧できますので、ご希望の方はお申し出ください。
 
-Institutional Review Board Standard Operating Procedures
+治験審査委員会標準業務手順書
 
-Institutional Review Board List
+治験審査委員会名簿
 
-- Agenda Summary July 2020 Agenda Summary June 2020 Agenda Summary May 2020 Agenda Summary April 2020 Agenda Summary March 2020 Agenda Summary February 2020 Agenda Summary January 2020 Agenda Summary December 2020 Agenda Summary November 2020 Agenda summary October 2020 Agenda summary September 2020
+- 議事概要　令和8年9月 議事概要　令和8年7月 議事概要　令和8年6月 議事概要　令和8年5月 議事概要　令和8年4月 議事概要　令和8年3月 議事概要　令和8年2月 議事概要　令和8年1月 議事概要　令和7年12月 議事概要　令和7年11月 議事概要　令和7年10月
 
-## About clinical research
+## 臨床研究について
 
-At our hospital, we are actively engaged in epidemiological and clinical research, and hope to contribute to the advancement of medical care. 26-A23 “Examination of predictive factors of Futile-reperfusion”
+当院では、疫学研究・臨床研究に積極的に取り組み、医療の進歩に役立てたいと考えています。 26-A26「難治性脳動脈瘤に対するバイパスを併用した後大脳動脈閉塞術の効果に関する研究」
 
-26-A19 “Japan Neurosurgical Society Database Research Project (Japan-Neurosurgical-Database-JND)”
+26-A24「食欲不振患者における総抗コリン負荷量と低栄養に関する後ろ向き調査」
 
-26-A18 “Basic performance evaluation of fully automated chemiluminescent enzyme immunoassay device AIA-CL600”
+26-A23「Futile-reperfusionの予測因子の検討」
 
-26-A16 “Collaborative research with other institutions on drug therapy for urological cancer”
+26-A19「一般社団法人日本脳神経外科学会データベース研究事業（Japan-Neurosurgical-Database-JND」
 
-26-A15 “Comparison of results of radical treatment for prostate cancer at our hospital”
+26-A18「全自動化学発光酵素免疫測定装置AIA‐CL600の基礎性能評価」
 
-26-A10 “Retrospective observational study on the usefulness and limitations of preoperative simulation using 3D fused images”
+26-A16「泌尿器科癌に対する薬物療法に関する他機関共同研究」
 
-26-A08 “Experiencing an outbreak of Binary-toxin-producing Clostridioides-difficile infection in our hospital”
+26-A15「当院における前立腺癌の根治治療の成績比較」
 
-26-A06 “Clinical research on orthognathic surgery”
+26-A10「3次元融合画像を用いた術前シミュレーションの有用性と限界に関する後方視的観察研究」
 
-26-A05 “Retrospective review of skull base tumor surgery”
+26-A08「当院におけるBinary-toxin産生Clostridioides-difficile感染症アウトブレイクを経験して」
 
-26-A04 “Study of postoperative hearing results in cases of silicone sheet placement in the middle ear”
+26-A06「顎矯正手術の臨床的研究」
 
-26-A03 “Study of blood test indicators for skin diseases (atopic dermatitis, psoriasis, prurigo, cellulitis, etc.)”
+26-A05「頭蓋底腫瘍手術の後方視的検討」
 
-26-A02 “Study on the concordance rate between treatment selection in actual clinical practice and treatment selection derived by AI”
+26-A04「中耳内シリコンシート留置症例における術後聴力成績の検討」
 
-26-A01 “Investigation of the therapeutic potential of tralokinumab in atopic dermatitis where symptoms remain after dupilumab”
+26-A03「皮膚疾患（アトピー、乾癬、痒疹、蜂窩織炎等）における血液検査指標の検討」
 
-25-A40 “Examination of the usefulness of revised rehabilitation protocols for muscle strength recovery after anterior cruciate ligament reconstruction”
+26-A02「実臨床における治療選択と、AIの導き出す治療選択の一致率に関する検討」
 
-25-A39 “Relationship between achievement of SLST and muscle strength recovery 3 months after ACL reconstruction using BTB method”
+26-A01「デュピルマブで症状が残存するアトピー性皮膚炎における、トラロキヌマブの治療可能性の検討」
 
-25-A38 “Study on cases of poor recovery of knee extensor muscle strength after anterior cruciate ligament reconstruction”
+25-A40「前十字靭帯再建術後のリハビリテーションプロトコル改訂による筋力回復への有用性の検討」
 
-25-A37 “Retrospective study of radiation dose of lithotripsy at our hospital”
+25-A39「BTB法によるACL再建術後３ヵ月のSLST達成の有無と筋力回復の関連」
 
-25-A36 “Short-term clinical results of anterior cruciate ligament reconstruction with re-harvesting of the ipsilateral BTB graft”
+25-A38「膝前十字靱帯再建術後の膝伸展筋力回復不良例に対する検討」
 
-25-A34 “Short-term results of revision and surrounding fracture cases using Modulus-medium-long-stem”
+25-A37「当院における結石破砕術の放射線量の後方視的研究」
 
-25-A33 “Examination of factors influencing failure to achieve muscle strength indicators after ACL reconstruction”
+25-A36「同側のBTBグラフトを再採取した前十字靭帯再再建術の短期臨床成績」
 
-25-A31 “Nationwide research on exploring the clinical characteristics and outcomes of acute myocarditis”
+25-A34「Modulus-medium-long-stemを用いた再置換・周囲骨折例の短期成績」
 
-25-A28 “Retrospective review of cases requiring deep bypass”
+25-A33「ACL再建術後の筋力指標未達成に影響する因子の検討」
 
-25-A27 “Multicenter collaborative research to develop a calculation formula to predict the therapeutic effect of androgen deprivation therapy for metastatic prostate cancer”
+25-A31「急性心筋炎の臨床的特徴と転帰の探索に関する全国規模の調査研究」
 
-25-A26 “Rabbit monoclonal antibody development for diagnosis of amyloidosis disease type”
+25-A28「深部バイパスを要した症例についての後方視的検討」
 
-25-A25 "Effect of Buitamar Cream on hand eczema associated with atopic dermatitis"
+25-A27「転移性前立腺癌に対するアンドロゲン遮断療法の治療効果を予測する計算式の開発に向けた多施設共同研究」
 
-25-A21 “Retrospective study of changes in hyoid position due to trapezoidal osteotomy and horizontal osteotomy”
+25-A26「アミロイドーシス病型診断のためのウサギモノクローナル抗体開発」
 
-25-A19 “Comparison of treatment results and issues before and after active introduction of endoscopic hematoma removal for putaminal hemorrhage”
+25-A25「アトピー性皮膚炎に合併した手湿疹に対するブイタマークリームの効果」
 
-25-A16 “Study of the effect of pregabalin on itching in skin pruritus”
+25-A21「台形骨切りと水平骨切りによる舌骨位置の変化に関する後方視的検討」
 
-25-A13 “National survey of congenital nephrogenic diabetes insipidus”
+25-A19「被殻出血に対する内視鏡下血腫除去術積極導入前後での治療成績の比較及び課題」
 
-25-A10 “Analysis of changes in ABI and CAVI values ​​after the introduction of biological agents and oral therapy for psoriasis treatment”
+25-A16「皮膚そう痒症におけるプレガバリンの痒みへの効果の検討」
 
-25-A09 “Analysis of the effects on KL-6 after administration of Jak inhibitors”
+25-A13「先天性腎性尿崩症の全国調査」
 
-25-A08 “Survey on patient satisfaction and drug selection before and after administration of nemolizumab for prurigo nodularis”
+25-A10「乾癬治療における生物学的製剤や内服治療導入後のABI・CAVI値の変化の解析」
 
-25-A07 “Analysis of the effects on KL-6 after administration of Tyk2 inhibitors”
+25-A09「Jak阻害薬投与後のKL-6に与える影響の解析」
 
-25-A06 “Analysis of high-risk groups for developing conjunctivitis when Evegrease is administered to atopic dermatitis”
+25-A08「結節性痒疹のネモリズマブ投与前後における患者満足度や薬剤選択のアンケート」
 
-25-A04 “Multicenter retrospective study to evaluate the safety and efficacy of chemoradiotherapy combined with CBDCA for CDDP-unfit localized small cell lung cancer”
+25-A07「Tyk2阻害薬投与後のKL-6に与える影響の解析」
 
-25-A02 “Multicenter prospective radiotherapy planning evaluation experiment for safe intensity modulated radiotherapy implementation with physician confirmation via remote radiotherapy planning technology”
+25-A06「アトピー性皮膚炎に対してイブグリース投与における結膜炎発症のハイリスク群の解析」
 
-24-A23 “Multicenter retrospective observational study on the diagnosis of cholangitis in gallstone pancreatitis”
+25-A04「CDDP-unfitである限局型小細胞肺癌に対するCBDCA併用化学放射線療法の安全性と有効性を検討する多施設共同後方視的研究」
 
-24-A22 “Multicenter retrospective observational study of recurrence treatment after introduction of chemoradiotherapy and durvalumab consolidation therapy for unresectable locally advanced non-small cell lung cancer”
+25-A02「遠隔放射線治療計画技術を介した医師の確認による安全な強度変調放射線治療の実施のための多施設共同前向き放射線治療計画評価実験」
 
-24-A16 “Multicenter prospective study comparing endoscopic treatment and follow-up for asymptomatic bile duct stones”
+24-A23「胆石性膵炎における胆管炎合併診断に関する多施設共同後ろ向き観察研究」
 
-24-A10 “Retrospective study on the visualization ability of posterior fossa cranial nerves displaced by tumors by tractography”
+24-A22「切除不能局所進行非小細胞肺癌に対する化学放射線療法およびデュルバルマブ地固め療法導入後の再発治療の多施設共同後方視的観察研究」
 
-24-A05 “8th National Epidemiological Survey on Urolithiasis”
+24-A16「無症候性胆管結石に対する内視鏡治療と経過観察を比較する多施設共同前向き研究」
 
-24-A02 “Retrospective study on the usefulness of fused 3D images in stroke surgery”
+24-A10「腫瘍によって圧排された後頭蓋窩脳神経のトラクトグラフィーによる描出能に関する後方視的検討」
 
-24-A01 "Molecular epidemiological analysis of invasive infectious disease-causing bacteria isolated from clinical specimens and changes in drug resistance over time"
+24-A05「第8回尿路結石症全国疫学調査」
 
-23-A17 “National epidemiological survey of hypersensitivity pneumonitis”
+24-A02「脳卒中の外科手術における融合3次元画像の有用性についての後方視的検討」
 
-23-A14 "Prospective observational study to clarify the clinicopathological and molecular biological characteristics of lung cancer that is positive for low-frequency genetic alterations such as RET fusion genes LC-SCRUM-IBIS-II-irAE"
+24-A01「臨床検体から分離された侵襲性感染症原因菌の分子疫学解析と薬剤耐性化の経年推移」
 
-23-A12 “Registration for participation in the Japan Fragility Fracture Network Proximal Femur Fracture Database”
+23-A17「過敏性肺炎の全国疫学調査」
 
-23-A10 “Examination of the clinical significance of serum 25OHD in prostate cancer patients”
+23-A14「RET融合遺伝子等の低頻度の遺伝子変化陽性肺癌の臨床病理学的、分子生物学的特徴を明らかにするための前向き観察研究附随研究LC-SCRUM-IBIS-Ⅱ-irAE」
 
-23-A07 “Nationwide survey research on the actual clinical practice of acute coronary syndrome and catheter treatment cases in adults with a history of Kawasaki disease”
+23-A12「日本脆弱性骨折ネットワーク　大腿骨近位部骨折データベースへの参加登録」
 
-20-A14 “Development of COVID-19 vaccine and construction of evaluation system based on genetic knowledge of new coronavirus infection”
+23-A10「前立腺癌患者における血清25OHDの臨床的意義の検討」
 
-23-A03 “National survey on bronchiectasis associated with rheumatoid arthritis”
+23-A07「川崎病既往成人における急性冠症候群とカテーテル治療例の診療実態に関する全国調査研究」
 
-23-A02 "Examination of the diagnostic significance of CT value measurement of periaortic fat in acute aortic dissection"
+20-A14「新型コロナウイルス感染症の遺伝的知見に基づいたCOVID-19ワクチンの開発と評価系の構築」
 
-22-A19 “Large-scale multicenter prospective observational study on the prognosis of myeloma-related diseases in Japan II JSH-MM-20”
+23-A03「関節リウマチに伴う気管支拡張症の全国調査研究」
 
-22-A17 “Identification of problems in Japanese cardiovascular rehabilitation and study of countermeasures”
+23-A02「急性大動脈解離における大動脈周囲脂肪のCT値測定による診断的意義の検討」
 
-22-A16 “Clinical review of metastatic target therapy for oligometastatic prostate cancer”
+22-A19「日本における骨髄腫関連疾患の予後に関する大規模多施設前向き観察研究ⅡJSH-MM-20」
 
-22-A14 “Japan-Endoscopy-Database-Project “Construction of a database of diseases and treatment techniques related to gastrointestinal endoscopy” (JED-Project)
+22-A17「本邦心大血管リハビリテーションの問題点の抽出と対策の検討」
 
-22-A11 “Long-term results of lower urinary tract symptoms after brachytherapy alone for prostate cancer”
+22-A16「オリゴ転移前立腺癌における転移巣標的治療に関する臨床的検討」
 
-22-A10 “Significance of Capsular Enhancement Sign (CES) in local staging of prostate cancer”
+22-A14「Japan-Endoscopy-Database-Project「消化器内視鏡に関連する疾患、治療手技データベース構築」（JED-Project」
 
-22-A-12 "Elucidation of the actual situation of non-atherosclerotic myocardial infarction using JROAD-DPC and secondary research"
+22-A11「前立腺癌に対する密封小線源単独治療後における下部尿路症状の長期成績」
 
-22-A03 “Multi-center joint research aimed at establishing a cancer risk scoring system after hepatitis C virus eradication”
+22-A10「前立腺癌local stagingにおけるCapsular Enhancement Sign(CES)の意義」
 
-22-A01 “Retrospective review of pediatric schwannoma surgery”
+22-A-12「JROAD-DPCによる非動脈硬化性心筋梗塞の実態解明と二次調査研究」
 
-21-A06 “Multicenter joint observational study on short-term outcomes and long-term prognosis of gastrointestinal diseases using the DPC database”
+22-A03「C型肝炎ウイルス駆除後の発癌リスクスコアリングシステムの構築を目指した多施設共同研究」
 
-20-A18 “Epidemiological survey on low-risk myelodysplastic syndromes”
+22-A01「小児神経鞘腫手術の後方視的検討」
 
-20-A15 “Retrospective review of cerebellopontine angle epithelioid tumor surgery”
+21-A06「DPCデータベースを用いた、消化管疾患の短期成績・長期予後に関する多施設共同観察研究」
 
-20-A09 “Registration project for surgeries and complications in the Japanese Society of Obstetrics and Gynecology Endoscopy and research based on registered information”
+20-A18「低リスク骨髄異形成症候群における疫学調査」
 
-20-A03 “Multicenter observational study using existing information on malignant duodenal obstruction”
+20-A15「小脳橋角部類上皮腫手術の後方視的検討」
 
-20-A01 “Retrospective study of clinical data aimed at improving clinical outcomes of skull base tumors”
+20-A09「日本産科婦人科内視鏡学会における手術および合併症の登録事業ならびに登録情報に基づく研究」
 
-19-A33 “Study on construction of the Japanese Orthopedic Association Case Registry (JOANR)”
+20-A03「悪性十二指腸閉塞の既存情報を用いた多施設共同観察研究」
 
-19-A21 “Academic-led multicenter prospective observational study on the usefulness of extracorporeal membrane oxygenation (ECMO) for accidental hypothermia”
+20-A01「頭蓋底腫瘍の臨床成績向上を目指した臨床データの後方視的研究」
 
-19-A20 “Investigation of factors determining patient outcomes in patients with ischemic heart disease and heart failure”
+19-A33「日本整形外科学会症例レジストリー（JOANR）構築に関する研究」
 
-19-A19 "Study on the usefulness and safety of metal stent placement for biliary obstruction"
+19-A21「偶発性低体温症に対する体外式膜型人工心肺(ECMO)の有用性についての学会主導多施設共同前向き観察研究」
 
-19-A15 “Verification of cardiovascular emergency medical care in Tokyo”
+19-A20「虚血性心疾患および心不全患者における患者転帰を規定する因子の検討」
 
-19-A09 “Survey on the actual situation of secondary myelofibrosis”
+19-A19「胆道閉塞に対する金属ステント留置術の有用性と安全性に関する検討」
 
-18-A17 “Japan Society of Obstetrics and Gynecology, Gynecologic Tumor Committee, Gynecologic Malignant Tumor Registration Project and Research Based on Registration Information”
+19-A15「東京における循環器救急医療の検証」
 
-18-A16 “Perinatal Committee of the Japanese Society of Obstetrics and Gynecology, Perinatal Registration Project and Research Based on Registration Information”
+19-A09「二次性骨髄線維症の実態調査」
 
-Regarding participation in the NCD project
+18-A17「日本産科婦人科学会婦人科腫瘍委員会　婦人科悪性腫瘍登録事業および登録情報に基づく研究」
 
-18-A03 "Study of the success rate and complications of deep bile duct intubation in endoscopic retrograde pancreatocholangiography and related procedures"
+18-A16「日本産科婦人科学会周産期委員会　周産期登録事業および登録情報に基づく研究」
 
-17-A05 “Epidemiological survey (blood disease registration)”
+NCD事業への参加について
 
-16-A09 “Survey research on the background factors at the time of diagnosis, initial treatment, and treatment progress of prostate cancer patients”
+18-A03「内視鏡的逆行性膵胆管造影およびその関連手技における胆管深部挿管成功率および偶発症の検討」
+
+17-A05「疫学調査（血液疾患登録）」
+
+16-A09「前立腺がん患者の診断時背景因子と初期治療および治療経過に関する実態調査研究」
