@@ -1,50 +1,50 @@
 ---
 title: "Daily Life During Hospitalization"
-description: "- Meal times: [Breakfast] 7:45 - [Lunch] 12:00 - [Dinner] 18:00 - Your doctor or nurse will explain the meals."
+description: "- お食事時間 【朝食】 7：45～ 【昼食】 12：00～ 【夕食】 18：00～ お食事につきましては、医師もしくは看護師からご説明いたします。"
 ---
 
-## About meals
+## お食事について
 
-- Meal times: [Breakfast] 7:45 - [Lunch] 12:00 - [Dinner] 18:00 - Your doctor or nurse will explain the meals.
-- While you are in the hospital, please eat the meals provided by the hospital.
-- Patients who have been assigned a therapeutic diet should not bring in food or drinks from home.
-- The weekly menu will be posted on the ward bulletin board.
-- If you cannot eat certain foods due to allergies, please inform your doctor or nurse in charge.
-- To prevent lifestyle-related diseases, we limit the amount of salt per day to 7.5g or less, so soups such as miso soup are only served once a day.
-- If you would like to eat bread or cannot eat bread or noodles, please inform the nurse in charge.
-- You cannot cancel your meal, so you may be charged a fee even if you do not eat your meal.
+- お食事時間 【朝食】 7：45～ 【昼食】 12：00～ 【夕食】 18：00～ お食事につきましては、医師もしくは看護師からご説明いたします。
+- 入院中は病院から配膳されたお食事をお召し上がりください。
+- 治療食を指定された患者様は、自宅などから飲食物を持ち込まないようにしてください。
+- 1週間のメニューを病棟掲示板にご案内いたします。
+- アレルギー等で摂取できない食品がある場合は、担当医もしくは担当看護師にお申し出ください。
+- 生活習慣病予防のため、1日塩分量を7.5g以内にしておりますので、みそ汁などの汁物は1日1回の配膳となっています。
+- パン食がご希望の方、パン・麺が摂取できない方は、担当看護師にお申し出ください。
+- お食事のキャンセルはできませんので、召し上がらない場合にも料金をいただく場合がございます。
 
-## About TV, refrigerator, Wi-Fi, and laundry
+## テレビ・冷蔵庫・Wi-Fi・ランドリーについて
 
-Our hospital has introduced a daily fixed-rate rental service for TVs, refrigerators, Wi-Fi, and laundry. [Click here for details] *Please be sure to use earphones when watching TV. Sold at Natural Lawson on the 1st floor and in the ward lounges on each floor.
+当院では、テレビ・冷蔵庫・Wi-Fi及びランドリーの日額定額制レンタルサービスを導入しております。 【詳しくはこちら】 ※テレビ視聴では必ずイヤホンをご利用ください。 １階ナチュラルローソン及び各階病棟ラウンジにて販売しております。
 
-## About clothing, towels, daily necessities, and disposable diapers
+## 衣類・タオル類・日用品・紙おむつ類について
 
-You can bring your own from home or use our convenient daily flat rate rental service. [Click here for details] *Daily necessities and disposable diapers are also available at Natural Lawson on the 1st floor.
+ご自宅からご持参いただくか、便利な日額定額制レンタルサービスもご利用いただけます。 【詳しくはこちら】 ※日用品・紙おむつ類は１階ナチュラルローソンでもご用意がございます。
 
-## About going out/sleeping over
+## 外出・外泊について
 
-You will need permission from your doctor to go out (sleepover).
+外出（外泊）については、担当医の許可が必要となります。
 
-## About hospitalization fees
+## 入院料金について
 
-- Hospitalization charges are calculated using the comprehensive payment method (DPC), which basically calculates a fixed amount of medical expenses per day according to the disease name and treatment details.
-- Hospitalization fees are due at the end of the month and will be billed around the 10th of the following month. The bill will be delivered to your hospital room, so please pay at the automatic payment machine or at the Medical Affairs Division Accounting Desk ② (1F). Automatic payment machine 8:30-17:00 *The automatic payment machine in the emergency center (1F) can be used 24 hours a day. Medical Affairs Division Accounting Desk ② 8:30-17:00
-- For payment, you can use debit card or credit card (VISA, Master, JCB, AMEX).
-- There is a limit on the amount you can withdraw from an ATM, so please check this before using.
-- If you do not use health insurance, you will be responsible for the out-of-pocket fees determined by our hospital.
-- On the day of your admission/discharge, you will be charged for the entire day, regardless of whether it is in the morning or in the afternoon.
-- If you use a private room, you will be required to pay the difference in room charges as determined by our hospital.
-- If you have any questions regarding payment, please feel free to contact the Medical Affairs Division.
+- 入院料金は、「病名や診療内容に応じた1日あたりの定額医療費を基本に計算する包括払い方式（DPC）」により算出いたします。
+- 入院料金は月末に締切り、翌月の10日頃にご請求いたします。 請求書は病室にお届けしますので、 自動支払機 、または 医事課会計窓口②（1F） でご精算ください。 自動支払機 8：30～17：00　※救急センター（1F）内の自動支払機は24時間使用できます。 医事課会計窓口② 8：30～17：00
+- ご精算には、デビッドカード、クレジットカード（VISA・Master・JCB・AMEX）がご利用いただけます。
+- ATMでのお引きだしでは、限度額がございますので、予めご確認の上、ご利用ください。
+- 健康保険を使用しない場合は、当院で定められた自費料金となります。
+- 入院・退院の当日は、午前・午後にかかわらず、1日分の料金となります。
+- 個室を使用された場合は、室料差額として当院で定められた料金をお支払いいただきます。
+- お支払いに関するご相談は、お気軽に医事課までお申し出ください。
 
-## About personal information protection policy
+## 個人情報保護方針について
 
-Please note that due to the Personal Information Protection Act, we are unable to respond to inquiries regarding patients. To ensure medical safety, patient names are displayed on beds, etc. Please contact the nurse with any questions or requests.
+個人情報保護法により、患者様に関するお問い合わせについては、お答えできませんので、ご了承ください。医療安全確保のため、ベッド等へ患者様のお名前を表示させていただいております。ご質問、ご要望については看護師にお申し出ください。
 
-## Regarding requests for certificates (medical certificates, etc.)
+## 証明書（診断書等）のご請求について
 
-Patients who require proof of life insurance (medical certificate), etc., please apply at Medical Affairs Division ⑦ (1F).
+生命保険等の証明書（診断書）が必要な患者様は、 医事課窓口⑦(1F) にお申し出ください。
 
-## Information about the consultation room (2nd floor of the new building)
+## 相談室（新館2F）のご案内
 
-A professional social worker will provide consultation regarding medical treatment, family, work, and financial issues related to illness. [Click here for details]
+専門のソーシャルワーカーが病気にともなう療養生活や、家族・仕事・経済的な問題についてのご相談をお受けいたします。 【詳しくはこちら】
