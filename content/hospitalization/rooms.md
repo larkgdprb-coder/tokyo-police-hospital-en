@@ -1,39 +1,37 @@
 ---
 title: "Room Types & Fees"
-description: "- The hospital has private rooms and 4-bed rooms."
+description: "- 病室は個室と4床室があります。"
 ---
 
-- The hospital has private rooms and 4-bed rooms.
-- You may be asked to change your room due to medical conditions, nursing care, or other reasons.
-- Please let us know if you would like a private room. We may not be able to provide your desired hospital room due to full occupancy.
+- 病室は個室と4床室があります。
+- 病状、看護、その他の理由で病室を変更していただく場合があります。
+- 個室をご希望される場合はお申し出ください。 満室等でご希望の病室を提供できない場合もあります。
 
-## About hospital life
+## 入院生活について
 
-- The hospital is a communal space, so please respect manners and rules.
-- Smoking is completely prohibited on the premises. The use of electronic cigarettes is also prohibited.
-- Lights go out at 9:00 p.m. Please refrain from walking around the hospital after lights out or chatting with visitors.
-- Please use your mobile phone only in designated areas. Public telephones are located on each floor.
-- Telephone calls from outside the hospital cannot be answered.
-- Please be sure to use earphones when watching TV.
-- Please refrain from using electrical products other than electric razors and hair dryers.
-- Please do not go outside the hospital premises in night clothes or pajamas.
-- Please refrain from any behavior that may interfere with the treatment of other patients or the work of medical professionals.
-- To prevent infection, please refrain from bringing flowers, potted plants, etc.
-- We do not allow cutlery such as scissors or knives to be brought in.
+- 病院内は共同の場ですので、マナー、ルールをお守りください。
+- 敷地内は全面禁煙です。電子タバコについても使用をお断りします。
+- 消灯は、午後9：00です。消灯後の院内歩行、お見舞いの方との談笑等はご遠慮ください。
+- 携帯電話は、所定の場所でご使用ください。公衆電話は各階に設置しております。
+- 院外からのお電話はお取次ぎできません。
+- テレビ視聴では必ずイヤホンをご利用ください。
+- 電気カミソリ、ドライヤー以外の電気製品の利用はご遠慮ください。
+- 寝間着・パジャマ姿で、病院敷地外へ出ないでください。
+- 他の患者様の診療、ならびに医療従事者の業務を妨げるような行為は慎んでいただきます。
+- 感染防止の為、お花や鉢植等の持ち込みはご遠慮ください。
+- ハサミ・ナイフ等の刃物類の持ち込みはお断りしております。
 
-## About fees
+## 料金について
 
-### 4 bed room
+### ４床室
 
-| Room charge (tax included) | free |
+| 室料（税込） | 無料 |
 | --- | --- |
-| spaciousness | 32㎡ |
-| Number of rooms | 64 |
-| TV, refrigerator, Wi-Fi, laundry | Paid (daily flat rate system) |
+| 広さ | 32㎡ |
+| 部屋数 | 64 |
+| テレビ・冷蔵庫・Wi-Fi・ランドリー | 有料（日額定額制） |
 
-### Private room
-
-
+### 個室
 
 
 
@@ -41,20 +39,19 @@ description: "- The hospital has private rooms and 4-bed rooms."
 
 
 
-| Private room type | spaciousness | Room charge (tax included) | Number of rooms | shower | toilet | TV/refrigerator Wi-Fi/laundry |
+
+
+| 個室タイプ | 広さ | 室料（税込） | 部屋数 | シャワー | トイレ | テレビ・冷蔵庫 Wi-Fi・ランドリー |
 | --- | --- | --- | --- | --- | --- | --- |
-| A | 17㎡ | 20,900 yen | twenty four | 〇 | 〇 | 〇 |
-| B | 18㎡ | 19,800 yen | 2 | 〇 | 〇 | 〇 |
-| C | 16㎡ | 18,150 yen | 55 | ✕ | 〇 | 〇 |
-| D | 15㎡ | 14,630 yen | 45 | ✕ | ✕ | 〇 |
+| A | 17㎡ | 20,900円 | 24 | 〇 | 〇 | 無料 |
+| B | 18㎡ | 19,800円 | 2 | 〇 | 〇 | 無料 |
+| C | 16㎡ | 18,150円 | 55 |  | 〇 | 無料 |
+| D | 15㎡ | 14,630円 | 45 |  |  | 無料 |
 
-### special room
+### 特別室
 
 |  |  |  |
 | --- | --- | --- |
-
-| Room charge (tax included) | 37,400 yen・52,800 yen |
-| --- | --- |
-| spaciousness | 29㎡・43㎡ |
-| Number of rooms | 2 rooms/bath/toilet |
-| TV, refrigerator, Wi-Fi, laundry | free |
+| 個室タイプ | 広さ | 室料（税込） | 部屋数 | ユニットバス | トイレ ソファー | キッチン | テレビ・冷蔵庫 Wi-Fi・ランドリー |
+| 特室1 | 43㎡ | 52,800円 | 1 | 〇 | 〇 | 〇 | 無料 |
+| 特室3 | 29㎡ | 37,400円 | 1 | 〇 | 〇 |  | 無料 |
