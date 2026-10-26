@@ -1,111 +1,111 @@
 ---
 title: "Access & Directions"
-description: "Address: 4-22-1 Nakano, Nakano-ku, Tokyo 164-8541 Phone number: 03-5343-5611 (Main)"
+description: "住　　所：〒164-8541　東京都中野区中野4丁目22番1号 電話番号：03-5343-5611（代）"
 ---
 
-## location
+## 所在地
 
 
 
 
-Address: 4-22-1 Nakano, Nakano-ku, Tokyo 164-8541 Phone number: 03-5343-5611 (Main)
+住　　所：〒164-8541　東京都中野区中野4丁目22番1号 電話番号：03-5343-5611（代）
 
-## Access by public transportation
-
-
-
-
-
-
-
-### train
-
-
-
-
-Approximately 10 minutes walk from the north exit of Nakano Station on the JR Chuo Line and Tokyo Metro Tozai Line
-
-
-
-
-### bus
-
-
-
-
-◆JR/Tozai Line, from Nakano Station Kanto Bus bound for Yasei Elementary School, bound for Asagaya Station and get off at "Tokyo Police Hospital Main Gate" Bus bound for Nogata Station and get off at "Tokyo Police Hospital Kitamon-mae" *Click here for Nakano Station bus stop and timetable (external site)
-
-
-
-
-◆From Nogata Station on the Seibu Shinjuku Line, take the Kanto Bus bound for Nakano Station or Shinjuku Station West Exit and get off at "Tokyo Police Hospital Kitamon-mae" *Click here for the Nogata Station bus stop and timetable (external site)
-
-
-
-
-◆ From Nerima Station on the Seibu Ikebukuro Line/Toei Oedo Line, take the Kanto Bus bound for Nakano Station and get off at "Tokyo Police Hospital Main Gate" *Click here for the Nerima Station bus stop and timetable (external site)
-
-## Access by car (parking information)
-
-
-
-
-### Number of parking spaces/available time
-
-
-
-
-Outdoor parking lot 84 spaces available 24 hours. *Please note that the number of parking spaces is limited.
-
-
-
-
-### Parking Fee
+## 公共交通機関によるアクセス
 
 
 
 
 
 
-| General users | 200 yen/30 minutes |
+
+### 電車
+
+
+
+
+JR中央線・東京メトロ東西線　中野駅北口より徒歩約10分
+
+
+
+
+### バス
+
+
+
+
+◆JR・東京メトロ東西線　中野駅から 関東バス 八成小学校行き、阿佐ヶ谷駅行き「東京警察病院正門前」下車 野方駅行き「東京警察病院北門前」下車 ※中野駅バスのりば・時刻表は 【こちら】 （外部サイト）
+
+
+
+
+◆西武新宿線　野方駅から 関東バス 中野駅行き、新宿駅西口行き「東京警察病院北門前」下車 ※野方駅バスのりば・時刻表は 【こちら】 （外部サイト）
+
+
+
+
+◆西武池袋線・都営大江戸線　練馬駅から 関東バス 中野駅行き「東京警察病院正門前」下車 ※練馬駅バスのりば・時刻表は 【こちら】 （外部サイト）
+
+## お車によるアクセス（駐車場のご案内）
+
+
+
+
+### 駐車可能台数・利用可能時間
+
+
+
+
+屋外駐車場　84台 24時間ご利用いただけます。 ※駐車台数に限りがございますので、ご了承ください。
+
+
+
+
+### 駐車料金
+
+
+
+
+
+
+| 一般利用者 | 200円/30分 |
 | --- | --- |
-| *People eligible for discount | 100 yen/30 minutes |
-| Those who present a disability certificate | free |
+| *割引対象の方 | 100円/30分 |
+| 障がい者手帳をご提示の方（当院利用者に限る） | 無料 |
 
 
 
 
 
 
-*Persons eligible for the discount: Outpatients, patient transportation (vehicles only), those who have been called by the hospital, and those who have been instructed by the hospital to stand by. *Persons other than those listed above (visitors, transporting luggage during hospitalization, etc.) are not eligible for the discount. *Please refrain from parking your own car while you are hospitalized.
+*割引対象の方 ：外来受診者、患者さまの送迎（乗せる車両のみ）、病院から呼び出しを受けた方、病院から待機指示があった方 ※上記以外の方（お見舞い、入院中の荷物運搬等）は割引対象外となります。 ※入院中の自家用車の駐車はご遠慮ください。
 
 
 
 
-You can use the following methods for payment: ・Cash (only cash from 10 yen coins to 1,000 yen bills) ・Various credit cards (JCB, VISA, Master, American Express, Diners) ・Transportation electronic money (Suica, PASMO, Kitaca, TOICA, ICOCA, SUGOCA, nimoca, Hayakaken, manaca) ・Distribution electronic money (Rakuten Edy, nanaco, waon)
+お支払いには、下記の方法がご利用いただけます。 ・現金（10円硬貨～1,000円札までの現金のみ） ・各種クレジットカード（JCB、VISA、Master、American Express、Diners） ・交通系電子マネー（Suica、PASMO、Kitaca、TOICA、ICOCA、SUGOCA、nimoca、はやかけん、manaca） ・流通系電子マネー（楽天Edy、nanaco、waon)
 
 
 
 
-### About discount procedures
+### 割引手続きについて
 
 
 
 
-Please present your parking ticket at the 1st floor general information desk or disaster prevention center reception. If you are visiting a doctor, please also present your receipt.
+１階総合案内または防災センター受付にて駐車券をご提示ください。 受診の場合は領収証のご提示も併せてお願いいたします。
 
 
 
 
-## About bicycle/motorcycle (motorcycles, motorized bicycles, etc.) storage areas
+## 自転車・バイク（自動二輪車・原動機付自転車等）置き場について
 
 
 
 
-There is a bicycle parking lot exclusively for visitors. Please refrain from parking your bicycle if you are not using the hospital.
+来院者様専用駐輪場がございます。当院にご用のない方の駐輪はご遠慮ください。
 
 
 
 
-- If you are coming by bicycle, please use the bicycle parking lot on our hospital premises.
-- If you are coming by motorcycle, please use the parking space available in our hospital parking lot. (for about 10 cars)
+- 自転車でお越しの方は当院敷地内駐輪場をご利用ください。
+- バイクでお越しの方は当院駐車場内に駐車スペースがございますのでご利用ください。（約10台分）
