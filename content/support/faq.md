@@ -1,127 +1,127 @@
 ---
 title: "Frequently Asked Questions (FAQ)"
-description: "- About the first consultation"
+description: "- 初診について"
 ---
 
-- About the first consultation
-- About reservations
-- About medical treatment
-- About accounting
-- About the facility
-- others
+- 初診について
+- 予約について
+- 診療について
+- 会計について
+- 施設について
+- その他
 
-## About the first consultation
+## 初診について
 
-QUESTION This is my first time visiting a doctor, what should I do?
+QUESTION 初めて受診しますが、どうすればよいですか。
 
-ANSWER Anyone can visit our hospital. If you are visiting our clinic for the first time, please bring a referral letter from your local primary care physician.
+ANSWER 当院は、 どなたでも受診いただけます 。 当院を初めて受診される方は、地域のかかりつけ医からの紹介状をご持参ください。
 
-QUESTION Can I see a doctor without a referral letter?
+QUESTION 紹介状がないと受診できませんか。
 
-ANSWER As a general rule, if you are visiting us for the first time, please bring a letter of introduction (medical information form) with you. If you do not have a referral letter, you will be required to pay a selected treatment fee of 7,700 yen at the time of your first visit. For details on how to receive a medical examination, etc., please see the [Outpatient Medical Examination] page. Please note that depending on the department, you may not be able to see the patient without a referral letter, so please contact each department for details.
+ANSWER 原則、初診の方は紹介状（診療情報提供書）をお持ちください。紹介状をお持ちでない方には、初診時選定療養費7,700円をお支払いいただいております。 受診方法等、詳細は 【外来で受診】 ページよりご確認ください。 なお、 診療科によっては、紹介状がないと受診出来ない場合があります ので、詳細は各診療科にお問い合わせください。
 
-QUESTION What is the medical treatment fee selected at the time of initial consultation?
+QUESTION 初診時選定療養費とは何ですか？
 
-ANSWER Based on the national policy that ``initial medical treatment should be performed at local clinics, and advanced/specialized medical care should be provided at hospitals,'' this system was established with the aim of making appropriate use of clinics and hospitals.If you are seen for the first time at a ``hospital with 200 or more beds'' without a referral letter from another medical institution, a special fee will be collected in addition to the medical fee. At our hospital, based on our policy of contributing to the enhancement of local medical care, we work closely with primary care physicians to provide high-quality medical care tailored to each patient's role.As a general rule, we require a letter of introduction for first-time patients. For details, please refer to [About priority medical institutions for referrals].
+ANSWER 「初期の診療は地域の診療所で行い、高度・専門的医療は病院で行う」という国の方針により、診療所と病院を適切に使い分けることを目的として制定された制度に基づき、「200床以上の病院」に他の医療機関から紹介状なしに初診で受診した場合は、診療費の他に特別の料金として徴収する費用のことです。 当院では、地域医療の充実に貢献する方針のもと、かかりつけ医との連携を密にして役割に応じた質の高い医療を提供するため、原則として初診の方は紹介状が必要です。詳細は 【紹介受診重点医療機関について】 をご参照ください。
 
-QUESTION In any case, if I do not have a letter of introduction, will I be eligible for the treatment fee selected at the time of the first consultation?
+QUESTION いかなる場合でも、紹介状がないと初診時選定療養費の対象となりますか？
 
-ANSWER According to the regulations of the Ministry of Health, Labor and Welfare, the following cases are not covered. ●Those who were transported by ambulance ●Those who were admitted to the emergency hospital after visiting an outpatient clinic ●Those who were instructed to undergo a detailed examination based on the results of a specific health checkup, cancer screening, etc. ●Those who receive medical assistance under the Public Assistance Act or those who are eligible for various public funding systems due to specific diseases or injuries (excluding subsidy systems for infant medical care, medical care for single-parent families, and child medical care) ●Those who receive medical treatment due to work-related accidents or public-duty accidents ●Those who are visiting our hospital's obstetrics and gynecology department for the first time with the chief complaint of pregnancy.
+ANSWER 厚生労働省の定めにより、以下の場合に対象外となります。 ●救急車で搬送された方 ●外来受診後に緊急入院された方 ●特定健康診査、がん検診等の結果により精密検査受診の指示を受けた患者 ●生活保護法の医療扶助を受けている方や特定の疾病や傷害等により各種公費制度の受給対象となっている方（乳幼児医療・ひとり親家庭等医療・子ども医療の助成制度は除く） ●労働災害、公務災害で受診される方 ●「妊娠」を主訴に当院の産婦人科を初めて受診される方
 
-QUESTION What time in the morning does the hospital open?
+QUESTION 病院は、朝何時から開いていますか？
 
-ANSWER We are open from 7:30am. Patients who have had their first or last visit for three months can register at reception desk ➂➃ on the 1st floor from 8:00 a.m.
+ANSWER 午前7時30分から開いています。初めての受診や最終受診から3か月経過した患者さんは、午前8時00分から1階受付窓口➂➃で受付ができます。
 
-QUESTION What should I do if I want to see a different department?
+QUESTION 今までと違う診療科に受診したいがどうしたらいいか？
 
-ANSWER If it has not been 3 months since your last visit to the department you previously visited, you can use the re-examination reception machine to select a new department. Please note that depending on the department, you may not be able to see the patient without a referral letter, so please contact each department for details.
+ANSWER 今まで受診していた科の最終受診から3か月経過していない患者さんは、再診受付機で新たに診察したい科を選択できます。なお、診療科によっては、紹介状がないと受診出来ない科がありますので、詳細は各診療科にお問い合わせください。
 
-## About reservations
+## 予約について
 
-QUESTION Can I see the doctor without a reservation?
+QUESTION 予約がないと受診できないのでしょうか。
 
-ANSWER Even if you do not have a reservation in advance, you can still visit the clinic, but some departments may not be open depending on the day of the week or time, so please refer to the [Clinical Department/Department Information] page on our hospital website.
+ANSWER 事前にご予約がない場合でも、受診は可能ですが、診療科によっては、曜日ならびに時間によって受診が出来ない診療科もございますので、当院ホームページの 【診療科・部門のご案内】 からご参照ください。
 
-QUESTION If I want to see a doctor for the first time, how can I make a reservation?
+QUESTION 初めて受診をしたい場合、予約はどのような方法でできるのですか。
 
-ANSWER We do not accept reservations for first-time patients. However, if you have a referral letter, we will accept reservations for your first visit by phone. For details, please refer to [For first-time patients]. Medical Cooperation Office: 03-5343-5760 Reception hours: (Monday) to (Friday) 9:00 to 17:00, (Saturday) 9:00 to 12:00 *Morning only
+ANSWER 初めて受診される方のご予約は、お受けしておりません。ただし、紹介状をお持ちの方の初診は、お電話でのご予約をお受けしております。詳細は 【初めて受診される方へ】 をご参照ください。 医療連携室：03-5343-5760 受付時間：休診日を除く　（月）～（金）9:00～17:00、（土）9:00～12:00※午前中のみ
 
-QUESTION Is it possible to change or cancel my medical reservation?
+QUESTION 診療予約の変更や取り消しは可能でしょうか。
 
-ANSWER We accept reservations at the re-examination reservation center. For details, please refer to [For those returning to the hospital]. Re-examination reservation center: 03-5343-5620, 03-5343-5621 Reception hours: 8:15-17:00 except on closed days
+ANSWER 再診予約センターにてお受けしております。詳細は 【再診の皆さまへ】 をご参照ください。 再診予約センター：03-5343-5620、03-5343-5621 受付時間：休診日を除く　8:15～17:00
 
-QUESTION What should I do if I want to make a reservation for a medical checkup or change my reservation?
+QUESTION 【人間ドック】 の予約を取りたい、予約の変更をしたい場合はどうしたらよいでしょうか。
 
-ANSWER We accept reservations and changes to reservations at the Preventive Medicine Center. Preventive Medicine Center: 03-5343-5750 Reception hours: 13:00-16:30, excluding closed days
+ANSWER 予防医学センターにてご予約・ご予約の変更を承っております。 予防医学センター：03-5343-5750 受付時間：休診日を除く　13:00～16:30
 
-## About medical treatment
+## 診療について
 
-QUESTION I have a referral letter from another medical institution, how should I seek treatment?
+QUESTION 他の医療機関の紹介状を持っていますが、どのように受診したらよいのでしょうか。
 
-ANSWER Please present your My Number card (insurance card) at the reception counter ➂➃ on the 1st floor.
+ANSWER 1階の受付窓口➂➃でマイナンバーカード（保険証）と一緒に提示し、受付してください。
 
-QUESTION I want to be hospitalized, but what should I do?
+QUESTION 入院したいが、どのようにすればよろしいのでしょうか。
 
-ANSWER If you are examined at the outpatient clinic and it is determined that hospitalization is necessary, you will be required to apply for hospitalization under the instructions of your doctor.
+ANSWER 外来で受診していただき、入院が必要と判断されれば、医師の指示により入院の申し込み手続きをしていただくことになります。
 
-QUESTION When I go through the hospitalization procedure, do I need to register for a re-examination?
+QUESTION 入院手続きをする場合、再診の受付をする必要がありますか？
 
-ANSWER There is no need to register for a re-examination; please go directly to the admission/discharge section.
+ANSWER 再診の受付は必要なく、直接入退院係で手続きをして下さい。
 
-## About accounting
+## 会計について
 
-QUESTION Can I use a credit card at checkout?
+QUESTION 会計時にクレジットカードは使用できますか。
 
-ANSWER You can pay by credit card (inpatient/outpatient) using the automatic payment machine. Acceptable cards are JCB, VISA, Master, American Express, and Debit cards. A PIN number is required when paying by credit card. *ATM is located inside Natural Lawson on the 1st floor of the main building.
+ANSWER 自動支払機でクレジットカードの会計（入院・外来）支払ができます。 ご利用可能なカードは、JCB、VISA、Master、American Express、Diners Club International、DC、Debit カードの各カードです。クレジットカード支払の際、暗証番号が必要となります。 ＊ATMは、本館1階ナチュラル・ローソン内に設置しております。
 
-QUESTION Please tell me the cost of a 4-bed room, private room, or special room.
+QUESTION 4床室・個室・特別室の費用を教えてください。
 
-ANSWER The room charge difference varies depending on the room type. For more information, please see [Hospital Room Information].
+ANSWER 室料差額はお部屋のタイプによって異なります。詳しくは、 【病室のご案内】 をご確認ください。
 
-QUESTION Where can I find out the charges for hospitalization?
+QUESTION 入院の料金は何処に聞けば分かりますか？
 
-ANSWER Approximate prices can be found at counter number 2 at reception.
+ANSWER 受付の2番窓口で概ねの料金は分かります。
 
-QUESTION Are all patients eligible for DPC?
+QUESTION すべての患者さんがDPCの対象となりますか？
 
-ANSWER This is applicable when the attending physician determines that the patient's illness falls under a classification called ``diagnostic group classification,'' which is classified based on the disease and condition and the type of treatment such as surgery (treatment). However, depending on the insurance system used (free medical treatment, workers' compensation insurance, compulsory automobile liability insurance, etc.), the DPC may not apply.
+ANSWER 病気と病状を基に、手術（処置）などの治療内容に応じて分類された『診断群分類』と呼ばれる区分に、患者さんのご病気が該当すると主治医が判断した場合に対象となります。ただし、利用されている保険制度（自由診療、労災保険、自賠責保険等）によってはDPCの対象外となります。
 
-QUESTION How will the patient co-payment amount change?
+QUESTION 患者自己負担額は、どのように変わりますか？
 
-ANSWER The patient's co-payment will be based on the percentage stated on their insurance card.
+ANSWER 患者さんの一部負担金の支払いは、保険証に記載されている負担割合となります。
 
-QUESTION How will high-cost medical expenses be handled?
+QUESTION 高額療養費の扱いは、どのようになりますか？
 
-ANSWER It will remain the same as before. Additionally, the handling of "Certificate of Limit Application" will remain the same as before.
+ANSWER 従来どおりとなります。また、「限度額適用認定証」のお取り扱いについても従来どおりとなります。
 
-## About the facility
+## 施設について
 
-QUESTION Is there a parking lot?
+QUESTION 駐車場はありますか。
 
-ANSWER We have an outdoor parking lot that can accommodate 84 cars. General fee: 200 yen/30 minutes, patient fee: 100 yen/30 minutes.
+ANSWER 84台の駐車可能な屋外駐車場がございます。 一般料金：200円/30分　受診者料金：100円/30分です。
 
-QUESTION Is there a cafe or restaurant within the hospital?
+QUESTION 病院内に喫茶、レストランはありますか。
 
-ANSWER There is Natural Lawson on the 1st floor of the main building, Tully's on the 2nd floor of the main building, and restaurant "Ikoi" on the 9th floor of the main building.
+ANSWER 本館1階にナチュラルローソン、本館2階にタリーズ、本館9階にレストラン「憩」がございます。
 
-QUESTION Is smoking allowed in the hospital?
+QUESTION 病院内は禁煙ですか。
 
-ANSWER Smoking is completely prohibited within the hospital facilities and grounds.
+ANSWER 病院施設内ならびに敷地内は全面禁煙です。
 
-QUESTION Can I use a mobile phone in the hospital?
+QUESTION 病院内で携帯電話は使えますか。
 
-ANSWER Please use mobile phones in designated areas. For details, please refer to [About the use of mobile phones and smartphones].
+ANSWER 携帯電話使用可能指定エリアで、ご使用ください。詳細は 【携帯電話・スマートフォンの使用について】 をご参照ください。
 
-## others
+## その他
 
-QUESTION Please tell me the visiting hours.
+QUESTION お見舞い・面会時間を教えてください。
 
-ANSWER From Monday to Sunday (including holidays) from 3:00 pm to 7:00 pm. For details, please refer to [For those visiting].
+ANSWER 月曜日～日曜日（祝日を含む）午後3時～午後7時までとなっております。詳細は 【お見舞いの方へ】 をご参照ください。
 
-QUESTION Can I call a taxi?
+QUESTION タクシーは呼べますか。
 
-ANSWER "Tokyo Musen Group" taxis are waiting. It is also possible to make a call using a dedicated phone, but a call fee (400 yen) is required.
+ANSWER 「東京無線グループ」タクシーが待機しております。 また、専用電話で呼び出しも可能ですが、呼び出し料金（400円）が必要となっています。
 
-QUESTION How does Tokyo Police Hospital handle personal information protection?
+QUESTION 東京警察病院では、個人情報保護についてどのように対応していますか。
 
-ANSWER Personal information is protected in accordance with the Personal Information Protection Act. For more information, please see [Privacy Policy].
+ANSWER 個人情報保護法に基づき、個人情報を保護しております。詳しくは、 【個人情報保護方針】 をご覧ください。
